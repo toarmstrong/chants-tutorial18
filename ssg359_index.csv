@@ -1,4 +1,4 @@
-Page, Text, Feast, Genre, Section, rubric
+Page, Text, Feast, Genre, Section, Rubric
 37, In Primo CA III Cantu, Nativitas Domini/Christmas Day/Dec. 25, title,,
 37, Dns dixit ad me, Christmas Day, introit, ,A
 38, Tecum principium in die virtutis tuae in splendoribus sanctorum ex utero ante luciferum genui te, Christmas Day, graduale,, RG
@@ -15,12 +15,22 @@ Page, Text, Feast, Genre, Section, rubric
 39, Dominus regnavit decorem induit dominus fortitudine & precinxit se virtute, Christmas Day, alleluia, verse,
 39, Ds enim firmavit, Christmas Day, offertory,,AD OF
 39, Exsulta filia, Christmas Day, communion,, AD CO
+39, In Die Nativitatis Dni Sta Ad Scm Petrum, Christmas Day, title, ,
+39, Puer natus est nobis, Christmas Day, introit, ,A
+39, Cantate dno II, Christmas Day, psalm, , PS
+39, Notum fecit, Christmas Day, responsory, , AD R
+40, Viderunt omnes fines terrae salutare dei nostri iubilate deo omnis terra, Christmas Day, graduale, ,RG
+40, Notum fecit dominus salutare suum ante conspectum gentium revelavit iustitiam suam, Christmas Day, graduale, verse, V
+40, Alleluia, Christmas Day, alleluia, ,
+40, Dies sanctificatus illuxit nobis venite gentes & adorate dominum quia hodie descendit lux magna super terram, Christmas Day, alleluia, verse, 
+40, Tui sunt caeli, Christmas Day, offertory, ,OF
+40, Viderunt oms, Christmas Day, communion, ,AD CO
 40, Innati S Stephani,  Stephani/St. Stephen/Dec. 26, title, ,
 40, Et enim sederunt principes, St. Stephen, introit, ,A
-41, Sederunt principes & adversum me loquebantur & iniqui perfecuti sunt me, St. Stephen, graduale, , R[G]
-41, Adiuv[a] me domine deus meus saluum me fac propter misericordam tuam, St. Stephen, graduale, verse, V
+41, Sederunt principes & adversum me loquebantur & iniqui perfecuti sunt me, St. Stephen, graduale, , RG
+41, Adiuva me domine deus meus saluum me fac propter misericordam tuam, St. Stephen, graduale, verse, V
 41, Alleluia, St. Stephen, alleluia, ,
-41, Video caelos apertos & IHCYM stantem adextris virtutis dei[?], St. Stephen, alleluia, verse,
+41, Video caelos apertos & IHCYM stantem adextris virtutis dei, St. Stephen, alleluia, verse,
 41, In virtute tua d, St. Stephen, offertory, 1, OF
 41, Elegerunt apti, St. Stephen, offerory, 2, OF
-41, Video caelos, St. Stephen, communion, , AD CM
+41, Video caelos, St. Stephen, communion, , AD CO
