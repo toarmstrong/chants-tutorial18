@@ -12,9 +12,9 @@
   - Create or conceive new tools (like the neume-picker) that will make this process more efficient and accurate
 - Add to our edition – complete Christmas Day and at least five more feast days for Einsiedeln 121 (by the semester’s end), with comparisons in SG359
   - Determine which feasts in particular will provide the most provocative comparisons, and complete those (semester & beyond)
-- Research other manuscripts that would be appropriate to compare to <a href="http://cantus.uwaterloo.ca/source/123779">EN121</a> and <a href="http://cantus.uwaterloo.ca/source/672485">SG359</a> such as St Gallen 339 – for future chanters
+- Research other manuscripts that would be appropriate to compare to EN121 and SG359 such as St Gallen 339 – for future chanters
 - Make adjustments according to suggestions from ICMS and DH – updating the URN system (using Hesbert numbers; breaking passages down by genre, not numbers), conventions for noting episema
-- Make use of the Cantus EN121 and SG359 text data available
+- Make use of the Cantus <a href="http://cantus.uwaterloo.ca/source/123779">EN121</a> and <a href="http://cantus.uwaterloo.ca/source/672485">SG359</a> text data available
 - Add to and improve documentation and methodology texts 
 ## Extended goals
 ### Personal:
