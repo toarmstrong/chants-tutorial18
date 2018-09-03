@@ -3,7 +3,7 @@
 - Gain a better understanding of the meaning and value of a multitext edition through academic research and practical application, especially as it applies to chant 
 - Learn from a broad range of digital humanities (particularly musicological) projects to understand the nuance of our own
   - Create a comprehensive review of digital humanities projects working on St. Gall notation beginning with materials developed for ICMS and DH2018
-  -Understand the history of editions from manuscript to facsimile to digital
+  - Understand the history of editions from manuscript to facsimile to digital
 - Learn XML more comprehensively (i.e. beyond the tags needed for Einsiedeln 121 so far)
 ### Practical goals for the Chant project:
 - Improve the workflow for editing chant – what is the most accurate and efficient method for recording neumes? 
