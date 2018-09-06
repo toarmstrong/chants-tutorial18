@@ -1,0 +1,3205 @@
+000	00	Ru	 DOM V ANTE Nat Dni
+000	01	In	 Dicit dominus ego cogito	R
+000	02	InP	Deus venerunt	R
+000	03	Gr	 Timebunt gentes	R
+000	04	GrV	Quoniam elevata est magnificientia	R
+000	05	Al	 All. Memento nostri domine	R
+000	06	Of	 De profundis	R
+000	07	Of	 Audi israhel ecce venio	R
+000	08	Cm	 Amen dico vobis quidquid	R
+001	00	Ru	 Dom I Adv
+001	01	In	 Ad te levavi animam meam	RB KS
+001	02	InP	Vias tuas	RB KS
+001	03	Gr	 Universi qui te expectant	MRB KS
+001	04	GrV	Vias tuas domine notas	MRB KS
+001	05	Al	 All. Ostende nobis domine	MRB KS
+001	06	Of	 Ad te domine levavi	RB KS
+001	07	OfV	Dirige me in veritate	B	S
+001	08	OfV	Respice in me miserere mei	B	S
+001	09	Cm	 Dominus dabit benignitatem	RB KS
+001	10	CmP	Benedixisti	B KS
+002	00	Ru	 Dom II Adv
+002	01	In	 Populus sion ecce dominus veniet	RB KS
+002	02	InP	Qui regis israhel intende	RB KS
+002	03	Gr	 Ex sion species decoris	MRB KS
+002	04	GrV	Congregate illic sanctos eius	MRB KS
+002	05	Al	 All. Letatus sum	MRB KS
+002	06	AlV	Stantes erant	S
+002	07	Of	 Deus tu convertens /-sus	RB KS
+002	08	OfV	Benedixisti	B	S
+002	09	OfV	Misericordia et veritas	B	S
+002	10	OfV	Veritas de terra	B
+002	11	Cm	 Ierusalem surge et sta in excelso	RB KS
+002	12	CmP	Qui regis israhel	B
+002	13	CmP	Lauda ierusalem dominum	K
+003	00	Ru	 S Luciae
+003	01	In	 Dilexisti iusticiam	RB KS
+003	02	InP	Eructavit cor meum	RB KS
+003	03	Gr	 Dilexisti iustitiam	MRB KS
+003	04	GrV	Propterea unxit te deus	MRB KS
+003	05	Al	 All. Specie tua	R
+003	06	Al	 All. Diffusa est gratia	KS
+003	07	Of	 Offerentur regi virgines	RBCKS
+003	08	OfV	Eructavit cor meum	BC S
+003	09	OfV	Speciem tuam	B
+003	10	OfV	Diffusa est gratia	C
+003	11	OfV	Adducentur in letitia	S
+003	12	Cm	 Diffusa est gratia	RBCKS
+003	13	CmP	Eructavit cor meum	BC
+003	14	CmP	Propter veritatem	KS
+003	15	CmR	Specie tua	C
+004	00	Ru	 Dom III Adv
+004	01	In	 Gaudete in domino semper	RBCKS
+004	02	InP	Benedixisti	RBCKS
+004	03	InR	Ostende nobis	C
+004	04	Gr	 Qui sedes domine super	MRBCKS
+004	05	GrV	Qui regis israhel intende	MRBCKS
+004	06	Al	 All. Excita domine potentiam	MRBCKS
+004	07	Of	 Benedixisti	RBCKS
+004	08	OfV	Operuisti omnia	BC S
+004	09	OfV	Ostende nobis domine	BC S
+004	10	Cm	 Dicite pusillamini	RBCKS
+004	11	CmP	Benedixisti	BC
+004	12	CmP	Deus manifeste veniet	KS
+004	13	CmR	Ostende nobis	C
+005	00	Ru	 Fer IV Q T Adv
+005	01	In	 Rorate celi desuper	RBCKS
+005	02	InP	Celi enarrant	RBCKS
+005	03	InR	In sole posuit	C
+005	04	Gr	 Tollite portas	MRBCKS
+005	05	GrV	Quis ascendet in	MRBCKS
+005	06	Gr	 Prope est dominus	BCKS
+005	07	GrV	Laudem domini loquetur	BCKS
+005	08	Of	 Confortamini et iam nolite timere	RBCKS
+005	09	OfV	Tunc aperientur oculi	BC S
+005	10	OfV	Audite itaque	BC S
+005	11	Of	 Ave maria gratia plena	B KS
+005	12	OfV	Quomodo in me fiet hoc	B	S
+005	13	OfV	Ideoque quod nascitur	B	S
+005	14	Cm	 Ecce virgo concipiet	RBCKS
+005	15	CmP	Celi enarrant	BC S
+005	16	CmP	Exultavit et gigans	K
+005	17	CmR	In sole posuit	C
+006	00	Ru	 Fer VI Q T Adv
+006	01	In	 Prope esto domine	BCKS
+006	02	InP	Beati immaculati	BCKS
+006	03	InR	Tu mandasti	C
+006	04	Gr	 Ostende nobis domine	M BCKS
+006	05	GrV	Benedixisti	M BCKS
+006	06	Of	 Deus tu convertens /-sus	BCKS
+006	07	OfV	Benedixisti	C
+006	08	OfV	Misericordia et veritas	C
+006	09	Cm	 Ecce dominus veniet	BCKS
+006	10	CmP	Beati immaculati	BC S
+006	11	CmP	A solis ortu	K
+006	12	CmR	Tu mandasti	C
+007	00	Ru	 Sab Q T Adv
+007	01	In	 Veni et ostende nobis faciem	RBCKS
+007	02	InP	Qui regis	RBCKS
+007	03	InR	Excita domine	C S
+007	04	Gr	 A summo celo	MRBCKS
+007	05	GrV	Celi enarrant	MRBCKS
+007	06	Gr	 In sole posuit tabernaculum	MRBCKS
+007	07	GrV	A summo celo	MRBCKS
+007	08	Gr	 Domine deus virtutum	M BCKS
+007	09	GrV	Excita domine potentiam	M BCKS
+007	10	Gr	 Excita domine potentiam	RBCKS
+007	11	GrV	Domine deus virtutum converte	R
+007	12	GrV	Qui regis israhel	BCKS
+007	13	Tc	 Qui regis israhel	MR CKS
+007	14	Of	 Exulta satis filia sion	RBCKS
+007	15	OfV	Loquetur pacem gentes	BC S
+007	16	OfV	Quia convenio / ecce venio et habitabo	B	S
+007	17	Cm	 Exultavit ut gigans	RBCKS
+007	18	CmP	In sole posuit	B
+007	20	CmP	Celi enarrant	C S
+007	21	CmP	Nec est qui se abscondat	K
+007	22	CmR	Non est qui se abscondit	S
+007.2	00	Ru	 Dom IV Adv
+007.2	01	In	 Veni et ostende nobis faciem	R
+007.2	02	In	 Memento nostri domine in beneplacito	C
+007.2	03	In	 Rorate celi desuper	S
+007.2	04	InP	Qui regis israhel intende	R
+007.2	05	InP	Confitemini	C
+007.2	06	InP	Celi enarrant	S
+007.2	07	InR	Quis loquetur	C
+007.2	08	Gr	 A summo celo	R
+007.2	09	Gr	 Prope est dominus	C S
+007.2	10	GrV	Celi enarrant	R
+007.2	11	GrV	Laudem domini loquetur	C S
+007.2	12	Al	 All. Veni domine et noli tardare	C S
+007.2	13	Of	 Exulta satis filia sion	R
+007.2	14	Of	 Ave maria gratia plena	C S
+007.2	15	OfV	Quomodo in me fiet	C S
+007.2	16	OfV	Ideoque quod nascetur	C S
+007.2	17	Cm	 Exultavit ut gigans	R
+007.2	18	Cm	 Ecce virgo concipiet	C S
+008	00	Ru	 Vig Nat Dni
+008	01	In	 Hodie scietis quia veniet dominus	RBCKS
+008	02	InP	Domini est terra	RBCKS
+008	03	InR	Ipse super maria	C S
+008	04	Gr	 Hodie scietis quia veniet dominus	MRBCKS
+008	05	GrV	Qui regis israhel	MRBCKS
+008	06	Al	 All. Crastina die	S
+008	07	Of	 Tollite portas principes	RBCKS
+008	08	OfV	Domini est terra	BC S
+008	09	OfV	Ipse super maria fundavit	C S
+008	10	Cm	 Revelabitur gloria domini	RBCKS
+008	11	CmP	Domini est terra	BCK
+008	12	CmP	Iubilate deo omnis terra	S
+008	13	CmR	Psallite domino	S
+009	00	Ru	 Nat Dni 1
+009	01	In	 Dominus dixit ad me	RBCKS
+009	02	InP	Quare fremuerunt gentes	RBCKS
+009	03	InR	Astiterunt	S
+009	04	Gr	 Tecum principium	MRBCKS
+009	05	GrV	Dixit dominus	MRBCKS
+009	06	Al	 All. Dominus dixit ad me	MRBCKS
+009	07	Of	 Letentur caeli	RBCKS
+009	08	OfV	Cantate domino canticum novum	BC S
+009	09	OfV	Confessio et pulchritudo	B
+009	10	OfV	Cantate domino benedicte nomini	C S
+009	11	Cm	 In splendoribus sanctorum	RBCKS
+009	12	CmP	Dixit dominus domino meo	B KS
+009	13	CmR	Tecum principium	B	S
+010	00	Ru	 Nat Dni 2
+010	01	In	 Lux fulgebit hodie	RBCKS
+010	02	InP	Dominus regnavit	RBCKS
+010	03	InR	Parata sedes	C S
+010	04	Gr	 Benedictus qui venit	MRBCKS
+010	05	GrV	A domino factum est	MRBCKS
+010	06	Al	 All. Dominus regnavit decorem	MRBCKS
+010	07	Of	 Deus enim firmavit	RBCKS
+010	08	OfV	Dominus regnavit decorem	BC S
+010	09	OfV	Mirabilis in altis / excelsis dominus	BC S
+010	10	Cm	 Exulta filia sion lauda	RBCKS
+010	11	CmP	Dominus regnavit decore	BC
+010	12	CmP	Lauda Ierusalem	S
+010	13	CmR	Quoniam confortavit	S
+011	00	Ru	 Nat Dni 3
+011	01	In	 Puer natus est nobis	RBCKS
+011	02	InP	Cantate domino (II / quia)	RBCKS
+011	03	InR	Notum fecit	C S
+011	04	Gr	 Viderunt omnes fines	MRBCKS
+011	05	GrV	Notum fecit dominus salutare	MRBCKS
+011	06	Al	 All. Dies sanctificatus	MRBCKS
+011	07	Of	 Tui sunt celi	RBCKS
+011	08	OfV	Magnus et metuendus super	BC S
+011	09	OfV	Misericordia et veritas	BC S
+011	10	OfV	Tu humiliasti sicut vulneram	BC S
+011	11	Cm	 Viderunt omnes fines	RBCKS
+011	12	CmP	Cantate domino	B
+011	13	CmP	Salvavit sibi	KS
+011	14	CmR	Recordatus est	S
+012	00	Ru	 S Stephani
+012	01	In	 Etenim sederunt principes	RBCKS
+012	02	InP	Beati immaculati	RBCKS
+012	03	InR	Iustificationes tuas	C S
+012	04	Gr	 Sederunt principes	MRBCKS
+012	05	GrV	Adiuva me	MRBCKS
+012	06	Al	 All. Video celos apertos	MRBCKS
+012	07	Of	 In virtute tua	RBCKS
+012	08	OfV	Vitam petiit	BC S
+012	09	OfV	Magna est gloria eius	BC S
+012	10	Cm	 Video celos apertos	RBCKS
+012	11	CmP	Beati immaculati	B
+012	12	CmP	Confundantur superbi	KS
+012	13	CmR	Me expectaverunt	S
+013	00	Ru	 S Joannis Ev 1
+013	01	In	 Ego autem sicut oliva	BCKS
+013	02	InP	Quid gloriaris	BC
+013	03	InP	Bonum est confiteri	KS
+013	04	InR	Quid gloriaris	S
+013	05	Gr	 Iustus ut palma florebit	M BCKS
+013	06	GrV	Ad annuntiandum	M	CKS
+013	07	GrV	Bonum est confiteri	B
+013	08	Of	 Gloria et honore	BCKS
+013	09	OfV	Domine dominus noster	BC S
+013	10	OfV	Quid est homo	BC S
+013	11	Cm	 Magna est gloria eius	BCKS
+013	12	CmP	Domine in virtute tua	BCKS
+013	13	CmR	Quoniam prevenisti eum	S
+014	00	Ru	 S Joannis Ev 2
+014	01	In	 In medio ecclesiae aperuit	RBCKS
+014	02	InP	Bonum est confiteri	RBCKS
+014	03	InR	Iustus ut palma	C S
+014	04	Gr	 Exiit sermo inter fratres	M BCKS
+014	05	Gr	 Domine prevenisti	R
+014	06	GrV	Sed sic eum volo	M BCKS
+014	07	GrV	Et vitam petiit a te	R
+014	08	Al	 All. Hic est discipulus	MRBCKS
+014	09	Of	 Iustus ut palma	RBCKS
+014	10	OfV	Bonum est confiteri	BC S
+014	11	OfV	Ad annuntiandum	BC S
+014	12	OfV	Plantati/us in domo domini	BC S
+014	13	Cm	 Exiit sermo inter fratres	RBCKS
+014	14	CmP	Bonum est	BC
+014	15	CmP	Manus enim mea	S
+014	16	CmR	Et veritas mea	S
+015	00	Ru	 Nat Innocent
+015	01	In	 Ex ore infantium	RBCKS
+015	02	InP	Domine dominus noster	RBCKS
+015	03	InR	Quoniam elevata est	S
+015	04	Gr	 Anima nostra	MRBCKS
+015	05	GrV	Laqueus contritus est	MRBCKS
+015	06	Of	 Anima nostra	RBCKS
+015	07	OfV	Nisi quia / quod	BC S
+015	08	OfV	Torrente pertransivit	BC S
+015	09	Cm	 Vox in rama audita	RBCKS
+015	10	CmP	Domine dominus noster	BC
+015	11	CmP	Effuderunt sanguinem	W
+016	00	Ru	 S Silvestri
+016	01	In	 Sacerdotes tui domine induant iustitiam	BCKS
+016	02	InP	Memento domine david	BCKS
+016	03	InR	Sacerdotes eius	S
+016	04	Gr	 Ecce sacerdos magnus	M BCKS
+016	05	GrV	Non est inventus similis illi	M BCKS
+016	06	Al	 All. Inveni david	M	CKS
+016	07	Of	 Inveni david	BCKS
+016	08	OfV	Potens es domine	BC S
+016	09	OfV	Veritas mea	B	S
+016	10	OfV	Et ponam in saeculum	C
+016	11	Cm	 Beatus servus	BCKS
+016	12	CmP	Memento domine david	B
+016	13	CmP	Os iusti	KS
+016	14	CmR	Lex dei eius in corde	S
+016.2	00	Ru	 Nat S Mariae
+016.2	01	In	 Vultum tuum deprecabuntur	BC
+016.2	02	InP	Eructavit cor meum	BC
+016.2	03	InR	Specie	C
+016.2	04	Gr	 Diffusa est gratia	M BC
+016.2	05	GrV	Propter veritatem	M	C
+016.2	06	GrV	Propterea unxit te deus	B
+016.2	07	Of	 Offerentur regi virgines	BC
+016.2	08	OfV	Eructavit cor meum	C
+016.2	08	OfV	Diffusa est gratia	C
+016.2	09	Cm	 Simile est regnum caelorum	BC
+016.2	10	CmP	Eructavit cor meum	BC
+017	00	Ru	 Dom I p Nat Dni
+017	01	In	 Dum medium silentium tenerent	RBCKS
+017	02	InP	Dominus regnavit decorem	RBCKS
+017	03	InR	Etenim firmavit	C S
+017	04	Gr	 Speciosus forma	MRBCKS
+017	05	GrV	Eructavit cor meum	MRBCKS
+017	06	Al	 All. Dominus regnavit decorem	MRBCKS
+017	07	Of	 Deus enim firmavit	RBCKS
+017	08	Cm	 Tolle/ite puerum & matrem ejus	RBCKS
+017	09	CmP	Dominus regnavit decore	BC
+017	10	CmP	Parata sedes tua	KS
+017	11	CmR	Mirabiles elationes	S
+017.2	00	Ru	 Oct Dni
+017.2	01	In	 Puer natus est nobis	R
+017.2	02	InP	Cantate domino	R
+017.2	03	Gr	 Benedictus qui venit	R
+017.2	04	GrV	A domino factum est	R
+017.2	05	Al	 All. Dominus regnavit decorem	R
+017.2	06	Of	 Tui sunt celi	R
+017.2	07	Cm	 Viderunt omnes fines	R
+018	00	Ru	 Epiphania
+018	01	In	 Ecce advenit dominator dominus	RBCKS
+018	02	InP	Deus iudicium tuum	RB KS
+018	03	InP	Reges tharsis	C
+018	04	InR	Reges tharsis	S
+018	05	Gr	 Omnes de saba venient	MRBCKS
+018	06	GrV	Surge et illuminare	MRBCKS
+018	07	Al	 All. Vidimus stellam eius	MRBCKS
+018	08	Of	 Regis tharsis	RBCKS
+018	09	OfV	Deus iudicium tuum	BC S
+018	10	OfV	Suscipiant montes	BC S
+018	11	OfV	Orietur in diebus	BC S
+018	12	Cm	 Vidimus stellam eius	RBCKS
+018	13	CmP	Deus iudicium tuum	BC
+018	14	CmP	Orietur	KS
+019	00	Ru	 Dom I p Epiph
+019	01	In	 In excelso throno	RBCKS
+019	02	InP	Iubilate deo / domino	RBCKS
+019	03	InR	Intrate / Introite	C S
+019	04	Gr	 Benedictus dominus	MRBCKS
+019	05	GrV	Suscipiant montes pacem	MRBCKS
+019	06	Al	 All. Iubilate deo	MRB KS
+019	07	Of	 Iubilate deo omnis terra	RBCKS
+019	08	OfV	Ipse fecit nos	BC S
+019	09	OfV	Laudate nomen eius	BC S
+019	10	Cm	 Fili quid fecisti	RBCKS
+019	11	CmP	Iubilate deo	BC S
+020	00	Ru	 S Felicis
+020	01	In	 Os iusti meditabitur	BCKS
+020	02	InP	Noli emulari	BCKS
+020	03	InR	Tota die miseretur	S
+020	04	Gr	 Iuravit dominus	M BCKS
+020	05	GrV	Dixit dominus domino meo	M BCKS
+020	06	Al	 All. Disposui testamentum	M	K
+020	07	Al	 All. Inveni david	S
+020	08	Of	 Gloria et honore	BCKS
+020	09	OfV	Domine dominus noster	C
+020	10	OfV	Quid est homo	C
+020	11	Cm	 Posuisti domine	BCKS
+020	12	CmP	Domine in virtute	BCKS
+020	13	CmR	Quoniam prevenisti	S
+021	00	Ru	 Dom II p Epiph
+021	01	In	 Omnis terra adoret te deus	RBCKS
+021	02	InP	Iubilate deo	RBCKS
+021	03	InR	Dicite deo	S
+021	04	Gr	 Misit dominus verbum suum	MRBCKS
+021	05	GrV	Confiteantur	MRBCKS
+021	06	Al	 All. Laudate dominum omnes angeli	MRBCKS
+021	07	Of	 Iubilate deo universa terra	RBCKS
+021	08	OfV	Reddam tibi	BC S
+021	09	OfV	Locutum est os meum	BC S
+021	10	Cm	 Dicit dominus implete	RBCKS
+021	11	CmP	Iubilate deo	BC
+021	12	CmP	Venite et videte	KS
+021	13	CmR	Qui convertit mare	S
+022	00	Ru	 S Marcelli
+022	01	In	 Statuit ei dominus	BCKS
+022	02	InP	Misericordias domini	BCKS
+022	03	InR	Disposui testamentum	C
+022	04	InR	Inveni david	S
+022	05	Gr	 Inveni david	M BCKS
+022	06	GrV	Nihil proficiet	M BCKS
+022	07	Al	 All. Disposui testamentum	M
+022	08	Al	 All. Inveni david	BCKS
+022	09	Of	 Veritas mea	BCKS
+022	10	OfV	Posui adiutorium	BC S
+022	11	OfV	Misericordiam meam	C S
+022	12	Cm	 Domine quinqua talenta	BCKS
+022	13	CmP	Misericordias domini	BC
+022	14	CmP	Os justi	KS
+022	15	CmR	Lex dei ejus	S
+023	00	Ru	 S Priscae
+023	01	In	 Loquebar de testimoniis tuis	BCKS
+023	02	InP	Beati immaculati	BCKS
+023	03	InR	Me expectaverunt	S
+023	04	Gr	 Specie tua	M BCKS
+023	05	GrV	Audi filia	M
+023	06	GrV	Propterea unxit te deus	B
+023	07	GrV	Propter veritatem	CKS
+023	08	Al	 All. Diffusa est gratia	CKS
+023	09	Tc	 Qui seminant in lacrimis	M
+023	10	Of	 Filie regum	BCKS
+023	11	OfV	Eructavit	BC S
+023	12	OfV	Speciem tuam	B
+023	13	OfV	Virga tua (recta) est virga regni	C S
+023	14	Cm	 Feci iudicium	BCKS
+023	15	CmP	Beati immaculati	BC
+023	16	CmP	Declinate a me	KS
+023	17	CmR	Ideo dilexi	S
+023.2	00	Ru	 Nat S Mariae
+023.2	01	In	 Vultum tuum deprecabuntur	S
+023.2	02	InP	Eructavit	S
+023.2	03	InR	Specie tua	S
+023.2	04	Gr	 Diffusa est gratia	S
+023.2	05	GrV	Propter veritatem	S
+023.2	06	Al	 All. Specie tua	S
+023.2	07	Of	 Offerentur regi virgines	S
+023.2	08	OfV	Eructavit	S
+023.2	09	Cm	 Simile est regnum celorum	S
+023.2	10	CmP	Audi filia	S
+023.2	11	CmR	Adducentur regi virgines	S
+024	00	Ru	 SS Fabiani et Sebastiani
+024	01	In	 Intret in conspectu tuo	BCKS
+024	02	InP	Deus venerunt	BCKS
+024	03	InR	Effuderunt	S
+024	04	Gr	 Gloriosus deus	M BCKS
+024	05	GrV	Dextera tua domine	M BCKS
+024	06	Al	 All. Sancti tui domine	M BCKS
+024	07	Al	 All. Mirabilis dominus	C
+024	08	Of	 Letamini in domino	BCKS
+024	09	OfV	Beati quorum	C S
+024	10	OfV	Pro hac orabit	BC S
+024	11	Cm	 Multitudo languentium	BCKS
+024	12	CmP	Deus venerunt	BC
+024	13	CmP	Magnus dominus	KS
+024	14	CmR	Ipsi videntes	S
+025	00	Ru	 S Agnetis 1
+025	01	In	 Me expectaverunt	BCKS
+025	02	InP	Beati immaculati	BCKS
+025	03	InR	Tu mandasti	S
+025	04	Gr	 Diffusa est gratia	M BCKS
+025	05	GrV	Propter veritatem	M	CKS
+025	06	GrV	Propterea unxit	B
+025	07	Al	 All. Specie tua	BC
+025	08	Al	 All. Adducentur	KS
+025	09	Of	 Offerentur regi virgines	BCKS
+025	10	OfV	Eructavit	S
+025	11	OfV	Adducentur regi virgines	S
+025	12	Cm	 Quinque prudentes	BCKS
+025	13	CmP	Beati immaculati	BC
+025	14	CmP	Adducentur regi virgines	K
+026	00	Ru	 Dom III p Epiph
+026	01	In	 Adorate deum omnes angeli	RBCKS
+026	02	InP	Dominus regnavit exultet	RBCKS
+026	03	InR	Annuntiaverunt	S
+026	04	Gr	 Timebunt gentes	M BCKS
+026	05	Gr	 De necessitatibus meis	R
+026	06	GrV	Quoniam edificabit dominus sion	M BCKS
+026	07	GrV	Ad te domine levavi	R
+026	08	Al	 All. Dominus regnavit exultet terra	MR CKS
+026	09	Al	 All. Beatus vir qui timet	B
+026	10	Of	 Dextera domini	RBCKS
+026	11	OfV	In tribulatione invocavi	BC S
+026	12	OfV	Inpulsus versatus sum	BC S
+026	13	Cm	 Mirabantur omnes de his	RBCKS
+026	14	CmP	Dominus regnavit	BC
+026	15	CmP	Illuxerunt fulgora ejus	K
+026.2	00	Ru	 Dom IV p Epiph
+026.2	01	In	 Omnes gentes	R
+026.2	02	InP	Subiecit	R
+026.2	03	Gr	 Quis sicut dominus	R
+026.2	04	Al	 All. Venite exultemus	R
+026.2	05	Of	 Sicut in holocausto	R
+026.2	06	Cm	 Inclina aurem tuam	R
+027	00	Ru	 S. Vincentii
+027	01	In	 Letabitur iustus	BCKS
+027	02	InP	Exaudi deus orationem	BCKS
+027	03	Gr	 Posuisti domine	M BCKS
+027	04	GrV	Desiderium anime	M BCKS
+027	05	Al	 All. Beatus vir qui timet	M BCKS
+027	06	Of	 Gloria et honore	BCKS
+027	07	OfV	Domine dominus noster	B	S
+027	08	OfV	Quid est homo	S
+027	09	Cm	 Qui vult venire	BCKS
+027	10	CmP	Exaudi deus orationem	BC
+027	11	CmP	Venite fili	KS
+027	12	CmR	Quid est homo	S
+028	00	Ru	 S Agnetis 2
+028	01	In	 Vultum tuum deprecabuntur	BCKS
+028	02	InP	Eructavit	B KS
+028	03	Gr	 Specie tua	M BCKS
+028	04	GrV	Audi filia	M
+028	05	GrV	Propterea	B
+028	06	GrV	Propter veritatem	S
+028	07	Al	 All. Diffusa est gratia	BCKS
+028	08	Of	 Diffusa est gratia	BCKS
+028	09	OfV	Eructavit cor meum	C S
+028	10	OfV	Specie tua	C S
+028	11	Cm	 Simile est regnum caelorum	BCKS
+028	12	CmP	Eructavit	B
+028	13	CmP	Audi filia	K
+029	00	Ru	 Purif S Mariae
+029	01	An	 Ave gratia plena (Chaere cecaritomeni)	BCKS
+029	02	An	 Adorna thalamum tuum sion (Chathacosmyso thon)	BCKS
+029	03	An	 Responsum accepit simeon	BC S
+029	04	An	 Suscipiens iesum in ulnis	B
+029	05	In	 Suscepimus deus misericordiam	RBCKS
+029	06	InP	Magnus dominus	RBCKS
+029	07	InR	Sicut audivimus	C S
+029	08	Gr	 Suscepimus deus misericordiam	MRBCKS
+029	09	GrV	Sicut audivimus ita	MRBCKS
+029	10	Al	 All. Adducentur	M
+029	11	Al	 All. Adorabo ad templum	RBCKS
+029	12	Tc	 Iubilate	R
+029	13	Of	 Tollite portas principes	R
+029	14	Of	 Diffusa est gratia	BCKS
+029	15	OfV	Propterea	B
+029	16	OfV	Eructavit	C S
+029	17	OfV	Specie tua	C S
+029	18	Cm	 Responsum accepit simeon	RBCKS
+029	19	CmP	Magnus dominus	B
+029	20	CmP	Nunc dimittis	KS
+030	00	Ru	 S Agathae
+030	01	In	 Gaudeamus / Gaudete omnes in domino	BCKS
+030	02	InP	Eructavit	BC S
+030	03	InR	Specie tua	C
+030	04	Gr	 Adiuvabit eam deus vultus	M BCKS
+030	05	GrV	Fluminis impetus letificat	M BCKS
+030	06	Tc	 Qui seminant in lacrimis	BCKS
+030	07	Of	 Offerentur regi virgines	BCKS
+030	08	OfV	Eructavit	C S
+030	09	OfV	Adducentur regi virgines	C S
+030	10	Cm	 Qui me dignatus est	BCKS
+030	11	CmP	Eructavit	BC
+030	12	CmP	Confitebor domino	K
+030	13	CmP	Confitemini	S
+031	00	Ru	 S Valentini
+031	01	In	 In virtute tua domine	BCKS
+031	02	InP	Domine in virtute tua	BC S
+031	03	InP	Et voluntate labiorum eius	K
+031	04	Gr	 Beatus vir qui timet	M BCKS
+031	05	GrV	Potens in terra erit	M BCKS
+031	06	Tc	 Desiderium	M BCKS
+031	07	Of	 In virtute tua	BCKS
+031	08	OfV	Vitam petiit	S
+031	09	OfV	Magna est gloria eius	S
+031	10	Cm	 Magna est gloria eius	BCKS
+031	11	CmP	Domine in virtute tua	BCK
+031	12	CmP	Quoniam prevenisti eum	S
+031.2	00	Ru	 S Felicis
+031.2	01	Gr	 Iuravit dominus	M
+031.2	02	GrV	Dixit dominus	M
+031.2	03	Tc	 Beatus vir qui timet	M
+031.2	04	Tc	 Qui seminant in lacrimis	M
+032	00	Ru	 S Gregorii
+032	01	In	 Sacerdotes dei benedicite domino	BCKS
+032	02	InP	Benedicite omnia	BCKS
+032	03	Gr	 Iuravit dominus	BCKS
+032	04	GrV	Dixit dominus	BC S
+032	05	Al	 All. Beatus vir qui metuit dominum	S
+032	06	Tc	 Beatus vir qui timet	BCK
+032	07	Of	 Veritas mea	BCKS
+032	08	OfV	Posui adiutorium	S
+032	09	OfV	Misericordia mea	S
+032	10	Cm	 Fidelis servus	BCKS
+032	11	CmP	Benedicite omnia	BC
+032	12	CmP	Memento domine	K
+032	13	CmP	Misericordias	S
+033	00	Ru	 Annunt S Mariae
+033	01	In	 Vultum tuum deprecabuntur	BCK
+033	02	In	 Rorate celi desuper	S
+033	03	InP	Eructavit	BC
+033	04	InP	Celi enarrant	S
+033	05	Gr	 Diffusa est gratia	BCK
+033	06	Gr	 Tollite portas	S
+033	07	GrV	Propterea	B
+033	08	GrV	Propter veritatem	C
+033	09	GrV	Quis ascendet	S
+033	10	Tc	 Qui regis israhel	S
+033	11	Of	 Ave maria gratia plena	BCKS
+033	12	OfV	Quomodo	BC S
+033	13	OfV	Ideo(que) quod nascitur	BC S
+033	14	Cm	 Ecce virgo concipiet	B KS
+033	15	Cm	 Dilexisti iustitiam	C
+033	16	CmP	Eructavit	B
+034	00	Ru	 Dom Septuag
+034	01	In	 Circumdederunt me	RBCKS
+034	02	InP	Diligam te	RBCKS
+034	03	InR	Laudans invocabo	C S
+034	04	Gr	 Adiutor in opportunitatibus	MRBCKS
+034	05	GrV	Quoniam non in finem	MRBCKS
+034	06	Tc	 De profundis	MRBCKS
+034	07	Of	 Bonum est confiteri	RBCKS
+034	08	OfV	Quam magnificata sunt	BC S
+034	09	OfV	Ecce inimici tui	BC S
+034	10	OfV	Exaltabitur	BC S
+034	11	Cm	 Illumina faciem tuam	RBCKS
+034	12	CmP	In te domine speravi	RBCKS
+035	00	Ru	 Dom Sexag
+035	01	In	 Exsurge quare obdormis domine	RBCKS
+035	02	InP	Deus auribus	RBCKS
+035	03	InR	Opus quod	C
+035	04	InR	Quoniam propter te	S
+035	05	Gr	 Sciant gentes	MRBCKS
+035	06	GrV	Deus meus pone illos	M BCKS
+035	07	Tc	 Commovisti domine	M BCKS
+035	08	Of	 Perfice gressus	RBCKS
+035	09	OfV	Exaudi domine iustitiam meam	BC S
+035	10	OfV	Custodi me domine	BC S
+035	11	OfV	Ego autem cum iustitia	BC S
+035	12	Cm	 Introibo ad altare dei	RBCKS
+035	13	CmP	Iudica me deus	BCKS
+035	14	CmR	Spera in deo	S
+036	00	Ru	 Dom Quinquag
+036	01	In	 Esto mihi in deum protectorem	RBCKS
+036	02	InP	In te domine speravi	RBCKS
+036	03	InR	Inclina	C S
+036	04	Gr	 Tu es deus qui facis	MRBCKS
+036	05	GrV	Liberasti	MRBCKS
+036	06	Tc	 Iubilate	MRBCKS
+036	07	Of	 Benedictus es domine doce ... in labiis	RBCKS
+036	08	OfV	Beati immaculati	BC S
+036	09	OfV	In via testimoniorum	BC S
+036	10	OfV	Viam iniquitatis	BC S
+036	11	Cm	 Manducaverunt	RBCKS
+036	12	CmP	Attendite populus meus	BC
+036	13	CmP	Et pluit illis manna	KS
+036	14	CmR	Panem angelorum	S
+037	00	Ru	 Fer IV Cin
+037	01	An	 Exaudi nos domine quoniam benigna est	BCKS
+037	02	AnP	Salvum me fac	BCKS
+037	03	An	 Iuxta vestibulum	BCKS
+037	04	An	 Immutemur habitu	BCKS
+037	05	In	 Misereris omnium domine	BCKS
+037	06	InP	Miserere mei deus	BCKS
+037	07	Gr	 Miserere mei deus	M BCKS
+037	08	GrV	Misit de celo	M BCKS
+037	09	Of	 Exaltabo te domine	BCKS
+037	10	OfV	Domine abstraxisti	BC S
+037	11	OfV	Ego autem dixi	BC S
+037	12	Cm	 Qui meditabitur in lege domine	BCKS
+037	13	CmP	Beatus vir qui non abiit	BCK
+038	00	Ru	 Fer V p Cin
+038	01	In	 Dum clamarem ad dominum	BCKS
+038	02	InP	Exaudi deus	BCKS
+038	03	Gr	 Iacta cogitatum tuum	M BCKS
+038	04	GrV	Dum clamarem	M BCKS
+038	05	Of	 Ad te domine levavi	BCKS
+038	06	OfV	Dirige me	B
+038	07	OfV	Respice in me	B
+038	08	Cm	 Acceptabis sacrificium	BCKS
+038	09	CmP	Miserere mei deus	BCKS
+039	00	Ru	 Fer VI p Cin
+039	01	In	 Audivit dominus	BCKS
+039	02	InP	Exaltabo te	BCKS
+039	03	Gr	 Ad dominum dum tribularer	M
+039	04	GrV	Domine libera animam	M
+039	05	Gr	 Domine refugium	C
+039	06	GrV	Priusquam montes	C
+039	07	Gr	 Unam petii a domino	BCKS
+039	08	GrV	Ut videam voluntatem	BCKS
+039	09	Of	 Domine vivifica me	BCKS
+039	10	OfV	Fac cum servo tuo	BC S
+039	11	OfV	Servus tuus ego da mihi intellectum	B
+039	12	OfV	Da mihi intellectum	C S
+039	13	Cm	 Servite domino in timore	BCKS
+039	14	CmP	Quare fremuerunt	BCKS
+040	00	Ru	 Dom Quad
+040	01	In	 Invocavit me	RBCKS
+040	02	InP	Qui habitat	RBCKS
+040	03	InR	Dicet domino	C
+040	04	Gr	 Angelis suis mandavit	MR CKS
+040	05	GrV	In manibus portabunt	MR CKS
+040	06	Gr	 Tenuisti manum dexteram	B
+040	07	GrV	Quam bonus israhel	B
+040	08	Tc	 Qui habitat in adiutorio	MRBCKS
+040	09	Of	 Scapulis suis obumbravit	RBCKS
+040	10	OfV	Dicet domino susceptor	BC S
+040	11	OfV	Quoniam angelis suis mandavit	BC S
+040	12	OfV	Super aspidem	BC S
+040	13	Cm	 Scapulis suis obumbravit	RBCKS
+040	14	CmP	Qui habitat	BC
+040	15	CmP	Non timebis	S
+041	00	Ru	 Fer II Hebd I Quad
+041	01	In	 Sicut oculi servorum	RBCKS
+041	02	InP	Ad te levavi oculos	BCKS
+041	03	Gr	 Protector noster	MRBCKS
+041	04	GrV	Domine deus virtutem exaudi	MRBCKS
+041	05	Of	 Levabo oculos meos	RBCKS
+041	06	OfV	Legem pone mihi domine	BC S
+041	07	OfV	Veniant (super me) mihi miserationes	BC S
+041	08	Cm	 Vocem mea ad dominum	RBCKS
+041	09	CmP	Domine quid multiplicati	BC S
+041	10	CmP	Tu autem domine susceptor	K
+042	00	Ru	 Fer III Hebd I Quad
+042	01	In	 Domine refugium tu factus	RBCKS
+042	02	InP	Priusquam montes	B KS
+042	03	Gr	 Dirigatur oratio mea	MRBCKS
+042	04	GrV	Elevatio manuum mearum	MRBCKS
+042	05	Of	 In te speravi domine	RBCKS
+042	06	OfV	Illumina faciem tuam	BC S
+042	07	OfV	Quam magna multitudo	BC S
+042	08	Cm	 Cum invocarem te exaudisti	RBCKS
+042	09	CmP	Miserere mei domine	B
+042	10	CmP	Filii hominum	C
+042	11	CmP	Et scitote	S
+043	00	Ru	 Fer IV Q T Quad
+043	01	In	 Reminiscere miserationum tuarum dominum	BCKS
+043	02	InP	Ad te domine levavi	BCKS
+043	03	Gr	 Tribulationes cordis mei	M BCKS
+043	04	GrV	Vide humilitatem meam	M BCKS
+043	05	Gr	 De necessitatibus meis	M BCKS
+043	06	GrV	Ad te domine levavi	M BCKS
+043	07	GrV	Etenim universi qui te	BC S
+043	08	Tc	 Laudate dominum omnes gentes	S
+043	09	Of	 Meditabor in mandatis tuis	BCKS
+043	10	OfV	Pars mea domine dixi	BC S
+043	11	OfV	Deprecatus sum faciem tuam	B
+043	12	OfV	Miserere mei secundum eloquium	C S
+043	13	Cm	 Intellige clamorem meum	BCKS
+043	14	CmP	Verba mea	BC S
+043	15	CmP	Mane exaudies	K
+043	16	CmR	Mane exaudies	S
+044	00	Ru	 Fer V Hebd I Quad
+044	01	In	 Confessio et pulchritudo	BCKS
+044	02	InP	Cantate domino I	BCKS
+044	03	Gr	 Custodi me domine	M BCKS
+044	04	GrV	De vultu tuo	M BCKS
+044	05	Of	 Immittit / Emittit angelum dominus	BCKS
+044	06	OfV	Benedicam domino in omni	BC S
+044	07	OfV	In domino laudabitur	BC S
+044	08	OfV	Accedite ad eum	C S
+044	09	Cm	 Panis quem ego dedero	BCKS
+044	10	CmP	Cantate domino	BC
+044	11	CmP	Gustate et videte	KS
+045	00	Ru	 Fer VI Q T Quad
+045	01	In	 De necessitatibus meis	BCKS
+045	02	InP	Ad te domine levavi	BCKS
+045	03	Gr	 Salvum fac servum tuum	M	CKS
+045	04	GrV	Auribus percipe domine	M	CKS
+045	05	Gr	 Miserere mihi domine	BC S
+045	06	GrV	Conturbata sunt	BC S
+045	07	Of	 Benedic anima mea	BCKS
+045	08	OfV	Qui propiciabitur omnibus	BC S
+045	09	OfV	Misericors et miserator	B
+045	10	OfV	Iustitia eius	C S
+045	11	Cm	 Erubescant et conturbentur / confundantur	BCKS
+045	12	CmP	Domine ne in furore	BC S
+046	00	Ru	 Sab Q T Quad
+046	01	In	 Intret oratio mea	RBCKS
+046	02	InP	Domine deus salutis	RBCKS
+046	03	InR	Estimatus sum	S
+046	04	Gr	 Miserere mihi domini	R
+046	05	GrV	Conturbata sunt	R
+046	06	Gr	 Esto mihi in deum	R
+046	07	Gr	 Oculi omnium	R
+046	08	GrV	Aperis tu manum tuam	R
+046	09	Gr	 Propitius esto domine	S
+046	10	GrV	Adiuva nos deus salutaris	S
+046	11	Gr	 Protector noster	S
+046	12	GrV	Domine deus virtutum	S
+046	13	Gr	 Dirigatur oratio mea	S
+046	14	GrV	Elevatio	S
+046	15	Gr	 Salvum fac populum tuum	S
+046	16	GrV	Ad te domine clamabo	S
+046	17	Gr	 Convertere domine	S
+046	18	GrV	Domine refugium	S
+046	19	Va	 Benedictus es in firmamento	C S
+046	20	Tc	 Laudate dominum omnes gentes	M BCKS
+046	21	Of	 Domine deus salutis	RBCKS
+046	22	OfV	Inclina aurem tuam	BC S
+046	23	OfV	Et ego ad te	BC S
+046	24	OfV	Factus sum	C S
+046	25	Cm	 Domine deus meus in te speravi	RBCKS
+046	26	CmP	Domine deus meus in te	BC S
+046	27	CmP	Nequando rapiat	K
+046.2	00	Ru	 Dom II Quad
+047	00	Ru	 Fer II Hebd II Quad
+047	01	In	 Redime me domine	BCKS
+047	02	InP	Iudica me domine / deus	BCKS
+047	03	InR	Quoniam misericordia	C S
+047	04	Gr	 Adiutor meus et liberator	M BCKS
+047	05	GrV	Confundantur et revereantur	M BCKS
+047	06	Of	 Benedicam dominum	BCKS
+047	07	OfV	Conserva me	BC S
+047	08	OfV	Notas mihi fecisti	BC S
+047	09	Cm	 Domine dominus noster quam	BCKS
+047	10	CmP	Domine dominus noster	BC
+047	11	CmP	Quoniam videbo celos tuos	S
+048	00	Ru	 Fer III Hebd II Quad
+048	01	In	 Tibi dixit cor meum	BCKS
+048	02	InP	Dominus illuminatio	BCKS
+048	03	InR	Qui tribulant me	S
+048	04	Gr	 Iacta cogitatum tuum	M BCKS
+048	05	GrV	Dum clamarem	M BCKS
+048	06	Of	 Miserere mihi domine	BCKS
+048	07	OfV	Quoniam iniquitatem	BC S
+048	08	OfV	Tibi soli peccavi	BC S
+048	09	Cm	 Narrabo omnia mirabilia tua	BCKS
+048	10	CmP	Confitebor tibi domine	BCKS
+049	00	Ru	 Fer IV Hebd II Quad
+049	01	In	 Ne derelinquas me domine	RBCKS
+049	02	InP	Domine ne in furore tuo	RBCKS
+049	03	InR	Ego autem	S
+049	04	Gr	 Salvum fac populum tuum	M BCKS
+049	05	Gr	 Propitius esto domine	R
+049	06	GrV	Ad te domine clamavi / clamabo	M BCKS
+049	07	Of	 Miserere mihi domine	R
+049	08	Of	 Ad te domine levavi	BCKS
+049	09	OfV	Dirige me	BC S
+049	10	OfV	Respice in me	BC S
+049	11	Cm	 Iustus dominus noster	RBCKS
+049	12	CmP	In domino confido	BC S
+050	00	Ru	 Fer V Hebd II Quad
+050	01	In	 Deus in adiutorium	BCKS
+050	02	InP	Deus in adiutorium	BC
+050	03	InP	Avertantur	KS
+050	04	Gr	 Propitius esto domine	M BCKS
+050	05	GrV	Adiuva nos deus salutaris	M BCKS
+050	06	Of	 Precatus est moyses	BCKS
+050	07	OfV	Dixit	BC S
+050	08	OfV	Dixit	C S
+050	09	Cm	 Qui manducat carnem meam	BCKS
+050	10	CmP	Deus in adiutorium	BC S
+050	11	CmP	Venite filii	K
+051	00	Ru	 Fer VI Hebd II Quad
+051	01	In	 Ego autem cum iustitia	BCKS
+051	02	InP	Exaudi domine	BCKS
+051	03	Gr	 Ad dominum dum tribularer	M BCKS
+051	04	GrV	Domine libera animam	M BCKS
+051	05	Of	 Domine in auxilium	BCKS
+051	06	OfV	Avertantur	BC S
+051	07	OfV	Expectans	BC S
+051	08	Cm	 Tu domine servabis nos	BCKS
+051	09	CmP	Salvum me fac	BC S
+052	00	Ru	 Sab Hebd II Quad
+052	01	In	 Lex domini inreprehensibilis	BCKS
+052	02	InP	Celi enarrant	BCKS
+052	03	Gr	 Bonum est confiteri	M BCKS
+052	04	GrV	Ad annuntiandum	M BCKS
+052	05	Of	 Illumina oculos meos	BCKS
+052	06	OfV	Usquequo domine	BC S
+052	07	OfV	Respice in me	C S
+052	08	Cm	 Oportet te fili gaudere	BCKS
+052	09	CmP	Celi enarrant	BC
+053	00	Ru	 Dom III Quad
+053	01	In	 Oculi mei semper	RBCKS
+053	02	InP	Ad te domine levavi	RBCKS
+053	03	InR	Vias	C
+053	04	Gr	 Exurge domine non prevaleat	MRBCKS
+053	05	GrV	In convertendo	MRBCKS
+053	06	Tc	 Ad te levavi oculos	MRBCKS
+053	07	Of	 Iustitiae domini	RBCKS
+053	08	OfV	Preceptum domini	BC S
+053	09	OfV	Et erunt ut complaceant	BC S
+053	10	Cm	 Passer invenit sibi domum	RBCKS
+053	11	CmP	Quam dilecta	BCK
+054	00	Ru	 Fer II Hebd III Quad
+054	01	In	 In deo laudabo verbum	BCKS
+054	02	InP	Miserere mei deus quoniam	BCK
+054	03	Gr	 Deus vitam meam	M BCKS
+054	04	GrV	Miserere mihi domine	M BCKS
+054	05	Of	 Exaudi deus orationem	BCKS
+054	06	OfV	Conturbatus sum	BC S
+054	07	OfV	Ego autem ad deum	BC S
+054	08	Cm	 Quis dabit ex sion	BCKS
+054	09	CmP	Dixit insipiens	BC
+054	10	CmP	Domine quis habitavit	S
+055	00	Ru	 Fer III Hebd III Quad
+055	01	In	 Ego clamavi quoniam	BCKS
+055	02	InP	Exaudi domine	BCKS
+055	03	Gr	 Ab occultis meis	M BCKS
+055	04	GrV	Si mei non fuerint	M BCKS
+055	05	Of	 Dextera domini	BCKS
+055	06	OfV	In tribulatione	BC
+055	07	OfV	Inpulsus versatus sum	C
+055	08	Cm	 Domine quis habitavit	BCKS
+055	09	CmP	Domine quis habitavit	B
+055	10	CmP	Exaudi domine	C
+055	11	CmP	Qui loquitur veritatem	S
+056	00	Ru	 Fer IV Hebd III Quad
+056	01	In	 Ego autem in domino speravi	RBCKS
+056	02	InP	In te domine	RBCKS
+056	03	Gr	 Miserere mihi domine	MRBCKS
+056	04	GrV	Conturbata sunt	MRBCKS
+056	05	Of	 Iusticie domini	R
+056	06	Of	 Domine fac mecum	BCKS
+056	07	OfV	Deus laudem meam	BC S
+056	08	OfV	Locuti sunt adversum me	B
+056	09	OfV	Pro eo ut me diligerent	BC S
+056	10	Cm	 Notas mihi fecisti	RBCKS
+056	11	CmP	Conserva me	B	S
+056	12	CmP	In te domine	C
+057	00	Ru	 Fer V Hebd III Quad
+057	01	In	 Salus populi / tua ego sum dicit	BCKS
+057	02	InP	Attendite populus meus	BCKS
+057	03	Gr	 Oculi omnium	M BCKS
+057	04	GrV	Aperis tu manum tuam	M BCKS
+057	05	Of	 Si ambulavero	BCKS
+057	06	OfV	In quacumque	C S
+057	07	OfV	Adorabo ad templum	BC S
+057	08	Cm	 Tu mandasti	BCKS
+057	09	CmP	Beati immaculati	BCKS
+058	00	Ru	 Fer VI Hebd III Quad
+058	01	In	 Fac mecum domine	RBCKS
+058	02	InP	Inclina domine	BCKS
+058	03	Gr	 In deo speravit	MRBCKS
+058	04	GrV	Ad te domine clamabo	MRBCKS
+058	05	Of	 Intende voci	RBCKS
+058	06	OfV	Verba mea	BC S
+058	07	OfV	Dirige in conspectu	BC S
+058	08	Cm	 Qui biberit	RBCKS
+058	09	CmP	Inclina domine	B	S
+059	00	Ru	 Sab Hebd III Quad
+059	01	In	 Verba mea auribus percipe	RBCKS
+059	02	InP	Verba mea	B
+059	03	InP	Rex meus	KS
+059	04	Gr	 Si ambulem in medio	MRBCKS
+059	05	GrV	Virga tua	MRBCKS
+059	06	Of	 Gressus meos dirige domine	RBCKS
+059	07	OfV	Declaratio sermonum tuorum	BC S
+059	08	OfV	Cognovi domine	C S
+059	09	Cm	 Nemo te condemnavit	RBCKS
+059	10	CmP	Verba mea	B	S
+060	00	Ru	 Dom IV Quad
+060	01	In	 Letare ierusalem	RBCKS
+060	02	InP	Letatus sum	RBCKS
+060	03	Gr	 Letatus sum	MRBCKS
+060	04	GrV	Fiat pax in virtute tua	MRBCKS
+060	05	Tc	 Qui confidunt in domino	MRBCKS
+060	06	Of	 Laudate dominum quia benignus est	RBCKS
+060	07	OfV	Qui statis in domo	C S
+060	08	OfV	Domine nomen tuum in eternum	BC S
+060	09	OfV	Qui timetis dominum	BC S
+060	10	Cm	 Ierusalem que edificatur	RBCKS
+060	11	CmP	Letatus sum	B	S
+060	12	CmP	Quia illic	K
+061	00	Ru	 Fer II Hebd IV Quad
+061	01	In	 Deus in nomine tuo	BCKS
+061	02	InP	Deus in nomine tuo	BC S
+061	03	InP	Quoniam alieni insurrexerunt	K
+061	04	Gr	 Esto mihi in deum	M BCKS
+061	05	GrV	Deus in te speravi	M BCKS
+061	06	Of	 Iubilate deo omnis terra	BCKS
+061	07	OfV	Ipse fecit nos	C S
+061	08	OfV	Laudate	C S
+061	09	Cm	 Ab occultis meis	BCKS
+061	10	CmP	Celi enarrant	BC S
+062	00	Ru	 Fer III Hebd IV Quad
+062	01	In	 Exaudi deus orationem meam	BCKS
+062	02	InP	Exaudi deus	B
+062	03	InP	Conturbatus sum	C
+062	04	InP	Contristatus sum	KS
+062	05	Gr	 Exurge domine fer opem	M BCKS
+062	06	GrV	Deus auribus nostris	M BCKS
+062	07	Of	 Expectans expectavi	BCKS
+062	08	OfV	Statuit supra petram	C S
+062	09	OfV	Multa fecisti tu domine	BC S
+062	10	OfV	Domine deus tu cognovisti	BC S
+062	11	Cm	 Letabimur in salutari tuo	BCKS
+062	12	CmP	Exaudiat te	BC S
+063	00	Ru	 Fer IV Hebd IV Quad
+063	01	In	 Dum sanctifactus fuero in vobis	RBCKS
+063	02	InP	Benedicam dominum	RBCKS
+063	03	Gr	 Venite fili audite me	MRBCKS
+063	04	GrV	Accedite ad eum	MRBCKS
+063	05	Gr	 Beata gens	M BCKS
+063	06	GrV	Verbo domini / dei celi firmati sunt	M BCKS
+063	07	Of	 Benedicite gentes	RBCKS
+063	08	OfV	Iubilate deo	BC S
+063	09	OfV	In multitudine virtutis tue	BC S
+063	10	OfV	Venite et videte	C S
+063	11	Cm	 Lutum fecit ex sputo dominus	RBCKS
+063	13	CmP	Benedicam dominum	BC
+064	00	Ru	 Fer V Hebd IV Quad
+064	01	In	 Letetur cor	BCKS
+064	02	InP	Confitemini domino et invocate	BCKS
+064	03	Gr	 Respice domine	M BCKS
+064	04	GrV	Exurge domine	M BCKS
+064	05	Of	 Domine in auxilium	CKS
+064	06	Of	 Domine ad adiuvandum	B	S
+064	07	OfV	Expectans	B	S
+064	08	OfV	Avertantur	S
+064	09	Cm	 Domine memorabor	BCKS
+064	10	CmP	In te domine speravi	B KS
+064	11	CmP	Confitemini domino et invocate	C
+065	00	Ru	 Fer VI Hebd IV Quad
+065	01	In	 Meditatio cordis mei	RBCKS
+065	02	InP	Celi enarrant	BCKS
+065	03	Gr	 Bonum est confiteri (B: confidere)	MRBCKS
+065	04	GrV	Ad annuntiandum	MRB
+065	05	GrV	Bonum est sperare	CKS
+065	06	Gr	 Ad dominum dum tribularer	S
+065	07	GrV	Domine libera animam mea	S
+065	08	Of	 Miserere mihi dominum	R
+065	09	Of	 Populum humilem	BCKS
+065	10	OfV	Clamor meus	BC S
+065	11	OfV	Liberator meus	BC S
+065	12	Cm	 Adiutor meus es tu domine	R
+065	13	Cm	 Videns dominus flentes	BCKS
+065	14	CmP	Deus deus meus	B
+065	15	CmP	Domine dominus noster	C
+066	00	Ru	 Sab Hebd IV Quad
+066	01	In	 Sitientes venite ad aquas	RBCKS
+066	02	InP	Dominus regit me et nihil	R
+066	03	InP	Attendite populus meus	BCKS
+066	04	Gr	 Bonum est confiteri	R
+066	05	Gr	 Tibi (domine) derelictus est pauper	MRBCKS
+066	06	GrV	Ut quid domine	MRBCKS
+066	07	Of	 Factus est dominus	RBCKS
+066	08	OfV	Precinxisti me virtute	C
+066	09	OfV	Persequar (Persequatur) inimicos	BC S
+066	10	OfV	Et precinxisti me fortitudinem	B	S
+066	11	Cm	 Dominus regit me	RBCKS
+066	12	CmP	Attendite populus meus	B
+066	13	CmP	Deduxit me	C
+067	00	Ru	 Dom V Quad
+067	01	In	 Iudica me deus	RBCKS
+067	02	InP	Iudica me	RB
+067	03	InP	Emitte lucem tuam	C S
+067	04	InP	Quare me reppulisti	K
+067	05	Gr	 Eripe me (domine)	MRBCKS
+067	06	GrV	Liberator meus	MRBCKS
+067	07	Tc	 Sepe expugnaverunt	MRBCKS
+067	08	Of	 Confitebor tibi domine	RBCKS
+067	09	OfV	Beati immaculati	BC S
+067	10	OfV	Viam veritatis	BC S
+067	11	Cm	 Hoc corpus	RBCKS
+067	12	CmP	Iudica me deus	BCK
+068	00	Ru	 Fer II Hebd V Quad
+068	01	In	 Miserere mihi domine quoniam conculcavit	BCKS
+068	02	InP	Miserere mihi domine quoniam	B
+068	03	InP	Conculcaverunt	CK
+068	04	InP	Ab altitudine	S
+068	05	Gr	 Deus exaudi orationem meam	M BCKS
+068	06	GrV	Deus in nomine tuo	M BCKS
+068	07	Of	 Domine convertere	BCKS
+068	08	OfV	Domine ne in ira tua	BC S
+068	09	OfV	Miserere mihi domine	BC S
+068	10	Cm	 Dominus virtutum ipse est rex gloriae	CK
+068	11	Cm	 Dominus firmamentum meum	S
+068	12	CmP	Domini est terra	C S
+069	00	Ru	 Fer III Hebd V Quad
+069	01	In	 Expecta dominum viriliter	BCKS
+069	02	InP	Dominus inluminatio	BCKS
+069	03	Gr	 Discerne causam meam	M BCKS
+069	04	GrV	Emitte lucem tuam	M BCKS
+069	05	Of	 Sperent in te omnes	BCKS
+069	06	OfV	Sedes super thronum	BC S
+069	07	OfV	Cognescetur dominus	BC S
+069	08	Cm	 Redime me deus israhel	BCKS
+069	09	CmP	Ad te domine levavi	C S
+070	00	Ru	 Fer IV Hebd V Quad
+070	01	In	 Liberator meus	RBCKS
+070	02	InP	Eripe me domine	R
+070	03	InP	Diligam te	BCKS
+070	04	Gr	 Exaltabo te domine	MRBCKS
+070	05	GrV	Domine deus meus	MRBCKS
+070	06	Of	 Eripe me de inimicis meis deus	RBCKS
+070	07	OfV	Quia ecce ceperunt / captaverunt animam meam	B	S
+070	08	OfV	Quia factus est	C S
+070	08	Cm	 Lavabo inter innocentes	RBCKS
+070	09	CmP	Iudica me deus	B	S
+070	10	CmP	Eripe me de inimicis	C
+071	00	Ru	 Fer V Hebd V Quad
+071	01	In	 Omnia que fecisti	RBCKS
+071	02	InP	Magnus dominus	RBCKS
+071	03	Gr	 Tollite hostias	MRBCKS
+071	04	GrV	Revelavit dominus condensa	MRBCKS
+071	05	Of	 Super flumina	RBCKS
+071	06	OfV	In salicibus	BC S
+071	07	OfV	Si oblitus fuero tui	BC S
+071	08	OfV	Memento domine	BC S
+071	09	Cm	 Memento verbi tui	RBCKS
+071	10	CmP	Beati immaculati	BCKS
+072	00	Ru	 Fer VI Hebd V Quad
+072	01	In	 Miserere mihi domine quoniam tribulor	BCKS
+072	02	InP	In te domine speravi	BCKS
+072	03	Gr	 Pacifice loquebantur mihi	M BCKS
+072	04	GrV	Vidisti domine ne sileas	M BCKS
+072	05	Of	 Benedictus es domine doce ... et non tradas	BCKS
+072	06	OfV	Vidi non servantes	BC S
+072	07	OfV	Appropinquaverunt persequentes me	BC S
+072	08	Cm	 Ne tradideris	BCKS
+072	09	CmP	Dominus illuminatio	BC S
+072.2	00	Ru	 Sabbato vacat elemosina datur
+073	00	Ru	 Dom in Palmis
+073	01	In	 Domine ne longe facias	RBCKS
+073	02	InP	Deus deus meus respice	BC S
+073	03	InR	Diviserunt	B
+073	04	Gr	 Tenuisti manum dexteram	MRBCKS
+073	05	GrV	Quam bonus israhel	MRBCKS
+073	06	Tc	 Deus deus meus	MRBCKS
+073	07	Of	 Improperium	RBCKS
+073	08	OfV	Salvum me fac deus	BC S
+073	09	OfV	Adversum me exercebantur	BC S
+073	10	OfV	Ego vero orationem	BC S
+073	11	Cm	 Pater si non potest	RBCKS
+073	12	CmP	Deus deus meus respice	BC
+073	13	CmP	Calicem salutaris	K
+074	00	Ru	 Fer II Maj Hebd
+074	01	In	 Iudica domine nocentes me	RBCKS
+074	02	InP	Iudica domine	RBC
+074	03	InP	Effunde framea(m)	KS
+074	04	Gr	 Exurge domine et intende	MRBCKS
+074	05	GrV	Effunde framea(m)	MRBCKS
+074	06	Of	 Eripe me de inimicis meis domine	RBCKS
+074	07	OfV	Exaudi me in tua iustitia	BC S
+074	08	Cm	 Erubescant et revereantur (R: conturbentur)	RBCKS
+074	09	CmP	Iudica domine	BC S
+075	00	Ru	 Fer III Maj Hebd
+075	01	In	 Nos autem gloriari (Nobis autem)	RBCKS
+075	02	InP	Deus misereatur nostri	R CKS
+075	03	InP	Deus meus (?)	B
+075	04	Gr	 Ego autem dum mihi molesti essent	MRBCKS
+075	05	GrV	Iudica domine nocentes	MRBCKS
+075	06	Of	 Custodi me domine	RBCKS
+075	07	OfV	Eripe me	C S
+075	08	OfV	Qui / Quia cogitaverunt	C S
+075	09	OfV	Dixi(t) domino deus meus es tu	B	S
+075	10	Cm	 Nos autem gloriari	RB
+075	11	CmP	Deus meus	B
+075	12	Cm	 Adversum me exercebantur	BCKS
+075	13	CmP	Salvum me fac deus	BC S
+075	14	CmR	Obscurentur	C
+076	00	Ru	 Fer IV Maj Hebd
+076	01	In	 In nomine domine	RBCKS
+076	02	InP	Domine exaudi	RBCKS
+076	03	Gr	 Ne avertas faciem tuam	M BCKS
+076	04	GrV	Salvum me fac deus	M BCKS
+076	05	Gr	 Domine exaudi orationem meam	MRBCKS
+076	06	GrV	Non avertas faciem tuam	MRBCKS
+076	07	GrV	In quacumque die invocavero	M B
+076	08	GrV	Quia defecerunt sicut fumus	M BC
+076	09	GrV	Percussus sum sicut fenum	M BC
+076	10	GrV	Tu exurgens domine	M BC
+076	11	Of	 Exaudi orationem meam (cf. Domine exaudi)	RB
+076	12	Of	 Domine exaudi orationem	CKS
+076	13	OfV	Quia oblitus sum	B
+076	14	OfV	Ne avertas faciem tuam	S
+076	15	OfV	Tu exsurgens misereberis	B	S
+076	16	Cm	 Potum meum	RBCKS
+076	17	CmP	Domine exaudi orationem et clamor	BC
+076	18	CmP	Percussus sum	S
+076	19	CmR	Quia venit	S
+077	00	Ru	 Fer V in Caena Dni
+077	01	In	 Nos autem gloriari oportet	RBCKS
+077	02	InP	Cantate domino (I)	RBC S
+077	03	Gr	 Christus factus est	MRBCKS
+077	04	GrV	Propter quod	MRBCKS
+077	05	Of	 Dextera domini	RBCKS
+077	06	OfV	In tribulatione	B	S
+077	07	OfV	Inpulsus	B	S
+077	08	Cm	 Dominus iesus postquam cenavit	RBCKS
+077	09	CmP	Beati immaculati	CKS
+078	00	Ru	 Fer VI in Parasceve
+078	01	Gr	 Domine exaudi orationem meam	R
+078	02	GrV	Non avertas faciem tuam	R
+078	03	Gr	 Domine audivi auditum tuum	MRBCKS
+078	04	GrV	In medio duorum	MRBCKS
+078	05	GrV	In eo dum conturbata *	M BC
+078	06	GrV	Deus a libano veniet *	M BC
+078	07	GrV	Operuit celos *	M BC
+078	08	Tc	 Eripe me domine	M	CKS
+078	09	Va	 Agios o theos	KS
+078	10	Va	 Popule meus	S
+078	11	An	 Ecce lignum crucis	R CKS
+078	12	AnP	Deus misereatur nostri	R
+078	13	AnP	Beati immaculati	CKS
+078	14	Va	 Crux fidelis inter omnes	S
+078	15	Va	 Pange lingua gloriosi *	C S
+078	16	An	 Crucem tuam adoramus	C S
+078	17	AnP	Deus misereatur nostri	C S
+079	00	Ru	 Sab Sanct
+079	01	Tc	 Cantemus domino gloriose enim	M BCKS
+079	02	Tc	 Attende celum *	M BCKS
+079	03	Tc	 Vinea facta est dilecto	M BCKS
+079	04	Tc	 Sicut cervus desiderat	M BCKS
+079	05	Tc	 Laudate dominum omnes gentes *	MRBCKS
+079	06	Va	 Tibi laus perennis auctor	S
+079	07	Al	 All. Eduxit dominus populum suum	R
+079	08	Al	 All. Confitemini domino quoniam bonus	MRBCKS
+079	09	Of	 Angelus domini descendit	R
+079	12	Cm	 Cito euntes dicite alleluia	R
+080	00	Ru	 Dom Paschae
+080	01	In	 Resurrexi et adhuc tecum sum	RBCKS
+080	02	InP	Domine probasti me	RBCKS
+080	03	InR	Tu cognovisti	B
+080	04	InR	Intellexisti	C S
+080	05	Gr	 Hec dies	MRBCKS
+080	06	GrV	Confitemini domino	MRBCKS
+080	07	GrV	Dicat nunc israhel	B
+080	08	GrV	Dicat nunc domus aaron	B
+080	09	GrV	Dicant nunc qui timent dominum	B
+080	10	GrV	Dextera domini	B
+080	11	GrV	Lapidem quem reprobaverunt	B
+080	12	GrV	Benedictus qui venturus est	B
+080	13	Al	 All. Pascha nostrum	MRBCKS
+080	14	AlV	Epulemur	MRBCKS
+080	15	AlV	Non in fermento malitiae	C
+080	16	Of	 Terra tremuit et quievit	RBCKS
+080	17	OfV	Notus in iudea deus	BC S
+080	18	OfV	Et factus est in pace	BC S
+080	19	OfV	Ideo (Ibi) confregit	BC S
+080	20	Cm	 Pascha nostrum	RBCKS
+080	21	CmP	Domine probasti me	BC
+080	22	CmP	Confitemini domino	KS
+080	23	CmP	Et omnes vias meas	C
+080	24	CmR	Dextera domini	S
+081	00	Ru	 Fer II Pasch
+081	01	In	 Introduxit vos dominus	RBCKS
+081	02	InP	Confitemini	RBCKS
+081	03	InP	Laudate dominum omnes gentes	B
+081	04	InR	Hec dies	S
+081	05	Gr	 Hec dies	MRBCKS
+081	06	GrV	Dicat nunc israhel	MRBCKS
+081	07	Al	 All. Dominus regnavit decorem	MRBCKS
+081	08	Of	 Angelus domini descendit	RBCKS
+081	09	OfV	Euntes dicite discipuli	BC S
+081	10	OfV	Iesus stetit	BC S
+081	11	Cm	 Surrexit dominus	RBCKS
+081	12	CmP	Laudate dominum omnes gentes	B
+081	13	CmP	Lapidem	KS
+081	14	CmR	A domino factum est	S
+082	00	Ru	 Fer III Pasch
+082	01	In	 Aqua sapientie potavit eos	BCKS
+082	02	InP	Confitemini domino	BCKS
+082	03	InR	Dicat nunc israhel / Dicat nunc qui redempti	C S
+082	04	Gr	 Hec dies	M BCKS
+082	05	GrV	Dicat (nunc) qui redempti sunt	M	KS
+082	06	GrV	Dicat nunc domus aaron	B
+082	07	Al	 All. In te domine speravi	M
+082	08	Al	 All. Redemptionem	CKS
+082	09	Of	 Intonuit de celo dominus	BCKS
+082	10	OfV	Diligam te	BC S
+082	11	OfV	Liberator meus	BC S
+082	12	Cm	 Si consurrexistis	BCKS
+082	13	CmP	Confitemini dominum	B
+082	14	CmP	Cantate domino	C
+082	15	CmP	A solis ortu	KS
+082	16	CmR	Querite dominum	S
+083	00	Ru	 Fer IV Pasch
+083	01	In	 Venite benedicti	RBCKS
+083	02	InP	Cantate domino	RBCKS
+083	03	InR	Salvabit sibi	S
+083	04	Gr	 Hec dies	MRBCKS
+083	05	GrV	Dextera domini	M	CKS
+083	06	GrV	Dicant qui tunc	B
+083	07	Al	 All. Quoniam deus magnus	M
+083	08	Al	 All. Redemptionem	R
+083	09	Al	 All. Dominus regnavit exultet terra	C
+083	10	Al	 All. Iubilate deo	KS
+083	11	Of	 Portas celi aperuit	RBCKS
+083	12	OfV	Attendite populus meus	BC S
+083	13	OfV	Aperiam in parabulis	BC S
+083	14	Cm	 Christus resurgens	RBCKS
+083	15	CmP	Cantate domino	BC
+083	16	CmP	Notum fecit dominus	KS
+083	17	CmR	Recordatus est	S
+084	00	Ru	 Fer V Pasch
+084	01	In	 Victricem manum tuam	BCKS
+084	02	InP	Dominus regnavit exultet terra	B
+084	03	InP	Confitemini domino	CKS
+084	04	InR	Hec dies	S
+084	05	Gr	 Hec dies	M BCKS
+084	06	GrV	Lapidem	M	CKS
+084	07	GrV	Dextera domini	B
+084	08	Al	 All. Lauda ierusalem	M B KS
+084	09	Al	 All. Quoniam deus magnus	C
+084	10	Of	 In die sollemnitatis	BCKS
+084	11	OfV	Audi populus meus	BC S
+084	12	OfV	Non adorabis / adorabitis deum alienum	BC S
+084	13	Cm	 Populus adquisitionis	BCKS
+084	14	CmP	Dominus regnavit exultet terra	B
+084	15	CmR	Confitemini domino	C
+084	16	CmP	A domino factum est	K
+084	17	CmP	Lapidem quem reprobaverunt	S
+084	18	CmR	A domino factum est	S
+085	00	Ru	 Fer VI Pasch
+085	01	In	 Eduxit eos dominus in spe	BCKS
+085	02	InP	Attendite populus meus	BCKS
+085	03	Gr	 Hec dies	M BCKS
+085	04	GrV	Benedictus qui venit	M	CKS
+085	05	GrV	Lapidem	B
+085	06	Al	 All. Surrexit altissimus	M
+085	07	Al	 All. Lauda ierusalem	C
+085	08	Al	 All. Quoniam deus magnus	KS
+085	09	Of	 Erit vobis hic dies	BCKS
+085	10	OfV	In mente habete diem istum	BC S
+085	11	OfV	Dixit moyses populo / ad populum	BC S
+085	12	Cm	 Data est mihi omnis potestas	BCKS
+085	13	CmP	Attendite populus meus	BC
+085	14	CmP	Aperiam in parabolis	KS
+085	15	CmR	Narrantes laudes domini	S
+086	00	Ru	 Sab Pasch
+086	01	In	 Eduxit dominus populum suum	RBCKS
+086	02	InP	Confitemini domino	RBCKS
+086	03	InR	Semen abraam	S
+086	04	Al	 All. Hec dies	MRBCKS
+086	05	Al	 All. Laudate pueri dominum	RBCKS
+086	06	Of	 Benedictus qui venit	RBCKS
+086	07	OfV	Hec dies quam fecit	C S
+086	08	OfV	Lapidem	BC S
+086	09	Cm	 Omnes qui in christo	RBCKS
+086	10	CmP	Confitemini domino	BC
+086	11	CmP	Cantate ei	S
+086	12	CmR	Querite dominum	S
+087	00	Ru	 Oct Pasch
+087	01	In	 Quasi modo geniti infantes	RBCKS
+087	02	InP	Exultate deo	RBCKS
+087	03	InR	Et cibavit illos	B	S
+087	04	Al	 All. Hec dies	R C
+087	05	Al	 All. Exultate deo	S
+087	06	Al	 All. Pascha nostrum	R C S
+087	07	Of	 Angelus domini descendit	RBCKS
+087	08	OfV	Euntes	C
+087	09	OfV	Iesus stetit	C
+087	10	Cm	 Mitte manum tuam	RBCKS
+087	11	CmP	Exultate deo	BC
+087	12	CmP	Voce mea ad dominum	KS
+087	13	CmR	Ego dormivi	S
+088	00	Ru	 Dom II p Pasch
+088	01	In	 Misericordia domini	RBCKS
+088	02	InP	Exultate iusti in domino	RBCKS
+088	03	InR	Confitemini domino	S
+088	04	Al	 All. Confitemini domino et invocate	R
+088	05	Al	 All. Confitemini domino quoniam bonus	R
+088	06	Al	 All. Surrexit altissimus	C
+088	07	Al	 All. Dominus regnavit decorem	C
+088	08	Al	 All. Qui posuit fines	S
+088	09	Al	 All. Quoniam deus magnus	S
+088	10	Of	 Deus deus meus ad te	RBCKS
+088	11	OfV	Sitivit in te	BC S
+088	12	OfV	In matutinis	BC S
+088	13	Cm	 Ego sum pastor bonus	RBCKS
+088	14	CmP	Exultate iusti	BC
+088	15	CmP	Beata gens	KS
+088	16	CmR	Ut eruat a morte	S
+089	00	Ru	 Dom III p Pasch
+089	01	In	 Iubilate deo omnis terra	RBCKS
+089	02	InP	Dicite deo quam terribilia	R	K
+089	03	InP	Iubilate deo omnis terra	C
+089	04	InP	Exultate iusti in domino	S
+089	05	InR	Dicite deo	C
+089	06	InR	Benedicite gentes	S
+089	07	Al	 All. Redemptionem	R
+089	08	Al	 All. Eduxit dominus populum suum	R
+089	09	Al	 All. Laudate pueri dominum	C
+089	10	Al	 All. In te domine speravi	C
+089	11	Al	 All. Iubilate deo	S
+089	12	Al	 All. Te decet ymnus	S
+089	13	Of	 Lauda anima mea dominum	RBCKS
+089	14	OfV	Qui custodit veritatem	BC S
+089	15	OfV	Dominus eregit / erigit / eligit elisos / allisos	BC S
+089	16	Cm	 Modicum et non videbitis	RBCKS
+089	17	CmP	Iubilate deo	CKS
+089	18	CmR	Venite audite	S
+090	00	Ru	 Dom IV p Pasch
+090	01	In	 Cantate domino canticum novum	RBCKS
+090	02	InP	Salvabit sibi	RBCKS
+090	03	InR	Notum fecit dominus	S
+090	04	Al	 All. Surrexit dominus vere	R
+090	05	Al	 All. Venite benedicti	C
+090	06	Al	 All. Quoniam deus magnus	C
+090	07	Al	 All. Dominus regnavit exultet terra	S
+090	08	Al	 All. Venite exultemus	S
+090	09	AlV	Preoccupemus faciem eius	S
+090	10	Of	 Iubilate deo omnis terra	R C
+090	11	Of	 Iubilate deo universa terra	B KS
+090	12	OfV	Reddam tibi	BC S
+090	13	OfV	Locutum est	BC S
+090	14	Cm	 Dum venerit paraclitus	RBCKS
+090	15	CmP	Salvabit	BC
+090	16	CmP	Cantate domino	K
+090	17	CmP	Iubilate deo	S
+091	00	Ru	 Dom V p Pasch
+091	01	In	 Vocem iocunditatis	RBCKS
+091	02	InP	Iubilate	RBCKS
+091	03	InR	Dicite deo	C S
+091	04	Al	 All. Confiteantur domino	R
+091	05	Al	 All. Cantate domino	R
+091	06	Al	 All. Redemptionem	C
+091	07	Al	 All. Qui sanat contritos	C
+091	08	Al	 All. Laudate dominum omnes gentes	S
+091	09	Al	 All. Confitemini domino et invocate	S
+091	10	Of	 Benedicite gentes	RBCKS
+091	11	OfV	Iubilate deo	BC
+091	12	OfV	In multitudinem virtutis tue	BC
+091	13	OfV	Venite et videte	BC
+091	14	Cm	 Cantate domino	RBCKS
+091	15	CmP	Cantate domino	B
+091	16	CmP	Tollite hostias	C
+091	17	CmP	Annunciate inter gentes	KS
+091	18	CmR	Quoniam magnus dominus	S
+092	00	Ru	 SS Tiburtii et Valeriani
+092	01	In	 Sancti tui domine	BCKS
+092	02	InP	Exaltabo te deus meus	BCKS
+092	03	InR	Confiteantur domino	S
+092	04	Al	 All. Sancti tui domine	C S
+092	05	Al	 All. Gaudete iusti	C
+092	06	Al	 All. Exultabunt sancti	KS
+092	07	Of	 Letamini in domino	BCKS
+092	08	OfV	Beati quorum	C
+092	09	OfV	Pro hac oravit	BC
+092	10	Cm	 Gaudete iusti	BCKS
+092	11	CmP	Confitemini domino	KS
+092	12	CmR	Cantate ei	S
+093	00	Ru	 S Georgii
+093	01	In	 Protexisti me deus	BCKS
+093	02	InP	Exaudi deus orationem	RBCKS
+093	03	InR	Letabitur iustus	S
+093	04	Al	 All. Confitebuntur celi	C
+093	05	Al	 All. Gloria et honore	KS
+093	06	Al	 All. Beatus vir qui timet	S
+093	07	Of	 Confitebuntur celi	BCKS
+093	08	OfV	Misericordias tuas	BC S
+093	09	OfV	Quoniam quis in nubibus	BC S
+093	10	Cm	 Letabitur iustus	BCKS
+093	11	CmP	Exaudi deus orationem	BC
+093	12	CmP	Protexisti me deus	KS
+093	13	CmR	Et adnuntiaverunt	S
+094	00	Ru	 In Let Maj
+094	01	An	 Populus sion convertimini	B
+094	02	An	 Domine deus qui cum patribus	B
+094	03	An	 Ego sum deus patrum	B
+094	04	An	 Confitemini domino filii israhel	B
+094	05	An	 Parce domine parce populo	B
+094	06	An	 Iniquitates nostre domine	B
+094	07	An	 Exclamemus omnes ad dominum	B
+094	08	An	 Redime domine	B
+094	09	An	 Miserere nobis	B
+094	10	An	 Salvum fac populum	B
+094	11	In	 Exaudivit de templo	RBCKS
+094	12	InP	Diligam te	RBCKS
+094	13	InR	Laudans invocabo	S
+094	14	Al	 All. Confitemini domino quoniam bonus	MRBCKS
+094	15	Of	 Confitebor domino	RBCKS
+094	16	OfV	Adiuva me	BC S
+094	17	OfV	Qui insurgunt in me confundantur	BC S
+094	18	Cm	 Petite et accipietis	RBCKS
+094	18	CmP	Diligam te	C S
+095	00	Ru	 S Vitalis
+095	01	In	 Protexisti me deus	BCKS
+095	02	InP	Exaudi deus orationem	C S
+095	03	Al	 All. Iustus non conturbabitur	KS
+095	04	Al	 All. Iustus ut palma florebit	S
+095	05	Of	 Repleti sumus	BCKS
+095	06	OfV	Domine refugium	BC S
+095	07	OfV	Priusquam montes fierent (fierent montes)	BC S
+095	08	Cm	 Ego sum vitis vera	BCKS
+095	09	CmP	Exaudi deus deprecationem	B
+095	10	CmP	Exultate iusti	C
+095	11	CmP	Exaudi deus orationem	S
+096	00	Ru	 SS Philippi et Jacobi
+096	01	In	 Exclamaverunt ad te domine	BCKS
+096	02	InP	Exultate iusti in domino	BCKS
+096	03	InR	Confitemini domino	S
+096	04	Al	 All. Nimis honorati sunt	K
+096	05	Al	 All. In omnem terram	S
+096	06	Al	 All. Gaudete iusti	M	KS
+096	07	Of	 Confitebuntur celi	BCKS
+096	08	OfV	Misericordias tuas domine	BC
+096	09	OfV	Quoniam (quis) in nubibus	BC
+096	10	Cm	 Tanto tempore vobiscum sum	BCKS
+096	11	CmP	Exultate iusti	BC S
+096	12	CmP	Beata gens	K
+097	00	Ru	 S Alexandri et Soc
+097	01	In	 Clamaverunt iusti	BCKS
+097	02	InP	Benedicam dominum	BCKS
+097	03	InR	Timete dominum	S
+097	04	Gr	 Gloriosus deus	M BCKS
+097	05	GrV	Dextera tua domine	M BC S
+097	06	Al	 All. Qui timent dominum	C
+097	07	Al	 All. Sancti tui domine	KS
+097	08	Of	 Repleti sumus	BCKS
+097	09	OfV	Domine refugium	BC
+097	10	OfV	Priusquam montes fierent	BC
+097	11	Cm	 Iustorum anime	BCKS
+097	12	CmP	Exultate iusti	BC
+097	13	CmP	Multe tribulationes	KS
+097.2	00	Ru	 Inv S Crucis
+097.2	01	In	 Nos autem gloriari oportet (Nobis autem)	C
+097.2	02	InP	Deus misereatur nostri	C
+097.2	03	Gr	 Christus factus est	C
+097.2	04	GrV	Propter quod et deus	C
+097.2	05	Al	 All. Dominus regnavit a ligno	C
+097.2	06	Of	 Dextera domini	C
+097.2	07	OfV	In tribulatione	C
+097.2	08	OfV	Inpulsus	C
+097.2	09	Cm	 Nos autem gloriari	C
+097.2	10	CmP	Deus misereatur nostri	C
+098	00	Ru	 S Gordiani (et Soc)
+098	01	In	 Sancti tui domine	BCKS
+098	02	InP	Exaltabo te deus	BC S
+098	03	InR	Confiteantur tibi domine	S
+098	04	Gr	 Iustorum anime	CKS
+098	05	GrV	Visi sunt oculis	CKS
+098	06	Al	 All. Exultabunt sancti	KS
+098	07	Of	 Mirabilis deus	BCKS
+098	08	OfV	Exsurgat deus	BC S
+098	09	OfV	Pereant peccatores	BC S
+098	10	Cm	 Iustorum anime	BCKS
+098	11	CmP	Exaltabo te deus	B
+098	12	CmP	Multe tribulationes	S
+098	13	CmR	Custodit dominus	S
+099	00	Ru	 S Nerei et Soc
+099	01	In	 Ecce oculi domini	BCKS
+099	02	InP	Exultate iusti	B K
+099	03	InP	Benedicam dominum	C S
+099	04	Gr	 Clamaverunt iusti	CKS
+099	05	GrV	Iuxta est dominus	CKS
+099	06	Al	 All. Fulgebunt iusti	C
+099	07	Al	 All. Gaudete iusti	K
+099	08	Al	 All. Mirabilis dominus	S
+099	09	Of	 Confitebuntur celi	BCKS
+099	10	OfV	Misericordias domini / tuas domine	BC
+099	11	OfV	Quoniam quis in nubibus	BC
+099	12	Cm	 Gaudete iusti	BCKS
+099	13	CmP	Fiat misericordia tua domine	B
+099	14	CmP	Benedicam dominum	C
+100	00	Ru	 Dedic S Mariae
+100	01	In	 Terribilis est locus iste	BCKS
+100	02	InP	Dominus regnavit decore(m)	BCK
+100	03	InP	In domino confido	S
+100	04	Gr	 Locus iste a deo factus est	BCKS
+100	05	GrV	Deus cui adstat angelorum chorus	BCKS
+100	06	Al	 All. Adorabo ad templum	M	CKS
+100	07	Of	 Domine deus in simplicitate	BCKS
+100	08	OfV	Maiestas domini	BC S
+100	09	OfV	Fecit salomon	BC S
+100	10	Cm	 Domus mea domus orationis	BCKS
+100	11	CmP	Dominus regnavit	BC S
+100	12	CmP	Quam dilecta	K
+101	00	Ru	 S Pudentianae
+101	01	In	 Dilexisti iustitiam	BCKS
+101	02	InP	Eructavit	BC S
+101	03	InR	Diffusa est gratia	S
+101	04	Gr	 Dilexisti iustitiam	CKS
+101	05	GrV	Propterea	C
+101	06	GrV	Propter veritatem	S
+101	07	Al	 All. Specie tua	CKS
+101	08	Of	 Offerentur regi virgines	BCKS
+101	09	OfV	Eructavit	C S
+101	10	OfV	Adducentur regi virgines	C S
+101	11	Cm	 Diffusa est gratia	BCKS
+101	12	CmP	Eructavit	C
+101	13	CmP	Specie tua	S
+101	14	CmR	Propter veritatem	S
+101.2	00	Ru	 Vig Ascens
+101.2	01	In	 Narrabo nomen tuum	R
+101.2	02	In	 Omnes gentes	C S
+101.2	03	InP	Deus deus meus respice	R
+101.2	04	InP	Subiecit	C
+101.2	05	Al	 All. Qui posuit fines	R
+101.2	06	Al	 All. Omnes gentes	C S
+101.2	07	Of	 Deus deus meus ad te	R
+101.2	08	Of	 Viri galilei	C S
+101.2	09	OfV	Cumque intuerentur	C S
+101.2	10	Cm	 Pater cum essem cum eis	R	S
+101.2	11	Cm	 Non vos relinquam	C
+101.2	12	CmP	Dominus illuminatio mea	S
+102	00	Ru	 Ascens Dni
+102	01	In	 Viri galilei quid admiramini	RBCKS
+102	02	InP	Exurgat	R
+102	03	InP	Omnes gentes	BCKS
+102	04	InR	Ascendit deus in iubilatione	BC S
+102	05	Al	 All. Ascendit deus	MRBCKS
+102	06	Al	 All. Dominus in sina	MRBCKS
+102	07	Of	 Ascendit deus in iubilatione	BCKS
+102	08	OfV	Omnes gentes	BC S
+102	09	OfV	Quoniam dominus	BC S
+102	10	OfV	Subiecit populos nobis	BC S
+102	11	Of	 Viri galilei	RB
+102	12	OfV	Cumque intuerentur	B
+102	13	Cm	 Psallite (domino) qui ascendit	RBCKS
+102	14	CmP	Exurgat deus	BC S
+102	15	CmP	Regna terre	K
+102	16	CmR	Date gloriam	B
+102	17	CmR	Regna terre	S
+103	00	Ru	 Dom p Ascens
+103	01	In	 Exaudi domine vocem meam ... alleluia	R CKS
+103	02	InP	Dominus illuminatio	R CKS
+103	03	InR	Dominus protector	S
+103	04	Al	 All. Ascendit deus	R
+103	05	Al	 All. Confiteantur domino	R
+103	06	Al	 All. Regnavit dominus super omnes	C
+103	07	Al	 All. Dominus regnavit decorem	C
+103	08	Al	 All. Lauda anima mea	S
+103	09	Al	 All. Paratum cor meum	S
+103	10	Of	 Ascendit deus in iubilatione	R
+103	11	Of	 Viri galilei	C
+103	12	Of	 Lauda anima mea dominum	CKS
+103	13	OfV	Qui custodit	C S
+103	14	OfV	Dominus erigit elisos / eligit allisos	C S
+103	15	Cm	 Pater cum essem cum eis	R CKS
+103	16	CmP	Dominus inluminatio mea	C S
+103	17	CmP	Propter fratres meos	K
+104	00	Ru	 S Urbani
+104	01	In	 Sacerdotes tui domine induant iustitiam	BCKS
+104	02	InP	Memento domine david	BC S
+104	03	InR	Sacerdotes. Posui adjutorium	S
+104	04	Gr	 Inveni david	BCKS
+104	05	GrV	Nihil proficiet	BC
+104	06	Al	 All. Memento domine david	BC S
+104	07	Al	 All. Posui adiutorium	K
+104	08	Of	 Veritas mea	BCKS
+104	09	OfV	Posui adiutorium	BC S
+104	10	OfV	Misericordia(m) mea(m)	C S
+104	11	Cm	 Fidelis servus	BCKS
+104	12	CmP	Memento domine david	BC
+105	00	Ru	 Vig Pent
+105	01	Al	 All. Confitemini domino quoniam bonus	MRBCKS
+105	02	Tc	 Laudate dominum omnes gentes	M	CKS
+105	03	Of	 Emitte spiritum tuum	RBCKS
+105	04	OfV	Benedic anima mea	BC S
+105	05	OfV	Confessionem et decorem	BC S
+105	06	OfV	Extendens celum	BC S
+105	07	Cm	 Ultimo festivitatis diem	RBCKS
+105	08	CmP	Benedic anima mea	BC S
+105	09	CmP	Emitte spiritum	K
+105	10	CmR	Emitte spiritum tuum	S
+106	00	Ru	 Dom Pent
+106	01	In	 Spiritus domini replevit	RBCKS
+106	02	InP	Exurgat deus	RBCKS
+106	03	InR	Confirma hoc deus	BC S
+106	04	Al	 All. Emitte spiritum tuum	MRBCKS
+106	05	Al	 All. Spiritus domini replevit	MR CKS
+106	06	Al	 All. Hec dies	B
+106	07	Of	 Confirma hoc deus	RBCKS
+106	08	OfV	Cantate domino	BC S
+106	09	OfV	In ecclesiis benedicite	BC S
+106	10	OfV	Regna terre	B	S
+106	11	Of	 Factus est repente	B
+106	12	OfV	Et repleti sunt omnes	B
+106	13	Cm	 Factus est repente	RBCKS
+106	14	CmP	Exurgat deus	BC S
+106	15	CmP	Dominus dabit verbum	K
+107	00	Ru	 Fer II Pent
+107	01	In	 Cibavit eos ex adipe frumenti	RBCKS
+107	02	InP	Exultate deo	RBCKS
+107	03	InR	Sumite psalmum	S
+107	04	Al	 All. Spiritus domini replevit	R
+107	05	Al	 All. Emitte spiritum tuum	C
+107	06	Of	 Portas celi aperuit	R
+107	07	Of	 Intonuit de celo dominus	BCKS
+107	08	OfV	Diligam te	BC
+107	09	OfV	Liberator meus	BC
+107	10	Cm	 Spiritus sanctus docebit	RBCKS
+107	11	CmP	Exultate deo	BC
+107	12	CmP	Cantate domino	S
+107	13	CmR	Annuntiate inter gentes	S
+108	00	Ru	 Fer III Pent
+108	01	In	 Accipite iocunditatem	BCKS
+108	02	InP	Attendite populus meus	BCKS
+108	03	InR	Narrantes	C S
+108	04	Al	 All. Spiritus domini replevit	C
+108	05	Of	 Portas celi aperuit	BCKS
+108	06	OfV	Attendite populus meus	BC
+108	07	OfV	Aperiam in parabola	BC
+108	08	Cm	 Spiritus qui a patre procedit	BCKS
+108	09	CmP	Attendite populus meus	BC
+108	10	CmP	Cor mundum crea	S
+108	11	CmR	Ne proicias me	S
+109	00	Ru	 Fer IV Pent
+109	01	In	 Deus dum egredereris	BCKS
+109	02	InP	Exurgat deus	BCKS
+109	03	Al	 All. Sit gloria domini	C
+109	04	Of	 Meditabor in mandatis tuis	BCKS
+109	05	OfV	Pars mea dominus	BC
+109	06	OfV	Miserere mei secundum	C
+109	07	Cm	 Pacem meam do vobis	BCKS
+109	08	CmP	Exurgat deus	BC
+109	09	CmP	Deus in loco sancto	S
+109	10	CmR	Regna terre	S
+110	00	Ru	 Fer VI Pent
+110	01	In	 Repleatur os meum laude	BCKS
+110	02	InP	In te domine speravi	CKS
+110	03	InR	Inclina ad me	S
+110	04	Al	 All. Emitte spiritum tuum	C
+110	05	Of	 Lauda anima mea dominum	BCKS
+110	06	OfV	Qui custodit veritatem	BC
+110	07	OfV	Dominus eregit (erigit)	BC
+110	08	Cm	 Spiritus ubi vult spirat	BCKS
+110	09	CmP	In te domine	BC
+110	10	CmP	Sit nomen domini benedictum	S
+110	11	CmR	Et benedicentur	S
+111	00	Ru	 Sab Pent
+111	01	In	 Caritas dei diffusa est	BCKS
+111	02	InP	Domine deus salutis mee	BCKS
+111	03	Va	 Benedictus es in firmamento	C
+111	04	Of	 Domine deus salutis	BCKS
+111	05	OfV	Inclina aurem tuam	BC
+111	06	OfV	Et ego ad te domine	C
+111	07	OfV	Factus sum sicut homo	BC
+111	08	Cm	 Non vos relinquam	BCKS
+111	09	CmP	Attendite populus meus	B
+111	10	CmP	Domine deus salutis mee	C
+111	11	CmP	Letamini in domino	K
+112	00	Ru	 SS Marcellini et Petri
+112	01	In	 Clamaverunt iusti	BCKS
+112	02	InP	Benedicam dominum	C S
+112	03	InR	Timete dominum	S
+112	04	Gr	 Clamaverunt iusti	CKS
+112	05	GrV	Iuxta est dominus	C S
+112	06	Al	 All. Iusti in perpetuum vivent	K
+112	07	Al	 All. Multe tribulationes	S
+112	08	Al	 All. Sancti tui domine	C S
+112	09	Of	 Letamini in domino	BCKS
+112	10	OfV	Beati quorum	C
+112	11	OfV	Pro hac orabit	C
+112	12	Cm	 Iustorum anime	BCKS
+112	13	CmP	Benedicam dominum	C
+112	14	CmP	Multe tribulationes	S
+112	15	CmR	Custodit dominus	S
+113	00	Ru	 SS Primi et Feliciani
+113	01	In	 Sapientia(m) sanctorum	BCKS
+113	02	InP	Exultate iusti	BCKS
+113	03	InR	Cantate ei canticum	S
+113	04	Gr	 Exultabunt sancti	CKS
+113	05	GrV	Cantate domino	CKS
+113	06	Al	 All. Sancti tui domine	K
+113	07	Al	 All. Exultabunt sancti	S
+113	08	Of	 Mirabilis deus	BCKS
+113	09	OfV	Exurgat deus	BC S
+113	10	OfV	Pereant peccatores	BC S
+113	11	Cm	 Ego vos elegi	BCKS
+113	12	CmP	Exultate	C
+113	13	CmP	Ego dixi dii estis	KS
+113	14	CmR	Vos autem sicut homines	S
+114	00	Ru	 S Basilidis et Soc
+114	01	In	 Gloria et honore coronasti eum	B
+114	02	In	 Intret in conspectu tuo	CKS
+114	03	InP	Domine dominus noster	B
+114	04	InP	Deus venerunt	S
+114	05	InR	Effuderunt sanguinem	S
+114	06	Gr	 Vindica domine	CKS
+114	07	GrV	Posuerunt mortalia	CKS
+114	08	Al	 All. Iusti epulentur	C
+114	09	Al	 All. Exultabunt sancti	KS
+114	10	Of	 In virtute tua	B
+114	11	Of	 Exultabunt sancti	CKS
+114	12	OfV	Vitam petiit	B
+114	13	OfV	Magna est gloria eius	B
+114	14	OfV	Cantate domino	C S
+114	15	Cm	 Posuisti domine	B
+114	16	Cm	 Posuerunt mortalia	CKS
+114	17	CmP	Facti sumus	S
+115	00	Ru	 SS Marci et Marcelliani
+115	01	In	 Salus autem iustorum	BCKS
+115	02	InP	Noli emulari	BCKS
+115	03	InR	Et adiuvabit eos	S
+115	04	Gr	 Iustorum anime	CKS
+115	05	GrV	Visi sunt oculi	C S
+115	06	Al	 All. Vindica domine	C
+115	07	Al	 All. Venite benedicti	KS
+115	08	Of	 Anima nostra	BCKS
+115	09	OfV	Nisi quia dominus	B
+115	10	OfV	Torrentem petransivit	BC
+115	11	Cm	 Amen dico vobis quod uni	BCKS
+115	12	Cm	 Ego vos elegi	B
+115	13	CmP	Noli emulari	BC
+115	14	CmP	Laudate pueri dominum	S
+115	15	CmR	Dispersit dedit	S
+116	00	Ru	 SS Gervasii et Protasii
+116	01	In	 Loquetur dominus	BCKS
+116	02	InP	Benedixisti	BCKS
+116	03	InR	Remisisti	S
+116	04	Gr	 Gloriosus deus	CKS
+116	05	GrV	Dextera tua domine	C S
+116	06	Al	 All. Exultabunt sancti	C
+116	07	Al	 All. Confitebuntur celi	K
+116	08	Al	 All. Multe tribulationes	S
+116	09	Of	 Letamini in domino	BCKS
+116	10	OfV	Beati quorum	S
+116	11	OfV	Pro hac oravit	B	S
+116	12	Cm	 Posuerunt mortalia	BCKS
+116	13	CmP	Deus venerunt	C
+116	14	CmP	Facti sumus	S
+116	15	CmR	Ultio sanguinis	S
+117	00	Ru	 Vig S Joannis Bapt
+117	01	In	 Ne timeas zacharias	RBCKS
+117	02	InP	Domine in virtute tua	RBCKS
+117	03	InR	Magna est gloria eius	C
+117	04	InR	Desiderium cordis	S
+117	05	Gr	 Fuit homo missus a deo	MRBCKS
+117	06	GrV	Ut testimonium	MRBCKS
+117	07	Of	 Gloria et honore	RBCKS
+117	08	OfV	Domine dominus noster	BC S
+117	09	OfV	Quid est homo	C S
+117	10	Cm	 Magna est gloria eius	RBCKS
+117	11	CmP	Domine in virtute tua	BC
+117	12	CmP	Quoniam prevenisti eum	S
+117	13	CmR	Vitam petiit	S
+118	00	Ru	 S Joannis Bapt 1
+118	01	In	 Iustus ut palma florebit	B KS
+118	02	InP	Bonum est	B KS
+118	03	InR	Ad annuntiandum	S
+118	04	Gr	 Iustus ut palma florebit	M B KS
+118	05	GrV	Bonum est	M B
+118	06	GrV	Ad annuntiandum	S
+118	07	Of	 In virtute tua	B KS
+118	08	Cm	 Posuisti domine	B KS
+118	09	CmP	Domine in virtute tua	B	S
+118	10	CmR	Vitam petiit	S
+119	00	Ru	 S Joannis Bapt 2
+119	01	In	 De ventre matris mee	RBCKS
+119	02	InP	Bonum est	RBCKS
+119	03	InR	Iustus ut palma	BC S
+119	04	Gr	 Priusquam te formarem	MRBCKS
+119	05	GrV	Misit dominus manum suam	MRBCKS
+119	06	Al	 All. Ipse preibit	M	C
+119	07	Al	 All. Beatus vir qui timet	RB KS
+119	08	Of	 Iustus ut palma	RBCKS
+119	09	OfV	Bonum est	BC S
+119	10	OfV	Ad annuntiandum	BC S
+119	11	OfV	Plantati in domo dominus	BC S
+119	12	Of	 Ingressus est zacharias	B
+119	13	OfV	Elisabeth venit	B
+119	14	Cm	 Tu puer propheta	RBCKS
+119	15	CmP	Ad dandam	BCK
+119	16	CmP	Benedictus dominus	S
+119	17	CmR	Ad dandam	S
+120	00	Ru	 SS Joannis et Pauli
+120	01	In	 Multe tribulationes iustorum	BCKS
+120	02	InP	Benedicam dominum	BCKS
+120	03	InR	Iuxta est dominus	C S
+120	04	Gr	 Ecce quam bonum	M BCKS
+120	05	GrV	Sicut unguentum	M	CKS
+120	06	GrV	Mandavit dominus	BC S
+120	07	Al	 All. Gaudete iusti	CKS
+120	08	Of	 Gloriabuntur in te omnes	BCKS
+120	09	OfV	Verba mea	BC S
+120	10	OfV	Quoniam ad te	BC S
+120	11	Cm	 Et si coram	BCKS
+120	12	CmP	Benedicam dominum	BC
+120	13	CmP	Multe tribulationes	K
+120	14	CmP	Timete dominum	S
+120	15	CmR	Multe tribulationes	S
+121	00	Ru	 Vig S Petri
+121	01	In	 Dicit dominus petro cum esses iunior	BCKS
+121	02	InP	Celi enarrant	BCKS
+121	03	InR	In omnem terram	C
+121	04	Gr	 In omnem terram	M BCKS
+121	05	GrV	Celi enarrant	M BCKS
+121	06	Of	 Mihi autem nimis	BCKS
+121	07	OfV	Domine probasti me	BC S
+121	08	OfV	Intellexisti cogitationes *	BC S
+121	09	OfV	Ecce domine tu cognovisti *	BC S
+121	10	Cm	 Tu es petrus	BCKS
+121	11	CmP	Celi enarrant	B
+121	12	CmP	Domine probasti me	CK
+122	00	Ru	 S Petri
+122	01	In	 Nunc scio vere quia misit	BCKS
+122	02	InP	Domine probasti me	BCKS
+122	03	InR	Dinumerabo eos	C
+122	04	Gr	 Constitues eos	M BCKS
+122	05	GrV	Pro patribus tuis	M BCKS
+122	06	Al	 All. Tu es petrus	M B
+122	07	AlV	Beatus es simon petre	M
+122	08	Al	 All. Beatus es symon bar iona	CK
+122	09	Al	 All. Nimis honorati sunt	B	S
+122	10	Of	 Constitues eos	BCKS
+122	11	OfV	Eructavit cor meum	BC S
+122	12	OfV	Lingua mea calamus	BC S
+122	13	OfV	Propterea benedixit	BC S
+122	14	Cm	 Simon johannis diligis me	BCKS
+122	15	CmP	Domine probasti me	B
+122	16	CmP	Simon iohannis diligis me	C
+122	17	CmP	Et omnes vias meas	K
+123	00	Ru	 S Pauli
+123	01	In	 Scio cui credidi	BCKS
+123	02	InP	Domine probasti me	BCKS
+123	03	Gr	 Qui operatus est	M BCKS
+123	04	GrV	Gratia dei in me vacua	M BCKS
+123	05	Al	 All. Gaudete iusti	M B KS
+123	06	Al	 All. Celi enarrant	C
+123	07	?	Transivimus per ignem	S
+123	08	Of	 Mihi autem nimis	BCKS
+123	09	OfV	Domine probasti me	C
+123	10	OfV	Intellexisti	C
+123	11	OfV	Ecce domine tu	C
+123	12	Cm	 Amen dico vobis quod vos	BCKS
+123	13	CmP	Domine probasti me	BC
+123	14	CmP	Cantate domino	K
+124	00	Ru	 SS Processi et Martiniani
+124	01	In	 Iudicant sancti gentes	BCKS
+124	02	InP	Exultate iusti	BCKS
+124	03	Gr	 Exultabunt sancti	M BCKS
+124	04	GrV	Cantate domino	M B	S
+124	05	Al	 All. Exultabunt sancti	C
+124	06	Al	 All. Sancti tui domine	K
+124	07	Al	 All. Gaudete iusti	S
+124	08	Of	 Gloriabuntur in te omnes	BCKS
+124	09	OfV	Verba mea	BC
+124	10	OfV	Quoniam ad te orabo domine	C
+124	11	Cm	 Anima nostra sicut passer	BCKS
+124	12	CmP	Nisi quia dominus	B	S
+124	13	CmP	Exultate iusti	C
+124	14	CmR	Laqueus contritus est	S
+125	00	Ru	 Oct SS Petri et Pauli
+125	01	In	 Sapientia(m) sanctorum	BCKS
+125	02	InP	Celi enarrant	BC
+125	03	InP	Exultate iusti	S
+125	04	InR	Cantate domino canticum	S
+125	05	Gr	 Iustorum anime	BCKS
+125	06	GrV	Visi sunt	BC S
+125	07	Al	 All. Sancti tui domine	BC
+125	08	Al	 All. Venite benedicti	KS
+125	09	Of	 Exultabunt sancti	BCKS
+125	10	OfV	Cantate domino canticum	C
+125	11	Cm	 Iustorum anime	BCKS
+125	12	CmP	Celi enarrant	BC
+125	13	CmP	Multe tribulationes	S
+125	14	CmR	Custodit dominus	S
+126	00	Ru	 SS VII Fratrum
+126	01	In	 Laudate pueri dominum	BCKS
+126	02	InP	Laudate pueri	BC
+126	03	InP	Sit nomen domini	KS
+126	04	InR	Ut collocet	C
+126	05	InR	A solis ortu	S
+126	06	Gr	 Anima nostra	M B
+126	07	Gr	 Vindica domine	CKS
+126	08	GrV	Nisi quod dominus	M
+126	09	GrV	Laqueos contritus est	B
+126	10	GrV	Posuerunt	C S
+126	11	Al	 All. Laudate pueri dominum	M	KS
+126	12	Of	 Anima nostra	BCKS
+126	13	OfV	Nisi quod / quia dominus	BC
+126	14	Cm	 Quicumque fecerit	BCKS
+126	15	CmP	Laudate pueri	BC
+126	16	CmP	Venite filii	KS
+126	17	CmR	Quis est homo qui vult	S
+127	00	Ru	 S Praxedis
+127	01	In	 Loquebar de testimoniis tuis	BCKS
+127	02	InP	Beati immaculati	BC S
+127	03	InR	Me expectaverunt	S
+127	04	Gr	 Dilexisti iustitiam	M BCKS
+127	05	GrV	Propterea unxit te	M B	S
+127	06	GrV	Propterea benedixit	C
+127	07	Al	 All. Adducentur	K
+127	08	Al	 All. Diffusa est gratia	S
+127	09	Of	 Diffusa est gratia	BCKS
+127	10	OfV	Eructavit	C S
+127	11	OfV	Specie tua	C S
+127	12	Cm	 Simile est regnum celorum	BCKS
+127	13	CmP	Beati immaculati	B
+128	00	Ru	 S Apollinaris
+128	01	In	 Sacerdotes dei benedicite domino	B KS
+128	02	InP	Memento david	B
+128	03	Gr	 Inveni david	M B KS
+128	04	GrV	Nihil proficiet	M B	S
+128	05	Al	 All. Posui adiutorium	K
+128	06	Al	 All. Inveni david	S
+128	07	Of	 Veritas mea	B KS
+128	08	OfV	Posui adiutorium	S
+128	09	OfV	Misericordia mea	S
+128	10	Cm	 Semel iuravi in sancto meo	B KS
+128	11	CmP	Misericordias domini	B
+128	12	CmP	Inveni david	K
+129	00	Ru	 S Simplicii et Soc
+129	01	In	 Sacerdotes eius induantur iusticia / induam salutari	B KS
+129	02	InP	Memento domine david	B KS
+129	03	Gr	 Ecce sacerdos magnus	M B
+129	04	Gr	 Sacerdotes eius	KS
+129	05	GrV	Non est inventus	M B
+129	06	GrV	Illuc producam cornu david	KS
+129	07	Al	 All. Disposui testamentum	K
+129	08	Al	 All. Sancti tui domine	S
+129	09	Of	 Veritas mea	B
+129	10	Of	 Letamini in domino	KS
+129	11	OfV	Beati quorum	S
+129	12	OfV	Pro hac orabit	S
+129	13	Cm	 Beatus servus	B
+129	14	Cm	 Iustorum anime	KS
+129	15	CmP	Memento domine david	B
+130	00	Ru	 SS Abdon et Sennes
+130	01	In	 Intret in conspectu tuo	B KS
+130	02	InP	Deus venerunt	S
+130	03	Gr	 Gloriosus deus	M B KS
+130	04	GrV	Dextera tua domine	M B	S
+130	05	Al	 All. Exultabunt sancti	KS
+130	06	Of	 Mirabilis deus	B KS
+130	07	OfV	Exurgat deus	S
+130	08	OfV	Pereant peccatores	S
+130	09	Cm	 Posuerunt mortalia	B KS
+130	10	CmP	Deus venerunt	B
+131	00	Ru	 S Stephani
+131	01	In	 Sacerdotes eius induam	B
+131	02	In	 Iustus ut palma florebit	KS
+131	03	InP	Memento domine david	B
+131	04	InP	Bonum est	S
+131	05	Gr	 Os iusti	B
+131	06	Gr	 Iustus non conturbabitur	KS
+131	07	GrV	Lex dei eius	B
+131	08	GrV	Tota die miseretur	KS
+131	09	Al	 All. Inveni david	KS
+131	10	Of	 Inveni david	B	S
+131	11	Of	 Gloria et honore	K
+131	12	OfV	Potens es domine	B	S
+131	13	OfV	Veritas mea	B	S
+131	14	Cm	 Domine quinque talenta	B KS
+131	15	CmP	Memento domine david	B
+132	00	Ru	 S Xysti
+132	01	In	 Sacerdotes dei benedicite domino	B
+132	02	In	 Sacerdotes tui domine induant iustitiam	KS
+132	03	InP	Memento domine david	B
+132	04	InP	Benedicite omnia	S
+132	05	Gr	 Sacerdotes eius	KS
+132	06	GrV	Illuc producam	S
+132	07	Al	 All. Elegit te dominus	K
+132	08	Al	 All. Inveni david	S
+132	09	Of	 Inveni david	B KS
+132	10	OfV	Potens es	S
+132	11	OfV	Veritas mea	S
+132	12	Cm	 Fidelis servus	B KS
+132	13	CmP	Memento domine david	B
+133	00	Ru	 SS Felicissimi et Agapiti
+133	01	In	 Salus autem iustorum	B KS
+133	02	InP	Noli emulari	B	S
+133	03	Gr	 Iustorum anime	KS
+133	04	GrV	Visi sunt	S
+133	05	Al	 All. Sancti tui domine	K
+133	06	Al	 All. Gaudete iusti	S
+133	07	Of	 Gloriabuntur in te omnes	B KS
+133	08	OfV	Verba mea	B	S
+133	09	OfV	Quoniam ad te orabo domine	B	S
+133	10	Cm	 Ego vos elegi	B KS
+133	11	CmP	Noli emulari	B
+134	00	Ru	 S Cyriaci
+134	01	In	 Timete dominum omnes sancti eius	B KS
+134	02	InP	Benedicam dominum	B KS
+134	03	Gr	 Timete Dominum	M B KS
+134	04	GrV	Inquirentes autem	M B KS
+134	05	Al	 All. Iusti in perpetuum vivent	K
+134	06	Of	 Letamini in domino	B KS
+134	07	OfV	Beati quorum	B	S
+134	08	OfV	Pro hac orabat (orabit)	B	S
+134	09	Cm	 Signa eos qui in me credunt	B KS
+135	00	Ru	 Vig S Laurentii
+135	01	In	 Dispersit dedit pauperibus	B KS
+135	02	InP	Beatus vir qui timet	B KS
+135	03	Gr	 Dispersit dedit pauperibus	M B KS
+135	04	GrV	Potens in terra	M B KS
+135	05	Of	 Gloria et honore	B
+135	06	Of	 Oratio mea	KS
+135	07	OfV	Probavit dominus	S
+135	08	Cm	 Qui vult venire	B KS
+135	09	CmP	Beatus vir qui timet	B
+136	00	Ru	 S Laurentii
+136	01	In	 Confessio et pulchritudo	B KS
+136	02	InP	Cantate domino / ei	B	S
+136	03	Gr	 Probasti domine cor meum	M B KS
+136	04	GrV	Igne me examinasti	M B KS
+136	05	Al	 All. Beatus vir qui timet	B KS
+136	06	Of	 Confessio et pulchritudo	B KS
+136	07	OfV	Cantate domino canticum	B	S
+136	08	OfV	Cantate domino (et) benedicite	B	S
+136	09	Cm	 Qui mihi ministrat	B KS
+136	10	CmP	Cantate domino	B
+136	11	CmP	Beatus vir qui timet	K
+137	00	Ru	 S Tiburtii
+137	01	In	 Iustus ut palma florebit	B KS
+137	02	InP	Bonum est confiteri	B	S
+137	03	Gr	 Os iusti	KS
+137	04	GrV	Lex dei eius	KS
+137	05	Al	 All. Gloria et honore	K
+137	06	Al	 All. Inveni david	S
+137	07	Of	 In virtute tua	B KS
+137	08	OfV	Vitam petiit	S
+137	09	OfV	Magna est	S
+137	10	Cm	 Posuisti domine	B KS
+137	11	CmP	Domine in virtute tua	B
+138	00	Ru	 S Hippolyti
+138	01	In	 Iusti epulentur	B KS
+138	02	InP	Exurgat deus	B KS
+138	03	Gr	 Iustorum anime	KS
+138	04	GrV	Visi sunt	S
+138	05	Al	 All. Gaudete iusti	K
+138	06	Al	 All. Sancti tui domine	S
+138	07	Of	 Anima nostra	B KS
+138	08	OfV	Nisi quod dominus	S
+138	09	OfV	Torrentem	S
+138	10	Cm	 Dico autem vobis	B KS
+138	11	Cm	 Amen dico vobis quod uni	B
+138	12	CmP	Exurgat deus	B
+138	13	CmP	Exultate iusti	S
+139	00	Ru	 S Eusebii
+139	01	In	 Os iusti meditabitur	B KS
+139	02	InP	Noli emulari	B	S
+139	03	Gr	 Os iusti	KS
+139	04	GrV	Lex dei eius	S
+139	05	Al	 All. Iustus non conturbabitur	K
+139	06	Al	 All. Inveni david	S
+139	07	Of	 Desiderium anime	B KS
+139	08	OfV	Vitam petiit	B	S
+139	09	OfV	Letificabis eum	B	S
+139	10	OfV	Inveniatur manus	B	S
+139	11	Cm	 Beatus servus	B KS
+139	12	CmP	Noli emulari	B
+140	00	Ru	 Assumpt S Mariae
+140	01	In	 Vultum tuum deprecabuntur	B KS
+140	02	InP	Eructavit	S
+140	03	Gr	 Propter veritatem	B KS
+140	04	GrV	Audi filia	B KS
+140	05	Al	 All. Specie tua	B	S
+140	06	Al	 All. Adducentur	K
+140	07	Of	 Offerentur regi virgines	B KS
+140	08	OfV	Eructavit	S
+140	09	OfV	Adducentur regi virgines	S
+140	10	Cm	 Dilexisti iusticiam	B KS
+140	11	CmP	?	B
+140	12	CmP	Propterea benedixit te deus	K
+141	00	Ru	 Oct S Laurentii
+141	01	In	 Probasti domine cor meum	B KS
+141	02	InP	Exaudi domine	B KS
+141	03	Gr	 Posuisti domine	KS
+141	04	GrV	Desiderium	S
+141	05	Al	 All. Iustus ut palma florebit	K
+141	06	Al	 All. Beatus vir qui timet	S
+141	07	Of	 In virtute tua	B KS
+141	08	OfV	Vitam petiit	S
+141	09	OfV	Magna est	S
+141	10	Cm	 Qui vult venire	B K
+141	11	Cm	 Beatus servus	S
+141	12	CmP	Exaudi domine	B
+142	00	Ru	 S Agapiti
+142	01	In	 Letabitur iustus	B KS
+142	02	InP	Exaudi deus	B	S
+142	03	Gr	 Iustus non conturbabitur	KS
+142	04	GrV	Tota die miseretur	S
+142	05	Al	 All. Gloria et honore	K
+142	06	Al	 All. Inveni david	S
+142	07	Of	 In virtute tua	B KS
+142	08	OfV	Vitam petiit	S
+142	09	OfV	Magna est	S
+142	10	Cm	 Beatus servus	B KS
+142	11	CmP	Exaudi deus	B
+143	00	Ru	 S Timothei
+143	01	In	 Salus autem iustorum	B KS
+143	02	Gr	 Vindica domine	K
+143	03	Gr	 Pretiosa in conspectu	S
+143	04	GrV	Credidi propter quod	S
+143	05	Al	 All. Exultabunt sancti	K
+143	06	Al	 All. Sancti tui domine	S
+143	07	Of	 Mirabilis deus	K KS
+143	08	OfV	Exurgat deus	S
+143	09	OfV	Pereant peccatores	S
+143	10	Cm	 Ego vos elegi	B KS
+144	00	Ru	 S Hermetis
+144	01	In	 Iustus non conturbabitur	B KS
+144	02	InP	Noli emulari	B K
+144	03	InP	Beati immaculati	S
+144	04	Gr	 Iustus non conturbabitur	M
+144	05	Gr	 Iustus ut palma florebit	KS
+144	06	GrV	Tota die miseretur	M
+144	07	GrV	Ad annuntiandum	S
+144	08	Al	 All. Beatus vir qui timet	KS
+144	09	Of	 In virtute tua	B KS
+144	10	OfV	Vitam petiit	S
+144	11	OfV	Magna est	S
+144	12	Cm	 Multitudo languentium	B
+144	13	Cm	 Posuisti domine	KS
+144	14	CmP	Noli emulari	B
+144.2	00	Ru	 Nat S Mariae
+144.2	01	Gr	 Propter veritatem	M
+144.2	02	GrV	Audi filia	M
+145	00	Ru	 S Sabinae
+145	01	In	 Cognovi domine quia equitas	B KS
+145	02	InP	Beati immaculati	B K
+145	03	Gr	 Concupivit rex decorem	M
+145	04	Gr	 Specie tua	KS
+145	05	GrV	Audi filia	M
+145	06	GrV	Propter veritatem	S
+145	07	Al	 All. Diffusa est gratia	K
+145	08	Of	 Filie regum	B KS
+145	09	OfV	Eructavit	B	S
+145	10	OfV	Virga recta est	B	S
+145	11	Cm	 Principes persecuti sunt	B KS
+145	12	CmP	Beati immaculati	B
+146	00	Ru	 SS Felicis et Adaucti
+146	01	In	 Sapientia(m) sanctorum	B KS
+146	02	InP	Exultate iusti in domino	S
+146	03	Gr	 Gloriosus deus	KS
+146	04	GrV	Dextera tua domine	S
+146	05	Al	 All. Te martyrum candidatus	K
+146	06	Al	 All. Sancti tui domine	S
+146	07	Of	 Letamini in domino (Letamini iusti)	B K
+146	08	Of	 In virtute tua	S
+146	09	OfV	Vitam petiit	S
+146	10	OfV	Magna est	S
+146	11	Cm	 Quod dico vobis	B KS
+146	12	CmP	Cantate deo psalmum dicite	K
+147	00	Ru	 S Adriani
+147	01	In	 Letabitur iustus	B KS
+147	02	InP	Exaudi deus	S
+147	03	Gr	 Domine prevenisti	KS
+147	04	GrV	Vitam petiit	KS
+147	05	Al	 All. Iustus ut palma florebit	K
+147	06	Al	 All. Beatus vir qui timet	S
+147	07	Of	 Gloria et honore	B KS
+147	08	OfV	Domine dominus noster	S
+147	09	OfV	Quid est homo	S
+147	10	Cm	 Posuisti domine	B KS
+148	00	Ru	 S Gorgonii
+148	01	In	 Gloria et honore coronasti eum	KS
+148	02	InP	Domine dominus noster	KS
+148	03	Gr	 Posuisti domine	KS
+148	04	GrV	Desiderium	S
+148	05	Al	 All. Gloria et honore	K
+148	06	Al	 All. Beatus vir qui timet	S
+148	07	Of	 Posuisti domine	KS
+148	08	OfV	Desiderium	S
+148	09	OfV	Magna est	S
+148	10	Cm	 Posuisti domine	KS
+148.2	00	Ru	 S Stephani
+148.2	01	Of	 Elegerunt apostoli	S
+148.2	02	OfV	Surrexerunt autem	S
+149	00	Ru	 SS Proti et Jacinthi
+149	01	In	 Iudicant sancti gentes	B KS
+149	02	InP	Exultate iusti	S
+149	03	Gr	 Vindica domine	KS
+149	04	GrV	Posuerunt mortalia	S
+149	05	Al	 All. Sancti tui domine	K
+149	06	Al	 All. Exultabunt sancti	S
+149	07	Of	 Gloriabuntur in te omnes	B K
+149	08	Of	 Gloria et honore	S
+149	09	OfV	Domine dominus noster	S
+149	10	OfV	Quid est homo	S
+149	11	Cm	 Qui vult venire	B
+149	12	Cm	 Anima nostra sicut passer	KS
+150	00	Ru	 Exalt S Crucis
+150	01	In	 Nos autem gloriari	KS
+150	02	InP	Dominus regnavit decore	KS
+150	03	Gr	 Christus factus est	KS
+150	04	GrV	Propter quod deus exaltavit	S
+150	05	Al	 All. Redemptionem	K
+150	06	Of	 Deus enim firmavit	KS
+150	07	OfV	Dominus regnavit	S
+150	08	OfV	Mirabilis in excelsis	S
+150	09	Cm	 Nos autem gloriari	KS
+150	10	CmP	Annunciate inter gentes	K
+151	00	Ru	 SS Cornelii et Cypriani
+151	01	In	 Sacerdotes dei	B KS
+151	02	InP	Memento	B	S
+151	03	Gr	 Sacerdotes eius	KS
+151	04	GrV	Illuc producam	S
+151	05	Al	 All. Disposui testamentum	K
+151	06	Of	 Veritas mea	B KS
+151	07	OfV	Posui adiutorium	S
+151	08	OfV	Misericordia mea	S
+151	09	Cm	 Domine quinque talenta	B KS
+151	10	CmP	Memento	S
+152	00	Ru	 S Nicomedis
+152	01	In	 Letabitur iustus	B KS
+152	02	InP	Beati quorum	B
+152	03	InP	Exaudi deus	S
+152	04	Gr	 Posuisti domine	KS
+152	05	GrV	Desiderium	S
+152	06	Al	 All. Iustus non conturbabitur	K
+152	07	Al	 All. Beatus vir qui timet	S
+152	08	Of	 Gloria et honore	B KS
+152	09	OfV	Domine dominus noster	S
+152	10	OfV	Quid est homo	S
+152	11	Cm	 Qui vult venire	B KS
+152	12	InP	Beati quorum	B
+153	00	Ru	 S Euphemiae et Soc
+153	01	In	 Vultum tuum deprecabuntur	B KS
+153	02	InP	Eructavit	S
+153	03	Gr	 Diffusa est gratia	KS
+153	04	GrV	Propter veritatem	S
+153	05	Al	 All. Specie tua	KS
+153	06	Of	 Offerentur regi virgines	B KS
+153	07	OfV	Eructavit	S
+153	08	Cm	 Simile est regnum celorum	B KS
+153	09	Cm	 In salutari tuo	B
+153	10	CmP	Beati immaculati	B
+154	00	Ru	 Vig S Matthaei
+154	01	In	 Ego autem sicut oliva	B KS
+154	02	InP	Quid gloriaris	B	S
+154	03	Gr	 Iustus ut palma florebit	B KS
+154	04	GrV	Bonum est confiteri	B
+154	05	GrV	Ad annuntiandum	S
+154	06	Al	 All. Beatus vir qui timet	S
+154	07	Of	 Gloria et honore	B KS
+154	08	OfV	Domine dominus noster	S
+154	09	OfV	Quid est homo	S
+154	10	Cm	 Posuisti domine	B KS
+155	00	Ru	 S Matthaei
+155	01	In	 Os iusti meditabitur	B KS
+155	02	InP	Noli emulari	S
+155	03	Gr	 Beatus vir qui timet	B KS
+155	04	GrV	Potens in terra	B	S
+155	05	Al	 All. Inveni david	B	S
+155	06	Al	 All. Iustus ut palma florebit	K
+155	07	Of	 Posuisti domine	B KS
+155	08	OfV	Desiderium anime	B	S
+155	09	OfV	Magna est	B	S
+155	10	Cm	 Magna est gloria eius	B KS
+155	11	CmP	Domine in virtute tua	B
+156	00	Ru	 SS Cosmae et Damiani
+156	01	In	 Sapientia(m) sanctorum	B KS
+156	02	InP	Exultate iusti	S
+156	03	Gr	 Clamaverunt iusti	B KS
+156	04	GrV	Iuxta est dominus	B	S
+156	05	Al	 All. Exultabunt sancti	KS
+156	06	Of	 Gloriabuntur in te omnes	B KS
+156	07	OfV	Verba mea	S
+156	08	OfV	Quoniam ad te orabo	S
+156	09	Cm	 Posuerunt mortalia	B KS
+157	00	Ru	 Dedic S Michaelis
+157	01	In	 Benedicite dominum	B KS
+157	02	InP	Benedic anima mea	B K
+157	03	Gr	 Benedicite dominum	M B KS
+157	04	GrV	Benedic anima mea	M B KS
+157	05	Al	 All. Laudate dominum omnes angeli	M B KS
+157	06	Of	 In conspectu angelorum	B
+157	07	OfV	Confitebor tibi domine	B
+157	08	OfV	Confiteantur tibi domine	B
+157	09	Of	 Stetit angelus	R	KS
+157	10	OfV	In conspectu angelorum	S
+157	11	Cm	 Benedicite omnes angeli	B KS
+157	12	CmP	Benedicite omnia	K
+158	00	Ru	 S Marci
+158	01	In	 Sacerdotes dei	B KS
+158	02	InP	Benedicite omnia	S
+158	03	Gr	 Inveni david	M B KS
+158	04	GrV	Nihil proficiet	M B	S
+158	05	Al	 All. Elegit te dominus	K
+158	06	Al	 All. Inveni david	S
+158	07	Of	 Veritas mea	B KS
+158	08	OfV	Posui adiutorium	S
+158	09	OfV	Misericordia mea	S
+158	10	Cm	 Beatus servus	B KS
+158.2	00	Ru	 SS Dionysii et Rustici
+158.2	01	Gr	 Gloriosus deus	M
+158.2	02	GrV	Dextera tua domine	M
+159	00	Ru	 Vig SS Simonis et Judae
+159	01	In	 Intret in conspectu tuo	B KS
+159	02	InP	Deus venerunt	S
+159	03	Gr	 Vindica domine	B KS
+159	04	GrV	Posuerunt	B	S
+159	05	Al	 All. Exultabunt sancti	S
+159	06	Of	 Exultabunt sancti	B KS
+159	07	OfV	Cantate domino	B	S
+159	08	Cm	 Iustorum anime	B KS
+160	00	Ru	 SS Simonis et Judae
+160	01	In	 Mihi autem nimis	B KS
+160	02	InP	Domine probasti me	B KS
+160	03	Gr	 Nimis honorati sunt	M B KS
+160	04	GrV	Dinumerabo eos	M B KS
+160	05	Al	 All. Sancti tui domine	B
+160	06	Al	 All. Nimis honorati sunt	KS
+160	07	Of	 In omnem terram	B KS
+160	08	OfV	Celi enarrant	B	S
+160	09	Cm	 Vos qui secuti estis me	B KS
+160	10	CmP	Domine probasti me	B
+161	00	Ru	 S Caesarii
+161	01	In	 Confessio et pulchritudo	B KS
+161	02	InP	Cantate domino (I)	B	S
+161	03	Gr	 Iustus non conturbabitur	M B KS
+161	04	GrV	Tota die miseretur	M B	S
+161	05	Al	 All. Beatus vir qui timet	K
+161	06	Al	 All. Inveni david	S
+161	07	Of	 In virtute tua	B KS
+161	08	OfV	Vitam petiit	S
+161	09	OfV	Magna est	S
+161	10	Cm	 Qui vult venire	B KS
+161	11	CmP	Cantate domino (I)	B
+162	00	Ru	 SS IV Coronatorum
+162	01	In	 Intret in conspectu tuo	B KS
+162	02	InP	Deus venerunt	B	S
+162	03	Gr	 Vindica domine	M B KS
+162	04	GrV	Posuerunt mortalia	M B	S
+162	05	Al	 All. Sancti tui domine	K
+162	06	Al	 All. Exultabunt sancti	S
+162	07	Of	 Anima nostra	B KS
+162	08	OfV	Nisi quod dominus	S
+162	09	OfV	Torrentem	S
+162	10	Cm	 Posuerunt mortalia	B KS
+163	00	Ru	 S Theodori
+163	01	In	 In virtute tua domine	B KS
+163	02	InP	Domine in virtute tua	B	S
+163	03	Gr	 Domine prevenisti	M B KS
+163	04	GrV	Vitam petiit	M B	S
+163	05	Al	 All. Gloria et honore	K
+163	06	Al	 All. Beatus vir qui timet	S
+163	07	Of	 Gloria et honore	B KS
+163	08	OfV	Domine dominus noster	S
+163	09	OfV	Quid est homo	S
+163	10	Cm	 Posuisti domine	B KS
+163	11	CmP	Domine in virtute tua	B
+164	00	Ru	 S Mennae (et S Martini)
+164	01	In	 Os iusti meditabitur	B KS
+164	02	InP	Noli emulari	B	S
+164	03	Gr	 Inveni david	M	KS
+164	04	Gr	 Gloria et honore	B
+164	05	GrV	Nihil proficiet	M	S
+164	06	GrV	Et constituisti eum	B
+164	07	Al	 All. Elegit te dominus	K
+164	08	Al	 All. Inveni david	S
+164	09	Of	 Desiderium anime	B KS
+164	10	OfV	Vitam petiit	S
+164	11	OfV	Letificabis eum	S
+164	12	Cm	 Magna est gloria eius	B KS
+165	00	Ru	 S Caeciliae
+165	01	In	 Loquebar de testimoniis tuis	B KS
+165	02	InP	Beati immaculati	S
+165	03	Gr	 Audi filia	M B KS
+165	04	GrV	Specie tua	M B KS
+165	05	Al	 All. Adducentur	K
+165	06	Al	 All. Diffusa est gratia	S
+165	07	Of	 Offerentur regi virgines	B KS
+165	08	OfV	Eructavit	S
+165	09	Cm	 Confundantur superbi	B KS
+165	10	Cm	 Feci iudicium	B
+166	00	Ru	 S Clementis
+166	01	In	 Dicit dominus si quis sermonem	B
+166	02	In	 Dicit dominus sermones mei	KS
+166	03	InP	Misericordias domini	B
+166	04	InP	Domine exaudi	KS
+166	05	Gr	 Iuravit dominus	M B KS
+166	06	GrV	Dixit dominus	M B	S
+166	07	Al	 All. Beatus vir qui timet	KS
+166	08	Of	 Veritas mea	B KS
+166	09	OfV	Posui adiutorium	S
+166	10	OfV	Misericordia mea	S
+166	11	Cm	 Domine quinque talenta	B
+166	12	Cm	 Beatus servus	B KS
+166	13	CmP	Misericordias domini	B
+167	00	Ru	 S Chrysogoni
+167	01	In	 Iustus non conturbabitur	K
+167	02	Gr	 Iustus ut palma florebit	K
+167	03	Al	 All. Gloria et honore	K
+167	04	Of	 Desiderium anime	K
+167	05	Cm	 Posuisti domine	K
+168	00	Ru	 Vig S Andreae
+168	01	In	 Dominus secus mare	B KS
+168	02	InP	Celi enarrant	B KS
+168	03	Gr	 Nimis honorati sunt	M B KS
+168	04	GrV	Dinumerabo eos	M B	S
+168	05	Of	 Gloria et honore	B KS
+168	06	OfV	Domine dominus noster	S
+168	07	OfV	Quid est homo	S
+168	08	Cm	 Venite post me	B KS
+168	09	CmP	Celi enarrant	B
+169	00	Ru	 S Andreae
+169	01	In	 Mihi autem nimis	B KS
+169	02	InP	Domine probasti me	B
+169	03	Gr	 Constitues eos	M B KS
+169	04	GrV	Pro patribus tuis	M B	S
+169	05	Al	 All. Nimis honorati sunt	B KS
+169	06	Of	 Mihi autem nimis	B KS
+169	07	OfV	Domine probasti me	S
+169	08	OfV	Intellixisti	S
+169	09	OfV	Ecce tu domine	S
+169	10	Cm	 Dicit andreas simoni	B KS
+169	11	CmP	Domine probasti me	B
+169.2	00	Ru	 S Luciae
+169.2	01	In	 Dilexisti iustitiam	B
+169.2	02	InP	Eructavit	B
+169.2	03	Gr	 Dilexisti iustitiam	B
+169.2	04	GrV	Propterea	B
+169.2	05	Of	 Offerentur regi virgines	B
+169.2	06	Cm	 Diffusa est gratia	B
+169.2	07	CmP	Eructavit	B
+170	00	Ru	 In Vig Pontif
+170	01	In	 Invocavit me	KS
+170	02	InP	Qui habitat	S
+170	03	Gr	 Inveni david	KS
+170	04	GrV	Nihil proficiet	S
+170	05	Al	 All. Elegit te dominus	K
+170	06	Al	 All. Inveni david	S
+170	07	Of	 Inveni david	KS
+170	08	OfV	Potens es domine	S
+170	09	OfV	Veritas mea	S
+170	10	Cm	 Fidelis servus	KS
+171	00	Ru	 In Nat Pontif
+171	01	In	 Elegit te dominus	KS
+171	02	InP	Exaudiat te dominus	KS
+171	03	Gr	 Memor sit	KS
+171	04	GrV	Mittat tibi auxilium	KS
+171	05	Al	 All. Mittat tibi auxilium	K
+171	06	Tc	 Desiderium	KS
+171	07	Of	 Veritas mea	K
+171	08	Of	 Memor sit dominus	S
+171	09	OfV	Mittat tibi auxilium	S
+171	10	Cm	 Beatus servus	K
+171	11	Cm	 Unguentum in capite	S
+171.2	00	Ru	 In Nat Pontif
+171.2	01	In	 Sicut fui cum moysi	S
+171.2	02	InP	Exaudiat te dominus	S
+171.2	03	Gr	 Mittat tibi auxilium	S
+171.2	04	GrV	Exaudiat te dominus	S
+171.2	05	Al	 All. Disposui testamentum	S
+171.2	06	Of	 Veritas mea	S
+171.2	07	OfV	Posui adiutorium	S
+171.2	08	OfV	Misericordia	S
+171.2	09	Cm	 Letabimur in salutari	S
+171.3	00	Ru	 In Nat Pontif
+171.3	01	In	 Statuit ei dominus	S
+171.3	02	Gr	 Domine prevenisti	S
+171.3	03	GrV	Vitam petiit	S
+171.3	04	Al	 All. Beatus vir qui timet	S
+171.3	05	Of	 Gloria et honore	S
+171.3	06	OfV	Domine dominus noster	S
+171.3	07	OfV	Quid est homo	S
+171.3	08	Cm	 Beatus servus	S
+171.4	00	Ru	 In ordin Episc
+171.4	01	In	 Benedictus hodie deus	S
+171.4	02	InP	Deus deorum dominus	S
+171.4	03	Gr	 Immola deo	S
+171.4	04	GrV	Congregate illi	S
+171.4	05	Tc	 Desiderium	S
+171.4	06	Of	 Benedic anima mea	S
+171.4	07	OfV	Qui propitiatur	S
+171.4	08	OfV	Iustitia eius	S
+171.4	09	Cm	 Euntes predicate	S
+172	00	Ru	 In ordin plur Episc
+172	01	In	 Congregate illi	KS
+172	02	InP	Deus deorum dominus locutus est	S
+172	03	Gr	 Immola deo	KS
+172	04	GrV	Congregate illi	KS
+172	05	Of	 Benedic anima mea	KS
+172	06	Cm	 Euntes predicate	K
+172	07	Cm	 Messes quidem multe operarii	S
+172	08	CmP	Deus deorum	S
+172.2	00	Ru	 De Trinitate
+172.2	01	In	 Benedicta sit sancta	S
+172.2	02	InP	Benedicam dominum	S
+172.2	03	Gr	 Benedictus es domine	S
+172.2	04	GrV	Benedicite deum celi	S
+172.2	05	Al	 All. Benedictus es	S
+172.2	06	Of	 Benedictus es deus	S
+172.2	07	OfV	Benedictus es qui intueris	S
+172.2	08	Cm	 Benedicimus deum celi	S
+172.3	00	Ru	 Oct Pent
+173	00	Ru	 Dom I p Pent
+173	01	In	 Domine in tua misericordia	RB KS
+173	02	InP	Usquequo domine	R	KS
+173	03	Gr	 Ego dixi domine	RB KS
+173	04	GrV	Beatus qui intellegit	RB KS
+173	05	Gr	 Miserere mihi domine	RB
+173	06	GrV	Conturbata sunt	B
+173	07	Al	 All. Confiteantur tibi domine	R
+173	08	Al	 All. Dominus regnavit decorem	B
+173	09	Al	 All. In te domine speravi	S
+173	10	Of	 Intende voci	RB KS
+173	11	OfV	Verba mea	B	S
+173	12	OfV	Dirige in conspectu	B	S
+173	13	Cm	 Narrabo omnia mirabilia tua	RB	S
+173	14	CmP	Confitebor tibi domine	B
+174	00	Ru	 Dom II p Pent
+174	01	In	 Factus est dominus	RB KS
+174	02	InP	Diligam te	RB KS
+174	03	Gr	 Ad dominum dum tribularer	M B KS
+174	04	GrV	Domine libera animam meam	M B	S
+174	05	Gr	 Domine dominus noster	RB
+174	06	GrV	Quoniam elevata est	RB
+174	07	Al	 All. Dominus regnavit decorem	R
+174	08	Al	 All. Diligam te domine	S
+174	09	Of	 Factus est dominus	S
+174	10	OfV	Persequar	S
+174	11	OfV	Precinxisti me	S
+174	12	Of	 Domine convertere	RB KS
+174	13	OfV	Domine ne in ira tua	B
+174	14	OfV	Miserere mihi domine	B
+174	15	Cm	 Cantabo domino qui bona / Cantate ...	RB KS
+174	16	CmP	Usquequo domine	B KS
+175	00	Ru	 Dom III p Pent
+175	01	In	 Respice in me	RB KS
+175	02	InP	Ad te levavi / Ad te domine levavi	RB KS
+175	03	Gr	 Iacta cogitatum tuum	M B KS
+175	04	GrV	Dum clamarem	M B	S
+175	05	Gr	 Adiutor in opportunitatibus	RB
+175	06	GrV	Quoniam non in finem	RB
+175	07	Al	 All. Iudica domine nocentes me	R
+175	08	Al	 All. Venite exultemus	S
+175	09	Of	 Sperent in te omnes	RB KS
+175	10	OfV	Sedis (Sedes) super tronum	B	S
+175	11	OfV	Cognoscetur dominus	B	S
+175	12	Cm	 Ego clamavi	RB KS
+175	13	CmP	Exaudi domine iustitiam	B KS
+176	00	Ru	 Dom IV p Pent
+176	01	In	 Dominus illuminatio mea	RB KS
+176	02	InP	Si consistant	R	K
+176	03	InP	Dominus inluminatio	B	S
+176	04	Gr	 Propitius esto domine	M B KS
+176	05	GrV	Adiuva nos deus salutaris	M B	S
+176	06	Gr	 Exurge domine non prevaleat	RB
+176	07	GrV	In convertendo inimicum	RB
+176	08	Al	 All. Quoniam deus magnus	R
+176	09	Al	 All. Confitemini domino et invocate	S
+176	10	Of	 Inclina / Illumina oculos meos	RB KS
+176	11	OfV	Usquequo domine	B	S
+176	12	OfV	Respice et exaudi me	B
+176	13	OfV	Respice in me	S
+176	14	Cm	 Dominus firmamentum meum	RB KS
+176	15	CmP	In domino confido	B
+176	16	CmP	Diligam te	KS
+177	00	Ru	 Dom V p Pent
+177	01	In	 Exaudi vocem meam / Exaudi domine vocem meam ... adiutor	RB KS
+177	02	InP	Dominus inluminatio	RB K
+177	03	Gr	 Protector noster	M B KS
+177	04	GrV	Domine deus virtutum	M B	S
+177	05	Gr	 Ab occultis meis	RB
+177	06	GrV	Si mei non fuerint	RB
+177	07	Al	 All. Te decet ymnus	R
+177	08	Al	 All. Qui timent dominum	S
+177	09	Of	 Benedicam dominum	RB KS
+177	10	OfV	Conserva me	B	S
+177	11	OfV	Notas fecisti mihi	S
+177	12	Cm	 Unam petii a domino	RB KS
+177	13	CmP	Dominus inluminatio	B
+177	14	CmP	Ut videam voluntatem	K
+177.2	00	Ru	 Vig S Joannis Bapt
+177.2	01	In	 Ne timeas zacharias	R
+177.2	02	InP	Domine in virtute tua	R
+177.2	03	Gr	 Fuit homo missus a deo	R
+177.2	04	GrV	Ut testimonium perhiberet	R
+177.2	05	Of	 Gloria et honore	R
+177.2	06	Cm	 Magna est gloria eius	R
+177.3	00	Ru	 S Joannis Bapt 2
+177.3	01	In	 De ventre matris mee	R
+177.3	02	InP	Bonum est	R
+177.3	03	Gr	 Priusquam te formarem	R
+177.3	04	GrV	Misit manum suam	R
+177.3	05	Al	 All. Beatus vir qui timet	R
+177.3	06	Of	 Iustus ut palma	R
+177.3	07	Cm	 Tu puer propheta	R
+178	00	Ru	 Dom VI p Pent
+178	01	In	 Dominus fortitudo plebis suae	RB KS
+178	02	InP	Ad te domine clamabo	RB KS
+178	03	Gr	 Convertere domine	M B KS
+178	04	GrV	Domine refugium	M B KS
+178	05	Gr	 Unam petii a domino	RB
+178	06	GrV	Ut videam voluntatem	RB
+178	07	Al	 All. Dominus regnavit decorem	R
+178	08	Al	 All. Domine refugium	S
+178	09	Of	 Perfice gressus	RB KS
+178	10	OfV	Exaudi domine	B	S
+178	11	OfV	Custodi me domine	B	S
+178	12	OfV	Ego autem cum iustitia	S
+178	13	Cm	 Circuibo et immolabo	RB KS
+178	14	CmP	Dominus illuminatio mea	B K
+179	00	Ru	 Dom VII p Pent
+179	01	In	 Omnes gentes	RB KS
+179	02	InP	Subiecit	R
+179	03	InP	Quoniam excelsus	B
+179	04	InP	Quoniam dominus summus	K
+179	05	InP	Omnes gentes	S
+179	06	Gr	 Venite fili audite me	RB
+179	07	Gr	 Beata gens	KS
+179	08	GrV	Accedite ad eum	RB
+179	09	GrV	Verbo domini	S
+179	10	Al	 All. Venite exultemus	R
+179	11	Of	 Sicut in holocausto	RB KS
+179	12	OfV	Et nunc sequimur	B	S
+179	13	Cm	 Inclina aurem tuam	RB KS
+179	14	CmP	In te domine speravi	B KS
+180	00	Ru	 Dom VIII p Pent
+180	01	In	 Suscepimus deus misericordiam	RB KS
+180	02	InP	Magnus dominus	RB	S
+180	03	Gr	 Esto mihi in deum	M	KS
+180	04	Gr	 Liberasti nos domine	RB
+180	05	GrV	Deus in te speravi	M	S
+180	06	GrV	In deo laudabimur tota die	RB
+180	07	Al	 All. Venite adoremus	R
+180	08	Al	 All. Quoniam deus magnus	S
+180	09	Of	 Populum humilem	RB KS
+180	10	OfV	Liberator meus *	B	S
+180	11	OfV	Clamor meus *	B	S
+180	12	Cm	 Gustate et videte	RB KS
+180	13	CmP	Benedicam domino	B K
+181	00	Ru	 Dom IX p Pent
+181	01	In	 Ecce deus adiuvat me	RB KS
+181	02	InP	Deus in nomine tuo	RB KS
+181	03	Gr	 Domine dominus noster	M	KS
+181	04	Gr	 Esto mihi in deum	B
+181	05	GrV	Quoniam elevata est	M	KS
+181	06	GrV	Deus in te speravi	B
+181	07	Gr	 Speciosus forma	RB
+181	08	GrV	Eructavit cor meum	RB
+181	09	Al	 All. Cantate domino	R
+181	10	Al	 All. Qui sanat contritos	S
+181	11	Of	 Iusticie domini	RB KS
+181	12	OfV	Preceptum domini	B	S
+181	13	OfV	Et erunt ut complaceant	B	S
+181	14	Cm	 Primum querite regnum dei	RB KS
+181	15	CoP	Deus in nomine tuo	B
+181	16	CoP	Accedite ad eum	K
+182	00	Ru	 Dom X p Pent
+182	01	In	 Dum clamarem ad dominum	RB KS
+182	02	InP	Exaudi deus	RB	S
+182	03	Gr	 Custodi me domine	M	KS
+182	04	Gr	 Domine dominus noster	B
+182	05	GrV	De vultu tuo	M	S
+182	06	Gr	 Benedictus dominus	RB
+182	07	GrV	Suscipiant / Suscipiens montes pacem	RB
+182	08	Al	 All. Iubilate deo	R
+182	09	Al	 All. Letatus sum	S
+182	10	AlV	Stantes erant	S
+182	11	Of	 Ad te domine levavi	RB KS
+182	12	OfV	Dirige me in veritate tua	S
+182	13	Cm	 Acceptabis sacrificium	RB KS
+182	14	CmP	Miserere mei deus secundum	B	S
+183	00	Ru	 Dom XI p Pent
+183	01	In	 Deus in loco sancto	RB KS
+183	02	InP	Exurgat deus	RB KS
+183	03	Gr	 In deo speravit	M	KS
+183	04	Gr	 Custodi me domine	B
+183	05	GrV	Ad te domine levavi	M
+183	06	GrV	De vulto tuo	B
+183	07	GrV	Ad te domine clamabo	S
+183	08	Gr	 Sciant gentes	RB
+183	09	GrV	Deus meus pone illos ut rotam	RB
+183	10	Al	 All. Confitemini domino et invocate	R
+183	11	Al	 All. Paratum cor meum	S
+183	12	Of	 Exaltabo te domine	RB KS
+183	13	OfV	Domine abstraxisti	B
+183	14	OfV	Domine probasti me	S
+183	15	OfV	Ego autem dixi	S
+183	16	Cm	 Honora dominum de tua substantia	RB KS
+183	17	CmP	Exurgat deus	B	S
+183	18	CmP	Beatus vir qui timet	K
+184	00	Ru	 Dom XII p Pent
+184	01	In	 Deus in adiutorium	RB KS
+184	02	InP	Avertantur	R	S
+184	03	InP	Deus in adiutorium	B
+184	04	Gr	 Benedicam dominum	M	KS
+184	05	Gr	 In deo speravit	M B
+184	06	GrV	In domino laudabitur	M	KS
+184	07	GrV	Ad te domine clamavi	B
+184	08	Gr	 Protector noster	RB
+184	09	GrV	Domine deus virtutum	B
+184	10	Al	 All. Exultate deo	S
+184	11	Of	 Precatus est moyses	B KS
+184	12	OfV	Dixit moyses ad aaron	B	S
+184	13	OfV	Dixit dominus ad moysen	B	S
+184	14	Cm	 De fructu operum	B	S
+184	15	CmP	Benedic anima mea	B K
+185	00	Ru	 Dom XIII p Pent
+185	01	In	 Respice domine in testamentum	B KS
+185	02	InP	Ut quid deus	B KS
+185	03	Gr	 Respice domine	M	KS
+185	04	Gr	 Benedicam dominum	B
+185	05	GrV	Exurge domine et iudica	M	S
+185	06	GrV	In domino laudabitur	B
+185	07	Gr	 Convertere domine	B
+185	08	GrV	Domine refugium	B
+185	09	Al	 All. Dominus regnavit decorem	S
+185	10	Of	 In te speravi domine	B KS
+185	11	OfV	Illumina / Illustra faciem tuam	B	S
+185	12	OfV	Quam magna multitudo	B	S
+185	13	Cm	 Panem de celo	B KS
+185	14	CmP	Ut quid deus	B	S
+185	16	CmP	Et pluit illis	K
+186	00	Ru	 Dom XIV p Pent
+186	01	In	 Protector noster aspice deus	B KS
+186	02	InP	Quam dilecta	B KS
+186	03	Gr	 Bonum est confidere (S: confiteri)	M	KS
+186	04	Gr	 Respice domine	B
+186	05	GrV	Bonum est sperare	M	S
+186	06	GrV	Exurge domine	B
+186	07	Gr	 Domine exaudi orationem meam	B
+186	08	Al	 All. Iubilate deo	S
+186	09	Of	 Immittit angelus domini	B KS
+186	10	OfV	Benedicam dominum	S
+186	11	OfV	In domino laudabitur	S
+186	12	OfV	Accedite ad eum	S
+186	13	Cm	 Panis quem ego dedero	B KS
+186	14	CmP	Quam dilecta	B
+187	00	Ru	 Dom XV p Pent
+187	01	In	 Inclina domine aurem tuam	B KS
+187	02	InP	Inclina aurem	B	S
+187	03	InP	Letifica animam	K
+187	04	Gr	 Bonum est confiteri	M B KS
+187	05	GrV	Ad annuntiandum	M B	S
+187	06	Gr	 Timebunt gentes	B
+187	07	GrV	Quoniam edificavit dominus sion	B
+187	08	Al	 All. Domine deus salutis mee	S
+187	09	Of	 Expectans expectavi	B K
+187	10	Of	 Iubilate deo omnis terra	S
+187	11	OfV	Ipse fecit nos	S
+187	12	OfV	Laudate nomen eius	S
+187	13	Cm	 Qui manducat carnem meam	B KS
+187	14	CmP	Inclina domine	B
+188	00	Ru	 Dom XVI p Pent
+188	01	In	 Miserere mihi domine quoniam ad te	B KS
+188	02	InP	Inclina domine	B KS
+188	03	Gr	 Liberasti nos domine	M
+188	04	Gr	 Bonum est confidere	B
+188	05	Gr	 Timebunt gentes	KS
+188	06	GrV	In deo laudabimur	M
+188	07	GrV	Quoniam edificavit	S
+188	08	Gr	 Misit dominus verbum suum	B
+188	09	GrV	Confiteantur domino	B
+188	10	Al	 All. Laudate dominum omnes gentes	S
+188	11	Of	 Domine in auxilium	B KS
+188	12	OfV	Avertantur	B	S
+188	13	OfV	Expectans	S
+188	14	Cm	 Domine memorabor	B KS
+188	15	CmP	In te domine speravi	B
+188.2	00	Ru	 Dedic S Michaelis
+188.2	01	Of	 Stetit angelus	R
+188.2	02	Cm	 Benedicite omnes angeli	R
+189	00	Ru	 Dom XVII p Pent
+189	01	In	 Iustus es domine	RB KS
+189	02	InP	Beati immaculati	RB KS
+189	03	Gr	 Quis sicut dominus	M
+189	04	Gr	 Timebunt gentes	B
+189	05	Gr	 Unam petii a domino	KS
+189	06	GrV	Suscitans a terra inopem	M
+189	07	GrV	Ut videam voluntatem domini	S
+189	08	Gr	 Bonum est confidere	RB
+189	09	GrV	Bonum est sperare	RB
+189	10	Al	 All. Laudate nomen domini	R
+189	11	Al	 All. Deus iudex iustus	S
+189	12	Of	 Oravi deum meum	RB KS
+189	13	OfV	Adhuc me loquentem	S
+189	14	OfV	Audivi vocem dicentem	B	S
+189	15	OfV	Ecce me loquente et horante	B
+189	16	Cm	 Vovete et reddite domino	RB KS
+189	17	CmP	Notus in iudea	B KS
+190	00	Ru	 Fer IV Q T Sept
+190	01	In	 Exultate deo adiutori	B KS
+190	02	InP	Exultate deo	B	S
+190	03	InP	Ego enim sum	K
+190	04	Gr	 Quis sicut dominus	B KS
+190	05	GrV	Suscitans a terra inopem	B KS
+190	06	Of	 Meditabor in mandatis tuis	B KS
+190	07	OfV	Pars mea dominus	B	S
+190	08	OfV	Miserere mei secundum	B	S
+190	09	Cm	 Comedite pinguia et bibite	B KS
+190	10	CmP	Exultate deo	B
+190	11	CmP	Sumite psalmum	K
+191	00	Ru	 Fer VI Q T Sept
+191	01	In	 Letetur cor	B KS
+191	02	InP	Confitemini domino	B	S
+191	03	Gr	 Convertere domine	B KS
+191	04	GrV	Domine refugium	S
+191	05	Of	 Benedic anima mea	B KS
+191	06	OfV	Dominus in celo	B
+191	07	OfV	Qui propitiatur	S
+191	08	OfV	Iustitia eius	S
+191	09	Cm	 Aufer a me obprobrium	B KS
+191	10	CmP	Beati immaculati	B	S
+191	11	CmP	Et consilium meum	K
+192	00	Ru	 Sab Q T Sept
+192	01	In	 Venite adoremus deum	B KS
+192	02	InP	Venite adoremus	B
+192	03	InP	Venite exultemus	KS
+192	04	Gr	 Propitius esto domine	S
+192	05	Tc	 Laudate dominum omnes gentes	KS
+192	06	Of	 Domine deus salutis	B KS
+192	07	Cm	 Mense septimo festa	B KS
+192	08	CmP	Venite	B	S
+192	09	CmP	Attendite populus meus	K
+193	00	Ru	 Dom XVIII p Pent
+193	01	In	 Da pacem domine sustinentibus	RB KS
+193	02	InP	Beati immaculati	R
+193	03	InP	Dilexi quoniam	B	S
+193	04	InP	Letatus sum	K
+193	05	Gr	 Quis sicut dominus	B
+193	06	Gr	 Convertere domine	M
+193	07	Gr	 Letatus sum	RB KS
+193	08	GrV	Domine refugium	M
+193	09	GrV	Fiat pax	RB	S
+193	10	Al	 All. Laudate dominum quoniam benignus	R
+193	11	Al	 All. Qui posuit fines	S
+193	12	Of	 Sanctificavit moyses	RB KS
+193	13	OfV	Locutus est dominus	B	S
+193	14	OfV	Oravit moyses dominum	B	S
+193	15	Cm	 Tollite hostias	RB KS
+193	16	CmP	Cantate domino	B KS
+194	00	Ru	 Dom XIX p Pent
+194	01	In	 Salus populi	RB KS
+194	02	InP	Beati immaculati	RB	S
+194	03	Gr	 Letatus sum	M B
+194	04	GrV	Fiat pax	M
+194	05	Gr	 Dirigatur oratio mea	RB KS
+194	06	GrV	Elevatio manuum	RB	S
+194	07	Al	 All. Confitebor tibi	R
+194	08	Al	 All. Adorabo ad templum	S
+194	09	Of	 Si ambulavero	RB KS
+194	10	OfV	In quacumque	B	S
+194	11	OfV	Adorabo ad templum	B	S
+194	12	Cm	 Tu mandasti	RB KS
+194	13	CmP	Beati immaculati	S
+195	00	Ru	 Dom XX p Pent
+195	01	In	 Omnia que fecisti	RB KS
+195	02	InP	Beati immaculati	RB
+195	03	InP	Magnus dominus	S
+195	04	Gr	 Dirigatur oratio mea	M
+195	05	Gr	 Oculi omnium	B KS
+195	06	GrV	Elevatio	M
+195	07	GrV	Aperis tu manum tuam	B	S
+195	08	Gr	 Eripe me domine	RB
+195	09	GrV	Liberator meus	RB
+195	10	Al	 All. Adorabo ad templum	R
+195	11	Of	 Super flumina	RB KS
+195	12	OfV	In salicibus	S
+195	13	OfV	Si oblitus fuero	B	S
+195	14	OfV	Memento domine	B	S
+195	15	Cm	 Memento verbi tui	RB KS
+195	16	CmP	Beati immaculati	B
+196	00	Ru	 Dom XXI p Pent
+196	01	In	 In voluntate tua domine	RB KS
+196	02	InP	Beati immaculati	RB KS
+196	03	Gr	 Oculi omnium	M
+196	04	Gr	 Domine refugium	RB KS
+196	05	GrV	Aperis tu manum tuam	M
+196	06	GrV	Priusquam montes fierent	RB KS
+196	07	Al	 All. Lauda anima mea	R
+196	08	Of	 Vir erat in terra	RB KS
+196	09	OfV	Utinam apenderentur	B	S
+196	10	OfV	Quid est enim	S
+196	11	OfV	Numquid fortitudo	S
+196	12	OfV	Quoniam quoniam quoniam non revertetur	S
+196	13	Cm	 In salutari tuo	RB KS
+196	14	CmP	Beati immaculati	B
+196	15	CmP	Paulo minus consummaverunt	K
+197	00	Ru	 Dom XXII p Pent
+197	01	In	 Si inquitates observaberis	RB KS
+197	02	InP	De profundis	RB KS
+197	03	Gr	 Domine refugium	M
+197	04	Gr	 Ecce quam bonum	RB KS
+197	05	GrV	Priusquam montes fierent	M
+197	06	GrV	Sicut unguentum in capite *	RB	S
+197	07	GrV	Mandavit dominus *	B	S
+197	08	Al	 All. Qui sanat contritos	R
+197	09	Al	 All. Redemptionem	S
+197	10	Of	 Recordare mei domine	B KS
+197	11	OfV	Everte cor eius	K
+197	12	Cm	 Dico vobis gaudium est	B KS
+197	13	CmP	De profundis	B
+197	14	CmP	Beati quorum	K
+198	00	Ru	 Dom XXIII p Pent
+198	01	In	 Dicit dominus ego cogito	RB KS
+198	02	InP	Deus venerunt	RB
+198	03	InP	Benedixisti	KS
+198	04	Gr	 Ecce quam bonum	M
+198	05	Gr	 Timebunt gentes	RB
+198	06	Gr	 Liberasti nos domine	KS
+198	07	GrV	Sicut unguentum in capite	M
+198	08	GrV	Quoniam elevata est magnificentia	R
+198	09	GrV	Quoniam edificavit	B
+198	10	GrV	In deo laudabimur	KS
+198	11	Al	 All. Memento nostri domine	R
+198	12	Al	 All. Dextera dei	S
+198	13	Of	 De profundis	RB KS
+198	14	OfV	Fiant aures tue	B	S
+198	15	OfV	Quia aput te propiciatio est	B
+198	16	OfV	Si inquitates observaberis	S
+198	17	Of	 Audi israhel ecce venio	R
+198	18	Cm	 Amen dico vobis quidquid	RB KS
+198	19	CmP	De profundis	B	S
+198	20	CmP	Querite dominum	K
+199	00	Ru	 De circulo anni
+199	01	Al	 All. Iubilate deo CUM SEQUENTIA	B
+199	02	Al	 All. Dominus regnavit decorem CUM SEQUENTIA	B
+199	03	Al	 All. Venite exultemus	B
+199	04	AlV	Preoccupemus faciem eius	B
+199	05	AlV	Hodie si vocem eius	B
+199	06	Al	 All. Dominus regnavit exultet terra	B
+199	07	Al	 All. Memento domine david	B
+199	08	Al	 All. Ostende nobis domine	B
+199	09	Al	 All. Letatus sum	B
+199	10	Al	 All. Beatus vir CUM SEQUENTIA	B
+199	11	Al	 All. Lauda anima mea	B
+199	12	Al	 All. Lauda ierusalem	B
+199	13	Al	 All. Laudate deum in sanctis eius	B
+199	14	Al	 All. Laudate pueri dominum	B
+199	15	AlV	Sit nomen domini	B
+199	16	Al	 All. Elegit te dominus	B
+199	17	Al	 All. Quoniam deus magnus ... Oththi theos megas	B
+199	18	Al	 All. Confitemini domino quoniam bonus	B
+199	19	Al	 All. Dextera domini fecit	B
+199	20	Al	 All. Disposui testamentum	B
+199	21	Al	 All. Mittat tibi dominus	B
+199	22	Al	 All. Exultabunt sancti	B
+199	23	Al	 All. Qui sanat contritos	B
+199	24	Al	 All. Qui posuit fines	B
+199	25	Al	 All. Qui confidunt	B
+199	26	Al	 All. Te decet ymnus CUM SEQUENTIA	B
+199	27	Al	 All. Cantate domino	B
+199	28	AlV	Notum fecit dominus CUM SEQUENTIA	B
+199	29	Al	 All. Confitemini domino et invocate	B
+199	30	AlV	Cantate ei et psallite ei	B
+199	31	AlV	Laudamini in nomine CUM SEQUENTIA	B
+199	01	Al	 All. Ostende nobis domine	C
+199	02	Al	 All. Letatus sum	C
+199	03	AlV	Stantes erant	C
+199	04	Al	 All. Excita domine potentiam	C
+199	05	Al	 All. Dominus regnavit decorem	C
+199	06	Al	 All. Iubilate deo	C
+199	07	Al	 All. Laudate deum omnes angeli	C
+199	08	Al	 All. Dominus regnavit exultet terra	C
+199	09	Al	 All. Lauda anima mea	C
+199	10	Al	 All. Deus iudex iustus	C
+199	11	Al	 All. Diligam te domine	C
+199	12	Al	 All. In te domine speravi	C
+199	13	Al	 All. Omnes gentes	C
+199	14	Al	 All. Te decet ymnus	C
+199	15	Al	 All. Attendite	C
+199	16	Al	 All. Exultate deo	C
+199	17	Al	 All. Domine deus salutis mee	C
+199	18	Al	 All. Domine refugium	C
+199	19	Al	 All. Venite exultemus	C
+199	20	Al	 All. Quoniam deus magnus	C
+199	21	Al	 All. Dominus regnavit exultet terra	C
+199	22	Al	 All. Iubilate deo	C
+199	23	Al	 All. Confitemini domino et invocate	C
+199	24	Al	 All. Paratum cor meum	C
+199	25	Al	 All. Qui timent dominum	C
+199	26	Al	 All. Laudate dominum omnes gentes	C
+199	27	Al	 All. Dextera dei	C
+199	28	Al	 All. Letatus sum	C
+199	29	Al	 All. De profundis clamavi	C
+199	30	Al	 All. Confitebor tibi	C
+199	31	Al	 All. Lauda anima mea	C
+199	32	Al	 All. Lauda ierusalem	C
+199	33	Al	 All. Benedictus es	C
+199	34	Al	 All. Redemptionem	C
+199	35	Al	 All. Qui posuit fines	C
+199	36	Al	 All. Qui sanat contritos	C
+199	37	Al	 All. Cantate domino	C
+199	38	Al	 All. Qui confidunt	C
+199	39	Al	 All. In exitu israhel	C
+199	40	Al	 All. Domine deus meus	C
+199	41	Al	 All. Domine in virtute	C
+199	42	Al	 All. Dies sanctificatus	C
+199	43	Al	 All. Video celos apertos	C
+199	44	Al	 All. Hic est discipulus	C
+199	45	Al	 All. Vidimus stellam eius	C
+199	46	Al	 All. Confitemini domino quoniam bonus	C
+199	47	Al	 All. Pascha nostrum	C
+199	48	Al	 All. Hec dies	C
+199	49	Al	 All. Surrexit altissimus	C
+199	50	Al	 All. Eduxit dominus populum suum	C
+199	51	Al	 All. Confitemini domino quoniam bonus	C
+199	52	Al	 All. Ascendit deus	C
+199	53	Al	 All. Dominus in sina	C
+199	54	Al	 All. Confitemini domino quoniam bonus	C
+199	55	Al	 All. Emitte spiritum tuum	C
+199	56	Al	 All. Spiritus domini replevit	C
+199	57	Al	 All. Tu es petrus	C
+199	58	Al	 All. Beatus es	C
+199	59	Al	 All. Nimis honorati sunt	C
+199	60	Al	 All. Dinumerabo	C
+199	61	Al	 All. Beatus vir qui timet	C
+199	62	Al	 All. Gloria et honore	C
+199	63	Al	 All. Iustus non conturbabitur	C
+199	64	Al	 All. Iustus ut palma florebit	C
+199	65	Al	 All. Sancti tui domine	C
+199	66	Al	 All. Exultabunt	C
+199	67	Al	 All. Gaudete iusti	C
+199	68	Al	 All. Iusti epulentur	C
+199	69	Al	 All. Mirabilis dominus	C
+199	70	Al	 All. Te martyrum candidatus	C
+199	71	Al	 All. Inveni david	C
+199	72	Al	 All. Disposui testamentum	C
+199	73	Al	 All. Memento domine david	C
+199	74	Al	 All. Specie tua	C
+199	75	Al	 All. Diffusa est gratia	C
+199	76	Al	 All. Adducentur	C
+199	77	Al	 All. Adorabo ad templum	C
+199	78	Al	 All. Mittat tibi dominus	C
+199	79	Al	 All. Disposui testamentum	C
+199	01	Al	 All. Dominus regnavit decorem	K
+199	02	Al	 All. Iubilate deo	K
+199	03	Al	 All. Letatus sum	K
+199	04	Al	 All. Lauda anima mea	K
+199	05	Al	 All. In te domine speravi	K
+199	06	Al	 All. Laudate dominum omnes gentes	K
+199	07	Al	 All. Confitemini domino et invocate	K
+199	08	Al	 All. Qui posuit fines	K
+199	09	Al	 All. Qui sanat contritos	K
+199	10	Al	 All. Venite exultemus	K
+199	11	Al	 All. Dominus regnavit exultet terra	K
+199	12	Al	 All. Redemptionem	K
+199	13	Al	 All. Te decet ymnus	K
+199	14	Al	 All. Lauda ierusalem	K
+199	15	Al	 All. Domine refugium	K
+199	16	Al	 All. Adorabo ad templum	K
+199	17	Al	 All. Diligam te domine	K
+199	18	Al	 All. Quoniam deus magnus	K
+199	19	Al	 All. Exultate deo	K
+199	20	Al	 All. Paratum cor meum	K
+199	21	Al	 All. Omnes gentes	K
+199	22	Al	 All. Deus iudex iustus	K
+199	23	Al	 All. De profundis clamavi	K
+199	24	Al	 All. Qui confidunt	K
+199	25	Al	 All. Qui timent dominum	K
+199	26	Al	 All. Domine deus salutis mee	K
+200	00	Ru	 (sine titulo)
+200	01	An	 Exurge domine adiuva nos	K
+200	02	An	 Clementissime exaudi domine	K
+201	00	Ru	 In Let Maj
+201	01	An	 Exurge domine adiuva nos	S
+201	03	An	 Ego sum deus patrum	BCK
+201	04	An	 Cum iocunditate exibitis	S
+201	05	An	 Populus sion convertimini	BC S
+201	06	An	 Domine deus noster qui cum patribus	BC S
+201	07	An	 Confitemini domino filii israhel	BC S
+201	08	An	 Exclamemus omnes ad dominum	BCKS
+201	09	An	 Parce domine parce populo	BCK
+201	10	An	 Iniquitates nostre domine	BC S
+201	11	An	 Domine imminuti sumus	C S
+201	12	An	 Redime domine	BC
+201	13	An	 Iuxta vestibulum	C
+201	14	An	 Immutemur habitu	C
+201	15	An	 Sit dominus deus	C
+201	16	An	 Domine deus noster abraham	C
+201	17	An	 Cognovimus ... et iniquitates	C
+201	18	An	 Peccavimus domine iniuste	C
+201	19	An	 Domine defecimus in ira	C
+201	20	An	 Cognovimus ... quia peccavimus	C
+201	21	An	 Anima in angustia	C
+202	00	Ru	 De misericordia
+202	01	An	 Domine non est alius	C S
+202	02	An	 Exaudi domine deprecationem	C S
+202	03	An	 Miserere domine plebi	CKS
+202	04	An	 Dimitte domine peccata populi	C S
+202	05	An	 Exaudi deus deprecationem	C S
+202	06	An	 Usquequo (domine) adhuc peccata	C S
+202	07	An	 Numquid valet manus	C S
+202	08	An	 Deprecamur te domine in omni misericordia	C S
+202	09	An	 Inclina domine ... et audi	C S
+202	10	An	 Multa sunt domine peccata	CKS
+202	11	An	 Peccavimus domine et tu	C S
+202	12	An	 Invocantes dominum exclamemus	C S
+202	13	An	 Dimitte domine peccata nostra	C S
+203	00	Ru	 De jejunio
+203	01	An	 Ego sum deus patrum	S
+203	02	An	 Redime domine	S
+203	03	An	 Iuxta vestibulum	S
+203	04	An	 Immutemur habitu	S
+203	05	An	 Sit dominus deus	x
+203	06	An	 Domine deus noster abraham	S
+203	07	An	 Cognovimus ... et iniquitates	S
+203	08	An	 Peccavimus domine iniuste	S
+203	09	An	 Domine defecimus in ira	S
+203	10	An	 Anima in angustia	S
+203	11	An	 Cognovimus ... quia peccavimus	S
+204	00	Ru	 De siccitate
+204	01	An	 Domine rex deus abraham	C S
+204	02	An	 Ubi sunt misericordiae	C
+204	03	An	 Numquid est idolis	C S
+204	04	An	 Recordare mei domine	C S
+204	05	An	 Exaudi domine populum tuum	C S
+204	06	An	 Respice domine quia aruit	C S
+204	07	An	 Exaudi domine lacrimas	C S
+204	08	An	 Iustitia tua sicut montes dei	C S
+204	09	An	 Domine erigans / rigans montes	C S
+205	00	Ru	 De nimia pluvia
+205	01	An	 Inundaverunt aquae	CKS
+205	02	An	 Non nos demergat domine	C S
+205	03	An	 Deus canticum novum	C S
+205	04	An	 Exaudi nos domine qui exaudisti ionam	CKS
+205	05	An	 Per memetipsum iuravi dicit	C S
+205	06	An	 Dicit dominus videte	C S
+205	07	An	 Exaudi nos deus in veritate (Exaudi nos in ...)	C S
+205	08	An	 Ne nos demergat	C
+206	00	Ru	 De mortalitate
+206	01	An	 Libera domine populum tuum	CKS
+206	02	An	 Exaudi nos domine qui exaudisti ionam	C S
+206	03	An	 Miserere domine et dic angelo	C S
+206	04	An	 Converte nos deus	C S
+207	00	Ru	 In tempore belli
+207	01	An	 Congregati sunt inimici	C S
+207	02	An	 Domine miserere nobis / nostri	C S
+207	03	An	 Tua est domine pacientia	C S
+207	04	An	 Domine ne taceas	C S
+207	05	An	 Deus canticum novum	C S
+207	06	An	 Fac domine vindictam	C S
+207	07	An	 Respice domine quomodo	C S
+207	08	An	 Inclina domine ... et exaudi	C S
+207	09	An	 Invocantes dominum exclamemus	C S
+207	10	An	 Miserere (nostri) deus omnium	C S
+207	11	An	 Si fecissemus	C S
+208	00	Ru	 De liberatione
+208	01	An	 Libera nos domine	C S
+208	02	An	 Fecisti magnalia	C S
+208	03	An	 Auribus percipe domine	C S
+208	04	An	 Benedictus dominus	C S
+208	05	An	 Invocavimus et vidimus	C S
+208	06	An	 Nativitas tua dei	C S
+209	00	Ru	 De poenitentia
+209	01	An	 Convertere domine	C S
+209	02	An	 Immutemur habitu	C S
+209	03	An	 Iuxta vestibulum	C S
+209	04	An	 Domine non irascatur furor	C S
+209	05	An	 Domine omnipotens deus israel	C S
+209	06	An	 Misericors es domine	C S
+209	07	An	 Humiliamini	C S
+209	08	An	 Posuisti domine inquitates	C S
+209	09	An	 Si nosmetipsos diiudicaremur	C S
+209	10	An	 Deus in adiutorium	C S
+210	00	Ru	 De natalitiis sanctorum
+210	01	An	 Gaudete iusti in domino	C S
+210	02	An	 Custodit dominus	C S
+210	03	An	 Memento congregationis	C S
+211	00	Ru	 Ad cruces
+211	01	An	 Annuntiate inter gentes	C S
+211	02	An	 In sanctis gloriosus	S
+212	00	Ru	 Ad reliquias deducendas
+212	01	An	 Ecce populus custodiens	CKS
+212	02	An	 Cum iocunditate exibitis	CK
+212	03	An	 De ierusalem	C S
+212	04	An	 Ingredere benedicite domino	C S
+212	05	An	 Via iustorum facta est	C S
+212	06	An	 Ecce sion filii	C S
+212	07	An	 Ierusalem civitas sancta	C S
+212	08	An	 Sanctificabo te hierusalem	S
+212	09	An	 Ambulate sancti dei ad locum	C S
+212	10	An	 Ambulate sancti dei ingredimini	C S
+213	00	Ru	 De passione
+213	01	An	 Appropinquante iesu filio dei	C
+213	02	An	 Salvator unigeniti qui nos	C
+213	03	An	 Ceperunt omnes turbe	C
+213	04	An	 Ante sex dies sollemnis	C
+213	05	An	 Cum appropinquaret dominus	C
+213	06	An	 Collegerunt pontifices et pharisei	C
+214	00	Ru	 De resurrectione
+214	01	An	 Stans angelus ad sepulchrum	C
+214	02	An	 Maria vidit angelum	C
+214	03	An	 Maria et martha dum venissent	C
+214	04	An	 Longo contrito carcere	C
