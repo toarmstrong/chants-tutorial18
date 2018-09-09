@@ -1,4 +1,4 @@
-000	00	Ru	 DOM V ANTE Nat Dni	X
+000	00	Ru	 DOM V ANTE Nat Dni 
 000	01	In	 Dicit dominus ego cogito	R
 000	02	InP	Deus venerunt	R
 000	03	Gr	 Timebunt gentes	R
@@ -7,7 +7,7 @@
 000	06	Of	 De profundis	R
 000	07	Of	 Audi israhel ecce venio	R
 000	08	Cm	 Amen dico vobis quidquid	R
-001	00	Ru	 Dom I Adv
+001	00	Ru	 Dom I Adv  
 001	01	In	 Ad te levavi animam meam	RB KS
 001	02	InP	Vias tuas	RB KS
 001	03	Gr	 Universi qui te expectant	MRB KS
@@ -18,7 +18,7 @@
 001	08	OfV	Respice in me miserere mei	B	S
 001	09	Cm	 Dominus dabit benignitatem	RB KS
 001	10	CmP	Benedixisti	B KS
-002	00	Ru	 Dom II Adv
+002	00	Ru	 Dom II Adv 
 002	01	In	 Populus sion ecce dominus veniet	RB KS
 002	02	InP	Qui regis israhel intende	RB KS
 002	03	Gr	 Ex sion species decoris	MRB KS
@@ -32,7 +32,7 @@
 002	11	Cm	 Ierusalem surge et sta in excelso	RB KS
 002	12	CmP	Qui regis israhel	B
 002	13	CmP	Lauda ierusalem dominum	K
-003	00	Ru	 S Luciae
+003	00	Ru	 S Luciae 
 003	01	In	 Dilexisti iusticiam	RB KS
 003	02	InP	Eructavit cor meum	RB KS
 003	03	Gr	 Dilexisti iustitiam	MRB KS
@@ -48,7 +48,7 @@
 003	13	CmP	Eructavit cor meum	BC
 003	14	CmP	Propter veritatem	KS
 003	15	CmR	Specie tua	C
-004	00	Ru	 Dom III Adv
+004	00	Ru	 Dom III Adv  
 004	01	In	 Gaudete in domino semper	RBCKS
 004	02	InP	Benedixisti	RBCKS
 004	03	InR	Ostende nobis	C
@@ -62,7 +62,7 @@
 004	11	CmP	Benedixisti	BC
 004	12	CmP	Deus manifeste veniet	KS
 004	13	CmR	Ostende nobis	C
-005	00	Ru	 Fer IV Q T Adv
+005	00	Ru	 Fer IV Q T Adv 
 005	01	In	 Rorate celi desuper	RBCKS
 005	02	InP	Celi enarrant	RBCKS
 005	03	InR	In sole posuit	C
