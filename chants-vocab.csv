@@ -20,3 +20,5 @@ TAG,DESCRIPTION,CHANTS USAGE
 <abbr>,abbreviation,mark abbreviation
 <expan>,expansion of abbreviation,mark expansion
 <unclear>,unclear or illegible text,for uncertain texts
+
+&amp;,character reference for ampersand,ampersand
