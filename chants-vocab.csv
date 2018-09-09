@@ -20,5 +20,5 @@ TAG,DESCRIPTION,CHANTS USAGE
 <abbr>,abbreviation,mark abbreviation
 <expan>,expansion of abbreviation,mark expansion
 <unclear>,unclear or illegible text,for uncertain texts
-@n,name,provides name entry space
+@n,name,enter div or ab name in tag
 &amp;,character reference for ampersand,ampersand
