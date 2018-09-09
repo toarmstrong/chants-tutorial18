@@ -1,0 +1,22 @@
+TAG,DESCRIPTION,CHANTS USAGE
+<TEI>,contains a single TEI-conformant document,define language of document
+<teiheader>,metadata,contains metadata
+<fileDesc>,bibliographic description of document,contains bibliographic desc
+<titleStmt>,title statement,document title and statement of responsibility
+<editionStmt>,edition statement,groups information relating to edition of text
+<publicationStmt>,publication statement,publication and distribution information
+<sourceDesc>,source description,describes original source (e-codices)
+
+<title>,title for any kind of work,metadata
+<editor>,statement of responsibility,metadata
+<availability>,statement of edition availability,metadata (use with @status to describe doc availability)
+<publisher>,name of publishing organization,metadata (MID)
+<p>,paragraph,marks prose paragraphs (metadata)
+
+<div>,text division,ChantID and FeastID
+<ab>,anonymous block,Subsection
+
+<w>,word,group abbreviation and expansion
+<abbr>,abbreviation,mark abbreviation
+<expan>,expansion of abbreviation,mark expansion
+<unclear>,unclear or illegible text,for uncertain texts
