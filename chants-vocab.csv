@@ -16,7 +16,7 @@ TAG,DESCRIPTION,CHANTS USAGE
 <div>,text division,ChantID and FeastID
 <ab>,anonymous block,Subsection
 
-<w>,word,group abbreviation and expansion
+<choice>,choice,groups alternate encodings ex. with <abbr>
 <abbr>,abbreviation,mark abbreviation
 <expan>,expansion of abbreviation,mark expansion
 <unclear>,unclear or illegible text,for uncertain texts
