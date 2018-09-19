@@ -40,3 +40,6 @@ see <a href="https://cite-architecture.github.io/citedx/CEX-spec-3.0.1/">CEX 3.0
 
 * `character-reference.md`
   * summary of allowed characters
+
+# validation
+<p>reports on validation of text are written to this directory</p>
