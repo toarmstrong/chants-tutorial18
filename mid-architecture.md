@@ -1,5 +1,12 @@
 # Standard Architecture
-<a href="#collections">collections</a>
+* <a href="#collections">collections</a>
+* <a href="#dse">dse</a>
+* <a href="#editions">editions</a>
+* <a href="#header">header</a>
+* <a href="#parser">parser</a>
+* <a href="#scripts">scripts</a>
+* <a href="#template-copy-paste">template-copy-paste</a>
+* <a href="#validation">validation</a>
 
 # collections
 * `validation.cex`
