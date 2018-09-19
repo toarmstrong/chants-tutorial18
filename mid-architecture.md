@@ -1,3 +1,6 @@
+# Standard Architecture
+<a href="#collections">collections</a>
+
 # collections
 * `validation.cex`
   * current editorial status of completed pages
