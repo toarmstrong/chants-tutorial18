@@ -19,11 +19,13 @@ see <a href="https://cite-architecture.github.io/dse/">DSE Model</a> for documen
 # header
 <p>used when compiling repository into a single .cex file<br>
 see <a href="https://cite-architecture.github.io/citedx/CEX-spec-3.0.1/">CEX 3.0.1</a> for documentation</p>
+
 * `/0.library.cex`
 * `/1.dse-prolog.cex`
 
 # paleography
 <p>directory for files with paleographic observations</p>
+
 * `/XXX.cex`
   * req'd header: `observation#text#image#comments`
 
