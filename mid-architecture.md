@@ -14,6 +14,7 @@
 
 # dse
 <p>directory for dse files<br>
+ Diplomatic Scholarly Editions<br>
 see <a href="https://cite-architecture.github.io/dse/">DSE Model</a> for documentation</p>
 
 * `XXX.cex`
@@ -53,3 +54,21 @@ see <a href="https://cite-architecture.github.io/citedx/CEX-spec-3.0.1/">CEX 3.0
 
 # validation
 <p>reports on validation of text are written to this directory</p>
+
+# to add
+* analyses
+* datasets
+* docs
+* images
+* indices
+* notes
+* project
+* relations
+* shared/src
+* surfaces
+* tut
+* views
+* morphology (PL)
+* comparison (PL)
+* text_transcriptions (PL)
+* configs (HMT-iliad10)
