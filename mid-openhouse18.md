@@ -11,6 +11,8 @@
 * Hannah Nguyen, College of the Holy Cross
 * Marika Fox, Clark University
 
+![chant team 2018](chants2018)
+
 ---
 
 
@@ -39,7 +41,7 @@
 
 - 1.2.0.0 - punctum
 
-![Virgapes](benedictus qui SSG359_40r.png)
+![Virgapes](benedictus_qui_SSG359_40r.png)
 
 ---
 
