@@ -45,11 +45,7 @@
 
 ---
 
-## This Year
-
-- Let's get editing!
-- Adding SG 359 for comparisons
-- Cross-referenced digital text with linked text, neumes, and images
+![ssg359 40r](e-codices_csg-0359_039_medium.jpg)
 
 ---
 
@@ -57,6 +53,17 @@
 
    - International Congress on Medieval Studies (May 2018, Kalamazoo)
    - Digital Humanities Conference (June 2018, Mexico City)
+
+
+---
+
+
+## This Year
+
+- Let's get editing!
+- Adding SG 359 for comparisons
+- Cross-referenced digital text with linked text, neumes, and images
+
 
 ---
 
