@@ -45,10 +45,6 @@
 
 ---
 
-![ssg359 40r](e-codices_csg-0359_039_medium.jpg)
-
----
-
 ## Conferences Last Year!
 
    - International Congress on Medieval Studies (May 2018, Kalamazoo)
