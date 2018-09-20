@@ -11,7 +11,7 @@
 * Hannah Nguyen, College of the Holy Cross
 * Marika Fox, Clark University
 
-![chant team 2018](chants2018)
+![chant team 2018](chants2018.jpg)
 
 ---
 
