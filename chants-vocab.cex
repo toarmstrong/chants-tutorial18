@@ -1,6 +1,6 @@
 TAG#DESCRIPTION#CHANTS USAGE
 <TEI>#contains a single TEI-conformant document#define language of document
-<teiheader>#metadata#contains metadata
+<teiHeader>#metadata#contains metadata
 <fileDesc>#bibliographic description of document#contains bibliographic desc
 <titleStmt>#title statement#document title and statement of responsibility
 <editionStmt>#edition statement#groups information relating to edition of text
@@ -10,7 +10,6 @@ TAG#DESCRIPTION#CHANTS USAGE
 <title>#title for any kind of work#metadata
 <editor>#statement of responsibility#metadata
 <availability>#statement of edition availability#metadata (use with @status to describe doc availability)
-<publisher>#name of publishing organization#metadata (MID)
 <p>#paragraph#marks prose paragraphs (metadata)
 ##
 <div>#text division#ChantID and FeastID
@@ -22,6 +21,10 @@ TAG#DESCRIPTION#CHANTS USAGE
 <unclear>#unclear or illegible text#for uncertain texts (use with <choice>)
 <sic>#error#used to mark a presumed error (use with <choice>)
 <corr>#correction#used with <sic> to provide a potential correction (use with <choice>)
+<cit>#citation#used to mark instances of quoted text, i.e. biblical, must contain <cit> and <q> (order does not matter)
+<q>#quoted text#quoted passage from another canonical text (use with <cit>)
+<ref>#reference#a citation for the quoted passage (use with <cit>) (use with @type to describe URN)
+<w>#word#used to wrap a word if there is internal markup 
 ##
 @n#name#enter div or ab name in tag
 &amp;#character reference for ampersand#ampersand
