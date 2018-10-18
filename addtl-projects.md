@@ -4,9 +4,9 @@
 
 _Cantus is a searchable digital archive of Latin chants, primarily from antiphonaries and breviaries._
 -	The Cantus ID number was initially built from Rene-Jean Hesbert’s system in the Corpus Antiphonalium Officii with a letter suffix for certain genres.  Chants not included in Hesbert are given an arbitrary number.
-   - 00 preceeds all CAO numbers (allows for growth in the database)
-   - Six-digit numbers for all chants not included in Hesbert
-   - *Current*: arbitrary numbers assigned to new texts with ‘a’ or ‘g’ for Office and Mass.
+    - 00 preceeds all CAO numbers (allows for growth in the database)
+     - Six-digit numbers for all chants not included in Hesbert
+     - *Current*: arbitrary numbers assigned to new texts with ‘a’ or ‘g’ for Office and Mass.
 - Records contain: text of the chant, folio number, and when possible links to digital images
 - Searchable text and music (uses Volpiano to encode staffed music as notes)
 
