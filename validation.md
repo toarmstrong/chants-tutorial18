@@ -17,7 +17,9 @@
 * Is everything edited correctly indexed to the proper imageROI and surface citation?
 * Does each cited region completely and accurately cover the relevant section?
 
-Are the paleographic rules properly formed? Are the orthographic rules properly formed?  
+Are the paleographic rules properly formed? 
+
+Are the orthographic rules properly formed?  
 
 # Chant
 
@@ -35,5 +37,9 @@ Are the paleographic rules properly formed? Are the orthographic rules properly 
 * Is every neume correctly cited?
 * Is every neume/neume syllable correctly aligned to the text?
 
-Are the rules of neumes correctly defined?  Are the rules of parallel alignment correctly defined?  Does the validation account for variations in alignment (i.e.: neumatic vs syllabic vs melismatic sections)?
+Are the rules of neumes correctly defined?  
+
+Are the rules of parallel alignment correctly defined? 
+
+Does the validation account for variations in alignment (i.e.: neumatic vs syllabic vs melismatic sections)?
 
