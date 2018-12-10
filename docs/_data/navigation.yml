@@ -1,2 +1,11 @@
 - title: Home
   url: /
+
+- title: Editing
+  url: /editing
+  
+- title: Validating
+  url: /validating
+  
+- title: Analysis
+  url: /analysis
