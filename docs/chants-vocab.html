@@ -1,0 +1,35 @@
+---
+layout: default
+title: Chants Vocab
+---
+
+<table><tr><th>TAG</th><th>DESCRIPTION</th><th>CHANTS USAGE</th></tr>
+<tr><th>&lt;TEI&gt;</th><th>contains a single TEI-conformant document</th><th>define language of document</th></tr>
+<tr><th>&lt;teiHeader&gt;</th><th>metadata</th><th>contains metadata</th></tr>
+<tr><th>&lt;fileDesc&gt;</th><th>bibliographic description of document</th><th>contains bibliographic desc</th></tr>
+<tr><th>&lt;titleStmt&gt;</th><th>title statement</th><th>document title and statement of responsibility</th></tr>
+<tr><th>&lt;editionStmt&gt;</th><th>edition statement</th><th>groups information relating to edition of text</th></tr>
+<tr><th>&lt;publicationStmt&gt;</th><th>publication statement</th><th>publication and distribution information</th></tr>
+<tr><th>&lt;sourceDesc&gt;</th><th>source description</th><th>describes original source (e-codices)</th></tr>
+
+<tr><th>&lt;title&gt;</th><th>title for any kind of work</th><th>metadata</th></tr>
+<tr><th>&lt;editor&gt;</th><th>statement of responsibility</th><th>metadata</th></tr>
+<tr><th>&lt;availability&gt;</th><th>statement of edition availability</th><th>metadata (use with @status to describe doc availability)</th></tr>
+<tr><th>&lt;p&gt;</th><th>paragraph</th><th>marks prose paragraphs (metadata)</th></tr>
+
+<tr><th>&lt;div&gt;</th><th>text division</th><th>ChantID and FeastID</th></tr>
+<tr><th>&lt;ab&gt;</th><th>anonymous block</th><th>Subsection</th></tr>
+
+<tr><th>&lt;choice&gt;</th><th>choice</th><th>groups alternate encodings ex. with &lt;abbr&gt;</th></tr>
+<tr><th>&lt;abbr&gt;</th><th>abbreviation</th><th>mark abbreviation(use with &lt;choice&gt;)</th></tr>
+<tr><th>&lt;expan&gt;</th><th>expansion of abbreviation</th><th>mark expansion(use with &lt;choice&gt;)</th></tr>
+<tr><th>&lt;unclear&gt;</th><th>unclear or illegible text</th><th>for uncertain texts (use with &lt;choice&gt;)</th></tr>
+<tr><th>&lt;sic&gt;</th><th>error</th><th>used to mark a presumed error (use with &lt;choice&gt;)</th></tr>
+<tr><th>&lt;corr&gt;</th><th>correction</th><th>used with &lt;sic&gt; to provide a potential correction (use with &lt;choice&gt;)</th></tr>
+<tr><th>&lt;cit&gt;</th><th>citation</th><th>used to mark instances of quoted text, i.e. biblical, must contain &lt;cit&gt; and &lt;q&gt; (order does not matter)</th></tr>
+<tr><th>&lt;q&gt;</th><th>quoted text</th><th>quoted passage from another canonical text (use with &lt;cit&gt;)</th></tr>
+<tr><th>&lt;ref&gt;</th><th>reference</th><th>a citation for the quoted passage (use with &lt;cit&gt;) (use with @type to describe URN)</th></tr>
+<tr><th>&lt;w&gt;</th><th>word</th><th>used to wrap a word if there is internal markup </th></tr>
+
+<tr><th>@n</th><th>name</th><th>enter div or ab name in tag</th></tr>
+<tr><th>&amp;</th><th>character reference for ampersand</th><th>ampersand</th></tr></table>
