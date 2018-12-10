@@ -1,1 +1,6 @@
+---
+sidebar:
+  nav: "docs"
+---
 
+# Analysis
