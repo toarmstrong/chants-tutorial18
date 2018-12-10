@@ -9,5 +9,6 @@ This is a project repository in summation of a directed study in digital editing
 
 Published by Toni Armstrong.
 
-[Editing](/editing)
-[Editing](https://toarmstrong.github.io/chants-tutorial18/editing.md)
+* [Editing](https://toarmstrong.github.io/chants-tutorial18/editing.html)
+* [Validating](https://toarmstrong.github.io/chants-tutorial18/validating.html)
+* [Analysis](https://toarmstrong.github.io/chants-tutorial18/analysis.html)
