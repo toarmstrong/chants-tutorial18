@@ -9,4 +9,3 @@ This is a project repository in summation of a directed study in digital editing
 
 Published by Toni Armstrong.
 
-xxx
