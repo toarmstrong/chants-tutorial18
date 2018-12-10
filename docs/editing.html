@@ -7,7 +7,7 @@ title: Editing
 
 <h2>The Basics of Editing</h2>
 
-<p><b>You will need:</b></p>
+<h3><b>You will need:</b></h3>
 <ul><li>the edition (found in chant/editions)</li>
   <li>hesbert-sequence (for feast and chant ID numbers) found in toarmstrong/chant-tutorial18/hesbert/</li>
   <li>the surface (citable image files found in chant/surfaces)</li>
@@ -47,24 +47,26 @@ title: Editing
 <li>When a chant or feast does not occur in Hesbert, it is given an arbitrary number distinguished with a preceding x.</li></ul>
 
   
-  DSE
-'DSE' stands for Digital Scholarly Edition. It serves as a scheme for our edition, since we complete it in order of the manuscript. The DSE indexes three units: the text, the reference image, and the context.
+<h3>DSE</h3>
+<p>'DSE' stands for Digital Scholarly Edition. It serves as a scheme for our edition, since we complete it in order of the manuscript. The DSE indexes three units: the text, the reference image, and the context.</p>
 
-The Text Citation
-The text citation uses a CTS URN to describe the text. CTS = Canonical Text Sequence, and URN = universally recognized name. It is a way to persistently refer to the same section of text, whether it moves texts, appears separate from the rest of a text, or appears "in order."
+<p><b>The Text Citation</b></p>
+<p>The text citation uses a CTS URN to describe the text. CTS = Canonical Text Sequence, and URN = universally recognized name. It is a way to persistently refer to the same section of text, whether it moves texts, appears separate from the rest of a text, or appears "in order."</p>
 
-Generate the text citation for chant with this template:
+<p>Generate the text citation for chant with this template:</p>
 
-urn:cts:chant:massordinary.MANUSCRIPT.VERSION:FEAST ID.CHANT ID.SUBSECTION
+<code>urn:cts:chant:massordinary.MANUSCRIPT.VERSION:FEAST ID.CHANT ID.SUBSECTION</code>
 
-The first part, urn:cts:chant:massordinary will be consistent in the chant manuscripts we have begun so far, since they are all books of chant for the Mass Ordinary.
+<p>The first part, urn:cts:chant:massordinary will be consistent in the chant manuscripts we have begun so far, since they are all books of chant for the Mass Ordinary.</p>
 
-Manuscript: for our purposes, the 'exemplar' section of the URN is the manuscript. This could be eins121, sg359, or sg339 for the manuscripts we have already begun.
-Version: either text or neumes
-Feast ID: comes from Hesbert (toarmstrong/chant-tutorial18/hesbert/) and describes each new feast, is preceded with h
-Chant ID: comes from Hesbert (toarmstrong/chant-tutorial18/hesbert/) and describes each chant within the feast day, is preceded with h
-Subsection: begins with 1 for each section within a chant, or it could be rubric for the rubric beginning each chant
-An example of a complete text citation: urn:cts:chant:massordinary.sg359.text:h008.h00.1
+<ul><li>Manuscript: for our purposes, the 'exemplar' section of the URN is the manuscript. This could be eins121, sg359, or sg339 for the manuscripts we have already begun.
+<li>Version: either text or neumes</li>
+<li>Feast ID: comes from Hesbert (toarmstrong/chant-tutorial18/hesbert/) and describes each new feast, is preceded with h</li>
+<li>Chant ID: comes from Hesbert (toarmstrong/chant-tutorial18/hesbert/) and describes each chant within the feast day, is preceded with h</li>
+<li>Subsection: begins with 1 for each section within a chant, or it could be rubric for the rubric beginning each chant</li></ul>
+
+  
+<p>An example of a complete text citation: <code>urn:cts:chant:massordinary.sg359.text:h008.h00.1</code></p>
 
 Image Region of Interest
 Generate the URN for the image region of interest (each cited section) using Cite2 (linked here: chant/surfaces).
