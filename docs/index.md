@@ -1,5 +1,7 @@
+---
 sidebar:
   nav: "docs"
+---
 
 # Welcome
 
