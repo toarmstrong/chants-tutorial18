@@ -2,4 +2,28 @@
 layout: default
 ---
 
-<h1>Validate & Verify</h1>
+<h1>Validation</h1>
+
+<h2>In Practice</h2>
+
+<p><b>Running the commands</b></p>
+<ol><li>Open the terminal. 
+  <li>Enter <code>sbt console</code> to launch the scala console in the terminal.</li>
+  <li>Enter <code>:load scripts/validate.sc</code> to load the validation script.</li>
+  <li>Enter <code>validate("PageURN")</code> replacing PageURN with the appropriate page urn (found in the last column of the dse).</li></ol>
+
+<p>To quit the scala terminal, use the command :q. To quit the terminal, use exit.</p>
+
+<p><b>Checking the results</b></p>
+
+<p>Once generated, validations live in chant/validation.</p>
+
+<p>Check <code>summary.md</code> first. Are there errors in the dse?</p>
+
+<p>Next, check <code>dse-validation.md</code>. Are the records consistent? Are there any errors?</p>
+
+<p>Finally, check <code>dse-verification.md</code>. You may want to turn on markdown preview in Atom - Packages > Markdown Preview > Toggle Preview. Follow the link all dse relations of page.... Are all areas of the page covered? Are all the boxes fully formed?</p>
+
+<h2>Theoretical</h2>
+
+<p><a href="https://toarmstrong.github.io/chants-tutorial18/">Home</a> | <a href="https://toarmstrong.github.io/chants-tutorial18/editing.html">Editing</a> | <a href="https://toarmstrong.github.io/chants-tutorial18/analysis.html">Analysis</a> | <a href="https://github.com/HCMID/chant">HCMID-Chant</a>
