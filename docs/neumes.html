@@ -1,0 +1,56 @@
+<h1>Editing Neumes with Virgapes</h1
+
+<p>The virgapes system assigns a unique identifier to every type of neume listed in Cardine's guide to neumes. With a four-part identifier, we can distinguish the number of pitches in the neume, the relative motion of the pitches, the presence and location of an episema, and the presence of a liquescent form. Each part is signified with a number and each part is separated by a period.</p>
+
+<h2>Syntax of Virgapes</h2>
+
+<code>(pitch).(id_number).(episema).(liquescence)</code>
+
+<h3>Pitch</h3>
+
+<p>Number of pitches in a neume</p>
+<ul><li>Virga has one pitch, so is encoded: <code>1.</code></li>
+<li>Pes has two, so is encoded: <code>2.</code></li></ul>
+
+<p>Must be 0, 1, 2, 3, or 4.</p>
+
+<h3>ID Number</h3>
+
+<p>Distinguishes between neumes with the same number of pitches with an arbitrary identifier, beginning with one.</p>
+
+<ul><li>Punctum is the first one pitch neume: <code>1.1.</code></li>
+  <li>Virga is the second one pitch neume: <code>1.2.</code></li></ul>
+
+<p>Begins with 1, can extend limitlessly.</p>
+
+<h3>Episema</h3>
+
+<p>Notes whether a neume has episema.</p>
+
+<ul><li>If yes, 1; if no, 0</li>
+  <li>Virga with episema: <code>1.2.1.</code></li>
+  <li>Virga without episema: <code>1.2.0.</code></li>
+
+<h3>Liquescence</h3>
+
+<p>Notes whether a neume has liquescence.</p>
+
+<ul><li>If yes, 1; if no, 0</li>
+<li>Virga with liquescence: <code>1.2.0.1</code></li>
+<li>Virga without liquescence: <code>1.2.0.0</code></li>
+<li>Virga with liquescence and episema: <code>1.2.1.1</code></li><ul>
+
+<h3>Significative letters</h3>
+
+<p>Significative letters follow the same scheme as neumes in Virgapes.  For 'pitch' they are encoded with a <code>0</code>, since they carry no pitch.</p>  
+
+<p>A significative letter A: <code>0.1.0.0</code></p>
+
+<h3>Entering neumes</h3>
+
+<p>Neumes are edited with relation to the Latin syllables.</p>
+
+<ul><li>A blank space stands for separation between syllables</li>
+<li>A dash <code>-</code> connects neumes for the same syllable</li>
+<li>Workflow: left to right (beginning with neumes closest to the text), otherwise top to bottom when a significative letter is directly above a neume</li>
+<li>Assume neumes proceed in a continuous line, except for where the scribe is out of space</li></ul>
