@@ -9,4 +9,7 @@ Each section details a chapter of this DS as it pertains to editing with the [Ch
 * [Validating](https://toarmstrong.github.io/chants-tutorial18/validating.html)
 * [Analysis](https://toarmstrong.github.io/chants-tutorial18/analysis.html)
 
-_Published by Toni Armstrong. Updated 12.10.18_
+_Published by Toni Armstrong. <br>
+Updated 12.10.18_
+
+_[site map](https://toarmstrong.github.io/chants-tutorial18/sitemap.html)_
