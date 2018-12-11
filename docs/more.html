@@ -1,0 +1,73 @@
+--- 
+layout: default
+title: Concepts in Other Projects
+---
+
+<h1>Conceptual Frameworks in other Chants Projects</h1>
+
+<h2>Cantus Manuscript </h2>
+<p><i>Cantus is a searchable digital archive of Latin chants, primarily from antiphonaries and breviaries.</i></p>
+<ul><li>The Cantus ID number was initially built from Rene-Jean Hesbert’s system in the Corpus Antiphonalium Officii with a letter suffix for certain genres.  Chants not included in Hesbert are given an arbitrary number.</li>
+<li>00 preceeds all CAO numbers (allows for growth in the database)</li>
+<li>Six-digit numbers for all chants not included in Hesbert</li>
+<li><b>Current</b>: arbitrary numbers assigned to new texts with ‘a’ or ‘g’ for Office and Mass.</li>
+<li>Records contain: text of the chant, folio number, and when possible links to digital images</li>
+<li>Searchable text and music (uses Volpiano to encode staffed music as notes)</li></ul>
+
+<p>Chant is defined as a unit of performable music and text belonging to a specific genre and canonical across manuscripts.</p>
+
+<h2>Music Encoding Initative</h2>
+<i>MEI draws on XML schema to create a machine-readable encoding system for musical documents.</i></p>
+<ul><li>Musical text (a term which can be defined either as a unit or a composite of units) and can contain musical texts within it = the largest component of tagging scheme <music></li>
+<li>Music notation is represented by three elements: note (“single pitched event”), chord (“A simultaneous sounding of two or more notes in the same layer with the same duration”), and rest (a non-sounding event)</li>
+<li>Other elements (i.e. clef, accidentals) are noted as events with specified tags</li>
+<li>Vocally performed text is encoded directly with notes <br>
+&lt;note dots="1" dur="4" oct="5" pname="c" syl="Hal-"&gt;&lt;/note&gt;</li>
+<li>Goal: to create a universally applicable music encoding scheme.</li></ul>
+    
+Chant is defined as a unit of music, which must be encoded uniquely to each manuscript and as neutrally as possible.</p>
+
+<h2>Antiphonale Synopticum</h2>
+<p><i>Antiphonale Synopticum, via Universität Regensburg is a German project collecting musical variations in specific manuscripts.</i></p>
+<ul><li>Aligns images of melodies to transcribed texts</li>
+<li>Organizes music melodies Solesmes-style</li>
+<li>Arbitrary(?) identification number, but aligned with CANTUS and CAO numbers</li>
+<li>Reviews 12 specific manuscripts</li></ul>
+
+<p>Chant is defined as a unit of text, characterized by music, and the chant is canonical across manuscripts while music varies.</p>
+
+<h2>Cantus Ultimus (via SIMSSA with Optical Musical Recognition)</h2>
+
+<p><i>Cantus Ultimus builds on the Cantus database to align transcribed texts with images of the associated manuscript page.</i></p>
+<ul><li>Volpiano-based searching for melodies & text searching</li>
+<li>Links transcriptions of music and text to image of each page</li>
+<li>Aims to use OMR to search pages for neumes (but this option does not appear to be available yet)</li></ul>
+
+<p>Chant is a music and text which appears on a specific page unit.</p>
+
+<h2>Old Hispanic Office Project</h2>
+
+<p><i>Via Bristol University, the Old Hispanic Office project uses Chant Editing and Analysis Program (CEAP) to describe Old Hispanic Chant.</i></p>
+<ul><li>Uses directionality (neutral, high, low) to describe musical notation</li>
+<li>Primary focus on melodic analysis and patterns (does not appear to associate text, though CEAP is currently offline)</li></ul>
+
+<p>Chant is defined as a unit of music, which must be encoded without regard for neume names.</p>
+
+<h2>Global Chant Database</h2>
+
+<p><i>Combines Cantus among other chant databases to make a combined repository dedicated to searching melodies.</i></p>
+<ul><li>Uses Volpiano font to make chant data searchable based on melody</li>
+<li>Search by text and melody functionality</li></ul>
+
+<p><i>see cantus</i></p>
+
+<h2>NEUMES Project</h2>
+
+<p><i>Uses a unique unicode character set to encode neumes with XML.</i></p>
+<ul><li>Using customizable unicode characters, NEUMES project encodes musical notation using unicode characters</li>
+<li>Ancestor of MEI</li>
+<li>Uses &lt;neume&gt; tags to define unique neumes and &lt;neumed_syl&gt; for each text syllable</li></ul>
+    
+<p>Defines chant as a unit of neumed musical notation which describes and characterizes text, and which is made up of unique repeatable characters.</p>
+
+<p><a href="https://toarmstrong.github.io/chants-tutorial18/">Home</a> | <a href="https://toarmstrong.github.io/chants-tutorial18/editing.html">Editing</a> | <a href="https://toarmstrong.github.io/chants-tutorial18/validating.html">Validating</a> | <a href="https://toarmstrong.github.io/chants-tutorial18/analysis.html">Analysis</a> | <a href="https://github.com/HCMID/chant">HCMID-Chant</a></p>
