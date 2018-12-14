@@ -40,3 +40,5 @@
 ## Further Reflection
 
 The soft skills I have gained through this tutorial include a broader understanding of the goal and meaning of a digital edition-- and the hard skills: everything I need to know to create and validate an edition from start to finish.  This tutorial has enabled the chants project to create and improve editing standards, implement validation, and provide training for new and returning members.  It has given the chant project longevity through documentation and training, and has improved the scholarship produced by the chant team by improving our editing and validation standards.  
+
+On a personal level, I am more seriously considering a future career in digital humanities or information science.  I have connected my work with chant to my library and museum work-- since editing is about how we create narratives and frame existing material.  I am excited to return to this work to consider the digital environment for preserving and organizing knowledge.
