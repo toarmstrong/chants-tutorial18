@@ -37,4 +37,6 @@
 9. Add to and improve documentation and methodology texts
     1. For editing and validating methodologies see [here](https://toarmstrong.github.io/chants-tutorial18/); for the Chant Editor’s Quick Start Guide [here](https://github.com/HCMID/chant/wiki/Chant-Editor's-Quick-Start-Guide) 
 
-### Extended goals
+## Further Reflection
+
+The soft skills I have gained through this tutorial include a broader understanding of the goal and meaning of a digital edition-- and the hard skills: everything I need to know to create and validate an edition from start to finish.  This tutorial has enabled the chants project to create and improve editing standards, implement validation, and provide training for new and returning members.  It has given the chant project longevity through documentation and training, and has improved the scholarship produced by the chant team by improving our editing and validation standards.  
